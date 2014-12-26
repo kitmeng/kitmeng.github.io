@@ -130,5 +130,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bourbon
   github-pages
+  jekyll
   neat
