@@ -5,11 +5,20 @@
   @include outer-container
 
 .content
+  margin-top: 5%
   @include span-columns(8)
   @include shift(1)
 
 .navigation
   @include span-columns(3)
+
+#site-nav
+  position: fixed
+  right: em(25px)
+  ul
+    list-style-type: none
+    li.active
+      margin-left: em(-20px)
 
 .post-list
   list-style-type: none
