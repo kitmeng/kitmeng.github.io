@@ -1,5 +1,15 @@
 @import 'bourbon'
 @import 'neat'
 
-.content
+.content-container
   @include outer-container
+
+.content
+  @include span-columns(8)
+  @include shift(1)
+
+.navigation
+  @include span-columns(3)
+
+.post-list
+  list-style-type: none
