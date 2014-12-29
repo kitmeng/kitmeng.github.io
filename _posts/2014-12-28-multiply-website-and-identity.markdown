@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Multiply website and identity"
+slug:   "multiply-website-and-identity"
 date:   2014-12-28 14:37:43
 categories: jekyll update
 ---

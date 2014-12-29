@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Brandon vs Whitney"
+slug:   "brandon-vs-whitney"
 date:   2014-12-25 14:37:43
 categories: jekyll update
 ---

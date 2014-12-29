@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Font files off Typekit"
+slug:   "font-files-off-typekit"
 date:   2014-12-25 14:37:43
 categories: jekyll update
 ---

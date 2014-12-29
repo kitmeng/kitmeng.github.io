@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "DN x iPhone"
+slug:   "dn-x-iphone"
 date:   2014-12-24 14:37:43
 categories: jekyll update
 ---

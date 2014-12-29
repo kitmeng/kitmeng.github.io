@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fear, regression and creativity"
+slug:   "fear-regression-and-creativity"
 date:   2014-12-26 14:37:43
 categories: jekyll update
 ---
