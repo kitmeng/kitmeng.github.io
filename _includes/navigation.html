@@ -14,7 +14,7 @@
   <ul>
     {% for post in site.posts %}
       {% if post.title %}
-        <li>
+        <li class="{% if forloop.first %}active{% endif %}">
           <a href="#{{ post.slug }}">{{ post.title }}</a>
         </li>
       {% endif %}
