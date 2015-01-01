@@ -9,7 +9,7 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     blankslate (2.1.2.4)
-    bourbon (4.0.2)
+    bourbon (4.1.0)
       sass (~> 3.3)
       thor
     celluloid (0.16.0)
