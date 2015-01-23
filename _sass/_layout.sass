@@ -3,24 +3,35 @@
 @import "bourbon/bourbon"
 @import "neat/neat"
 
+$mobile: new-breakpoint(max-width 480px 4)
+$tablet: new-breakpoint(max-width 960px 6)
+
 h2
   font-weight: normal
   font-size: 2em
 
+.container
+  @include outer-container(100%)
+
 .content-container
-  @include outer-container
+  @include span-columns(6)
+  @include shift(3)
+  @include media($tablet)
+    @include shift(1)
+    @include span-columns(4)
+  @include media($mobile)
+    @include shift(0)
+    @include span-columns(4)
 
 .content
-  margin-top: 5%
-  @include span-columns(8)
-  @include shift(1)
+  margin: 5% auto 0
+  width: 80%
 
 .navigation
   @include span-columns(3)
 
 #site-nav
   position: fixed
-  width: 20%
   right: em(25px)
   text-align: right
   ul
