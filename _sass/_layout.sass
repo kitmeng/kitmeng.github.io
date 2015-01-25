@@ -9,6 +9,7 @@ $tablet: new-breakpoint(max-width 960px 6)
 h2
   font-weight: normal
   font-size: 2em
+  line-height: 40px
 
 .container
   @include outer-container(100%)
@@ -24,7 +25,7 @@ h2
     @include span-columns(4)
 
 .content
-  margin: 5% auto 0
+  margin: 9% auto 0
   width: 80%
 
 .navigation
@@ -47,7 +48,7 @@ h2
         color: #ccc
         text-decoration: none
         &:hover
-          transition: all 0.8s ease
+          transition: all 0.6s ease
           color: #000
 
 .post-list
@@ -60,3 +61,4 @@ h2
   right: 0
   width: 70px
   height: 70px
+  margin-top: 20px

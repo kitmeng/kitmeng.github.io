@@ -6,3 +6,5 @@ gem 'jekyll'
 
 gem 'bourbon'
 gem 'neat'
+
+gem 'yajl-ruby'
