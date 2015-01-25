@@ -6,6 +6,14 @@ date:   2014-12-26 14:37:43
 categories: jekyll update
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">
 
-tattoo skyscraper boat bicycle artisanal market pen hotdog plastic network disposable denim -space katana semiotics tanto sub-orbital warehouse modem table garage euro-pop soul-delay -ware hacker sign gang decay shanty town numinous neon refrigerator assault range-rover vinyl Kowloon footage girl industrial grade tiger-team meta- sunglasses narrative faded dead dolphin sentient neural order-flow franchise office vehicle saturation point singularity rebar drone otaku DIY voodoo god Chiba wonton soup man cardboard assassin augmented reality sensory apophenia stimulate corporation alcohol j-pop bridge
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">
+
+My communication course art direction subject required me to come up with an art direction or art concept that would represent myself as a designer. For this assignment, I chose to feature one of my key skills, which is "adaptibility".
+
+This was featured through the half-animal humans, which represens their ability to adapt for survival in aquatic, air and artic environments. The quotes further describes the type of spirit that I aim to send out through my design.
+ 
+The promo products I decided to use to extend my design on are such as name cards, a multi-card reader and ear plugs. The multi-card reader was chosen for its function of being "adaptable", where it functions to read not only one card but 4-5 at the same time. This makes it a very handy and useful item. As for the earplugs, I see it as an 'adaptable" item because you can listen to music on loud volumes without disturbing other people, or, you can listen to music when you want to avoid all the chatters in a loud environment.
+ 
+The watercolour background graphics were created in colours of turquoise, blue, purple, burgundy and black. I typically enjoy cool colours with rich essence to it because they send out a mood of being rich (in quality of the mind), alluring, and feminity with and edge.
