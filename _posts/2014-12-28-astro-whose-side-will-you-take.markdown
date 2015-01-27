@@ -3,7 +3,7 @@ layout: post
 title:  "Astro Whose Side Will You Take?"
 slug:   "astro-whose-side-will-you-take"
 date:   2014-12-28 14:37:43
-categories: jekyll update
+categories: Work
 ---
 
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">

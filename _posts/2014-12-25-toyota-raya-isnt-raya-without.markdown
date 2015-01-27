@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "DN x iPhone"
-slug:   "dn-x-iphone"
-date:   2014-12-24 14:37:43
-categories: jekyll update
+title:  "Toyota Raya Isn't Raya Without..."
+slug:   "toyota-raya-isnt-raya-without"
+date:   2014-12-25 14:37:43
+categories: Work
 ---
 
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">

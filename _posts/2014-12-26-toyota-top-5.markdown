@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Fear, regression and creativity"
-slug:   "fear-regression-and-creativity"
+title:  "Toyota Top 5"
+slug:   "toyota-top-5"
 date:   2014-12-26 14:37:43
-categories: jekyll update
+categories: Work
 ---
 
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">

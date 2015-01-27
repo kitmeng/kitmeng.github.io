@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Testing 123"
-slug:   "testing-123"
+title:  "Various Logotypes 2014-"
+slug:   "various-logo-2014"
 date:   2013-12-25 14:37:43
-categories: jekyll update
+categories: Work
 ---
 
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">
