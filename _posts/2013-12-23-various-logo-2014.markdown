@@ -14,4 +14,4 @@ tattoo skyscraper boat bicycle artisanal market pen hotdog plastic network dispo
 
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">
 
-<div id="whitespace"></div>
+<div class="whitespace"></div>
