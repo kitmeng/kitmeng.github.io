@@ -8,8 +8,8 @@ categories: Work
 
 Many people who have cold sores have attempted to cover them up with no success. So we created social posts for Polysporin’s Cold Sore Healing Patch that communicate it is now possible to “Hide your cold sore, not yourself”.
 
-<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/01.png" alt="Mountain View" style="width:100%;">
-<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/02.png" alt="Mountain View" style="width:100%;">
-<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/03.png" alt="Mountain View" style="width:100%;">
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/01.png" alt="Mountain View" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/02.png" alt="Mountain View" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/03.png" alt="Mountain View" style="width:100%;"></p>
 
 <div style="padding-bottom:50px;"></div>
