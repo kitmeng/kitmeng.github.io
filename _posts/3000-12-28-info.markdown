@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  ""
+title:  "Stupid Post"
 slug:   "info"
 date:   3000-12-28 14:37:43
 categories: Work
 ---
 
+<div id="h5">Kit Meng is an art director, front-end developer and designer based in KL, Malaysia working in branding, and interaction design.</div>
 
 <div style="padding-bottom:50px;"></div>
