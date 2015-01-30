@@ -34,4 +34,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 
-<div style="padding-bottom:50px;"></div>
+<div style="padding-bottom:100px;"></div>

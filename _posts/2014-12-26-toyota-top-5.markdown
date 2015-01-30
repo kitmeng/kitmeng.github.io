@@ -19,5 +19,4 @@ Many people who have cold sores have attempted to cover them up with no success.
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/03.png" alt="Mountain View" style="width:100%;"></p>
 
 
-
-<div style="padding-bottom:50px;"></div>
+<div style="padding-bottom:100px;"></div>
