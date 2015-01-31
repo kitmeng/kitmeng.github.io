@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Kit Meng is an art director, front-end developer and designer based in KL, Malaysia working in branding, and interaction design."
-slug:   "info"
-date:   3000-12-28 14:37:43
-categories: Info
----
-
-<div style="padding-bottom:100px;"></div>

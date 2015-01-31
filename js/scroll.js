@@ -43,3 +43,8 @@ $(window).scroll(function(){
          .end().filter("[href=#"+id+"]").parent().addClass("active");
    }
 });
+
+$(document).on('click', '.js-about', function(e){
+  e.preventDefault();
+  $("html, body").animate({ scrollTop: 0 }, "fast");
+});
