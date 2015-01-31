@@ -15,5 +15,4 @@ markdown: kramdown
 
 gems: [neat]
 
-pygments: false
 highlighter: rogue
