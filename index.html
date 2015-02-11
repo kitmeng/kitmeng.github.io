@@ -8,7 +8,7 @@ layout: default
     <li>
       {% include about.html %}
     </li>
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
 

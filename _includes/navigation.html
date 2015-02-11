@@ -12,7 +12,7 @@
   </a>
 
   <ul>
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       {% if post.title %}
         <li class="{% if forloop.first %}active{% endif %}">
           <a href="#{{ post.slug }}">{{ post.title }}</a>
@@ -20,4 +20,10 @@
       {% endif %}
     {% endfor %}
   </ul>
+  {% if paginator.previous_page %}
+    <a class="page_navigator" href="{{ paginator.previous_page_path }}">Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="page_navigator" href="{{ paginator.next_page_path }}">Olders</a>
+  {% endif %}
 </nav>
