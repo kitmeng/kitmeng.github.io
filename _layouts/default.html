@@ -7,7 +7,11 @@
 
     <div class="container">
 
-      <div class="content-container">
+      <a id="avatar" class="js-menu" title="Menu">
+        <span class="about"></span>
+      </a>
+
+      <div class="content-container" data-shift>
 
         <div class="content">
           {{ content }}
@@ -15,7 +19,7 @@
 
       </div>
 
-      <div class="navigation">
+      <div class="navigation" data-shift-nav>
         {% include navigation.html %}
       </div>
 

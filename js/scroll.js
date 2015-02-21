@@ -14,7 +14,7 @@ var lastId,
 // so we can get a fancy scroll animation
 menuItems.click(function(e){
   var href = $(this).attr("href"),
-      o = href === "#" ? 0 : $(href).offset().top-topMenuHeight+280;
+      o = href === "#" ? 0 : $(href).offset().top-topMenuHeight+180;
   $('html, body').stop().animate({
       scrollTop: o
   }, 300);
@@ -44,7 +44,26 @@ $(window).scroll(function(){
    }
 });
 
-$(document).on('click', '.js-about', function(e){
-  e.preventDefault();
-  $("html, body").animate({ scrollTop: 0 }, "fast");
+$(document).ready(function(){
+  loadDefault();
 });
+
+$(window).on('resize', function() {
+  loadDefault();
+});
+
+loadDefault = function() {
+  // TODO: .off events
+  if ( $(window).width() > 961 )
+    return;
+
+  $('.js-menu').on('click', function(e){
+    e.preventDefault();
+    $('div[data-shift]').toggleClass('shift');
+    $('div[data-shift-nav]').toggleClass('shift-nav');
+  });
+
+  $('#site-nav li a').on('click', function(){
+    $('.js-menu').click();
+  });
+}
