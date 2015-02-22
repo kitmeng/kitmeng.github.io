@@ -6,18 +6,16 @@ date:   2014-12-28 14:37:43
 categories: Work
 ---
 
-<img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/01.jpg" alt="Mountain View" style="width:100%;">
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/02.jpg" alt="Mountain View" style="width:100%;">
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/03.jpg" alt="Mountain View" style="width:100%;">
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/04.jpg" alt="Mountain View" style="width:100%;">
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/05.jpg" alt="Mountain View" style="width:100%;">
 
-<img src="https://dl.dropboxusercontent.com/u/3998133/Test/800x500.jpg" alt="Mountain View" style="width:100%;">
+<p class="textindent">No longer a battle-of-the-bands competition, Unplugged now features 3 days of great workshops and seminars on music ministry development. Come learn from some of the best musicians, vocal trainers and ministry leaders around as they teach lessons on band dynamics, music team building and worship leading.</p>
 
-<!--Lorem ipsum dolor sit amet,-->
+What’s more, there will also be live worship throughout the conference, plus a Finale Night full of great band performances. And here’s the best part - Finale Night performance slots are open to all bands on a first come first served basis. 
 
-<p class="textindent">consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+The first rebranding in five years since the Inter-Brethren Assemblies' Unplugged band competition first started, and also transitioning from what used to be just a band competition to a music and worship workshop, we decided to overhaul the visual identity to something fresh and much livelier than previous years. Print materials for this year include A3 posters, A4 registration forms and A5 conference booklets.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-<div class="whitespace"></div
+<div class="whitespace"></div>
