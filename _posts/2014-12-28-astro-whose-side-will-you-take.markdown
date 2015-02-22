@@ -5,12 +5,13 @@ slug:   "astro-whose-side-will-you-take"
 date:   2014-12-28 14:37:43
 categories: Work
 ---
-
+<p>
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/01.jpg" alt="Mountain View" style="width:100%;">
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/02.jpg" alt="Mountain View" style="width:100%;">
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/03.jpg" alt="Mountain View" style="width:100%;">
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/04.jpg" alt="Mountain View" style="width:100%;">
 <img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/05.jpg" alt="Mountain View" style="width:100%;">
+</p>
 
 <p class="textindent">No longer a battle-of-the-bands competition, Unplugged now features 3 days of great workshops and seminars on music ministry development. Come learn from some of the best musicians, vocal trainers and ministry leaders around as they teach lessons on band dynamics, music team building and worship leading.</p>
 
