@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Astro Whose Side Will You Take?"
-slug:   "astro-whose-side-will-you-take"
-date:   2014-12-28 14:37:43
+title:  "The Lexus Chronicles"
+slug:   "the-lexus-chronicles"
+date:   2014-12-30 14:37:43
 categories: Work
 ---
 
