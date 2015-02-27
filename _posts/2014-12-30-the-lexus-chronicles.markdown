@@ -26,7 +26,13 @@ Illustrator : Running Snail Studio
 Copywriter : Cherry Lee
 Account Manager : Adeline Quek
 
-<div class="box-orange">Awardsv</div>
+<div class="box-orange" style="border: 20px solid #FFCDA2; margin: 25px;">Awards</div>
+
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
 
 <p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
 
