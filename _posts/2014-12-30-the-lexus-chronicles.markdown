@@ -11,22 +11,22 @@ categories: Work
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/04.jpg" alt="Mountain View" style="width:100%;"></p>
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/05.jpg" alt="Mountain View" style="width:100%;"></p>
 
-<div class="box-orange" style="border: 1px solid #EBA5FF; padding: 0; text-align: center; width:10%;">Awards</div>
+<div class="box-orange" style="border: 1px solid #EBA5FF; padding: 5px; text-align: center; width:10%;">Description</div>
 
 <p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
 
-<div class="box-orange" style="border: 1px solid #9AD8D7; padding: 0; text-align: center; width:10%;">Awards</div>
+<div class="box-orange" style="border: 1px solid #9AD8D7; padding: 5px; text-align: center; width:10%;">Credits</div>
 
 <p class="textindent">
-Client : Lexus Malaysia
-Agency : Saatchi &#38; Saatchi Arachnid
-Creative Director : Kelvin Wong, Pickers Cheah
-Art Director : Kit Meng
-Illustrator : Running Snail Studio
-Copywriter : Cherry Lee
+Client : Lexus Malaysia<br>
+Agency : Saatchi &#38; Saatchi Arachnid<br>
+Creative Director : Kelvin Wong, Pickers Cheah<br>
+Art Director : Kit Meng<br>
+Illustrator : Running Snail Studio<br>
+Copywriter : Cherry Lee<br>
 Account Manager : Adeline Quek
 
-<div class="box-orange" style="border: 1px solid #FFCDA2; padding: 0; text-align: center; width:10%;">Awards</div>
+<div class="box-orange" style="border: 1px solid #FFCDA2; padding: 5px; text-align: center; width:10%;">Awards</div>
 
 <p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
 
