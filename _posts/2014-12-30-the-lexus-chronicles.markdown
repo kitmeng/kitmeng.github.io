@@ -22,7 +22,7 @@ Account Manager : Adeline Quek
 
 <div class="box-orange" style="border: 1px solid #FFCDA2; margin-bottom: 20px; text-align: center; width:10%;">Awards</div>
 
-<div style="margin: 30px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
+<div style="margin: 20px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
 
 Art Direction/Craft for Cyber &#38; Mobile
 
