@@ -13,11 +13,10 @@ categories: Work
 
 <div class="box-purple" style="border: 1px solid #EBA5FF; margin-bottom: 20px; text-align: center; width:15%;">Description</div>
 
-<p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
+<p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.</p>
 
 <div class="box-green" style="border: 1px solid #9AD8D7; margin-bottom: 20px; text-align: center; width:10%;">Credits</div>
 
-<p class="textindent">
 Client : Lexus Malaysia<br>
 Agency : Saatchi &#38; Saatchi Arachnid<br>
 Creative Director : Kelvin Wong, Pickers Cheah<br>
@@ -28,7 +27,7 @@ Account Manager : Adeline Quek
 
 <div class="box-orange" style="border: 1px solid #FFCDA2; margin-bottom: 20px; text-align: center; width:10%;">Awards</div>
 
-<p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
+Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
 
 
 <div class="whitespace"></div>
