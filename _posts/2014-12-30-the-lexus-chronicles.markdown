@@ -27,7 +27,7 @@ Account Manager : Adeline Quek
 Art Direction/Craft for Cyber &#38; Mobile
 
 <div class="h_tiny">(MERIT)</div>
-		<div class="h_tiny">KANCIL AWARDS 2014</div>
+<div class="h_tiny">KANCIL AWARDS 2014</div>
 
 <!--<div style="margin: 30px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
 
