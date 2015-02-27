@@ -6,7 +6,7 @@ date:   2014-12-30 14:37:43
 categories: Work
 ---
 
-<div class="box-purple" style="border: 1px solid #EBA5FF; margin-bottom: 20px; text-align: center; width:15%; box-sizing: border-box;">Description</div>
+<div class="box-purple" style="border: 1px solid #EBA5FF; margin-bottom: 20px; text-align: center; box-sizing: border-box;">Description</div>
 
 <p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.</p>
 
