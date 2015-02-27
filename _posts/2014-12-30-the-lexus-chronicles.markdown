@@ -24,10 +24,10 @@ Account Manager : Adeline Quek
 
 <div style="margin: 20px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
 
-Art Direction/Craft for Cyber &#38; Mobile
-
-<div class="h_tiny">(MERIT)</div>
-<div class="h_tiny">KANCIL AWARDS 2014</div>
+<p>Art Direction/Craft for Cyber &#38; Mobile
+<h3>(MERIT)</h3>
+<h3>KANCIL AWARDS 2014</h3>
+</p>
 
 <!--<div style="margin: 30px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
 
