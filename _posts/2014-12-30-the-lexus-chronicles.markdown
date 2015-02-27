@@ -11,11 +11,11 @@ categories: Work
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/04.jpg" alt="Mountain View" style="width:100%;"></p>
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/05.jpg" alt="Mountain View" style="width:100%;"></p>
 
-<div class="box-purple">Description</div>
+<div class="box-orange" style="border: 1px solid #EBA5FF; padding: 0; text-align: center; width:10%;">Awards</div>
 
 <p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
 
-<div class="box-green">Credits</div>
+<div class="box-orange" style="border: 1px solid #9AD8D7; padding: 0; text-align: center; width:10%;">Awards</div>
 
 <p class="textindent">
 Client : Lexus Malaysia
@@ -26,13 +26,7 @@ Illustrator : Running Snail Studio
 Copywriter : Cherry Lee
 Account Manager : Adeline Quek
 
-<div class="box-orange" style="border: 20px solid #FFCDA2; margin: 25px;">Awards</div>
-
-    width: 300px;
-    padding: 25px;
-    border: 25px solid navy;
-    margin: 25px;
-}
+<div class="box-orange" style="border: 1px solid #FFCDA2; padding: 0; text-align: center; width:10%;">Awards</div>
 
 <p class="textindent">Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
 
