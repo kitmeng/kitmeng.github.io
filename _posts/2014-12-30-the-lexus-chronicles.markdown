@@ -22,9 +22,15 @@ Account Manager : Adeline Quek
 
 <div class="box-orange" style="border: 1px solid #FFCDA2; margin-bottom: 20px; text-align: center; width:10%;">Awards</div>
 
-<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;">
 
-Created in real time and shaped by the suggestions of the fans, The Lexus Chronicles, Lexus’ Social Graphic Novel, not only engaged the audience but created with them. Fans got to drive the story by suggesting and voting and even name the characters and we got to feature the Lexus cars in action in a (graphic) novel way.
+<p>Art Direction/Craft for Cyber &#38; Mobile (MERIT)
+KANCIL AWARDS 2014</p>
+
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;">
+
+<p>Art Direction/Craft for Cyber &#38; Mobile (MERIT)
+KANCIL AWARDS 2014</p>
 
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/01.jpg" alt="Mountain View" style="width:100%;"></p>
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/sample-project/02.jpg" alt="Mountain View" style="width:100%;"></p>
