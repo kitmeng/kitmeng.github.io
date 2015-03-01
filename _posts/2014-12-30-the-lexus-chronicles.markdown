@@ -12,22 +12,28 @@ categories: Work
 
 <div class="box box-green">Credits</div>
 
-Client : Lexus Malaysia<br>
-Agency : Saatchi &#38; Saatchi Arachnid<br>
-Creative Director : Kelvin Wong, Pickers Cheah<br>
-Art Director : Kit Meng<br>
-Illustrator : Running Snail Studio<br>
-Copywriter : Cherry Lee<br>
-Account Manager : Adeline Quek
+<ul class="ul ul-credits">
+	<li>Client : Lexus Malaysia</li>
+	<li>Agency : Saatchi &#38; Saatchi Arachnid</li>
+	<li>Creative Director : Kelvin Wong, Pickers Cheah</li>
+	<li>Art Director : Kit Meng</li>
+	<li>Illustrator : Running Snail Studio</li>
+	<li>Copywriter : Cherry Lee</li>
+	<li>Account Manager : Adeline Quek</li>
+</ul>
+
 
 <div class="box box-orange">Awards</div>
 
-<div style="margin: 20px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
 
-<p>Art Direction/Craft for Cyber &#38; Mobile
+Art Direction/Craft for Cyber &#38; Mobile (MERIT)
+KANCIL AWARDS 2014
+
+<!--<p>Art Direction/Craft for Cyber &#38; Mobile
 <h3>(MERIT)</h3>
 <h3>KANCIL AWARDS 2014</h3>
-</p>
+</p>-->
 
 <!--<div style="margin: 30px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
 

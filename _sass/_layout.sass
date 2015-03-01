@@ -15,7 +15,7 @@ h2
 h3
   font-weight: normal
   font-size: 0.7em
-  text-transform: uppercase
+  text-transform: uppercase  
 
 a[href]
   color: black
@@ -89,7 +89,7 @@ a[href]
   list-style-type: none
 
 .p
-  margin-bottom: 20%
+  /*margin-bottom: 20%*/
 
 .about
   background: url('images/avatar.png') no-repeat top left
@@ -99,14 +99,8 @@ a[href]
   width: 70px
   height: 70px
   margin: 9% auto 0
-  box-shadow: 0px 5px 0px 3px rgba(0, 0, 0, 0.5)
+  box-shadow: 0px 5px 0px 3px rgba(0, 0, 0, 0.2)
   border-radius: 100%
-
-.whitespace
-  margin-bottom: 200px
-
-.textindent
-  text-indent: 50px
 
 .js-no-shift
   right: 0
@@ -121,6 +115,14 @@ a[href]
   @include media($mobile)
     right: 80%
 
+///////////*Added by KM*///////////
+
+.whitespace
+  margin-bottom: 200px
+
+.textindent
+  text-indent: 50px  
+
 .box
   border: 1px solid #ccc
   position: relative
@@ -133,3 +135,9 @@ a[href]
     border-color: #FFCDA2
   &.box-purple
     border-color: #EBA5FF
+
+.ul-credits
+  /*text-indent: 50px*/
+  padding-left: 50px
+  list-style-type: none
+
