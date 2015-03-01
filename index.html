@@ -5,9 +5,6 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    <li>
-      {% include about.html %}
-    </li>
     {% for post in paginator.posts %}
       <li>
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
@@ -18,8 +15,14 @@ layout: default
         <a class="post-content" >{{ post.content }}</a>
       </li>
     {% endfor %}
+    <!--
+    <li>
+      {% include about.html %}
+    </li>
+    -->  
   </ul>
 
-<!--   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+<!--Subscribe via RSS-->
+<!--<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
 
 </div>
