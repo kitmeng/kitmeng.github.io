@@ -65,6 +65,7 @@ a[href]
   display: block
   right: 0
   top: 0
+  transition: all 400ms ease 0s
   z-index: 999
   &:hover
     transform: scale(1.1)
@@ -72,9 +73,12 @@ a[href]
     transform: scale(0.8)
 
 #site-nav
+  .nav-container
+    background-color: #FDFDFD
+    margin-right: em(-40px)
+    display: inline-block
   ul
     list-style-type: none
-    margin-right: em(-40px)
     li
       transition: all 0.6s
       &.active
@@ -114,6 +118,11 @@ a[href]
   @include media($mobile)
     right: 20%
 
+.shift-line
+  width: 50% !important
+  @include media($mobile)
+    width: 20% !important
+
 .shift
   right: 42%
   @include media($mobile)
@@ -151,5 +160,4 @@ hr.rainbow-line
   height: 1px
   width: 100%
   border: none
-
-
+  transition: all 400ms ease 0s
