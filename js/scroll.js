@@ -58,7 +58,8 @@ loadDefault = function() {
     return;
 
   $('.js-menu').on('click', function(e){
-    e.preventDefault();
+    // See http://stackoverflow.com/a/21053259
+    e.stopImmediatePropagation();
     $('div[data-shift]').toggleClass('shift');
     $('div[data-shift-nav]').toggleClass('shift-nav');
   });
