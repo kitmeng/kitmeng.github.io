@@ -62,6 +62,7 @@ loadDefault = function() {
     e.stopImmediatePropagation();
     $('div[data-shift]').toggleClass('shift');
     $('div[data-shift-nav]').toggleClass('shift-nav');
+    $('hr[data-shift-line]').toggleClass('shift-line');
   });
 
   $('#site-nav li a').on('click', function(){
