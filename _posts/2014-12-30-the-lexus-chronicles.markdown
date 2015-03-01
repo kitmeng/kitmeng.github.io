@@ -25,10 +25,21 @@ categories: Work
 
 <div class="box box-orange">Awards</div>
 
-<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
 
-Art Direction/Craft for Cyber &#38; Mobile (MERIT)
-KANCIL AWARDS 2014
+<ul class="ul ul-credits">
+	<li>
+		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
+		Art Direction/Craft for Cyber &#38; Mobile (MERIT)<br>
+		KANCIL AWARDS 2014
+	</li>
+	<li>
+		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
+		Art Direction/Craft for Cyber &#38; Mobile (MERIT)<br>
+		KANCIL AWARDS 2014
+	</li>
+</ul>
+
+
 
 <!--<p>Art Direction/Craft for Cyber &#38; Mobile
 <h3>(MERIT)</h3>
