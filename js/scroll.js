@@ -53,11 +53,10 @@ $(window).on('resize', function() {
 });
 
 loadDefault = function() {
-  // TODO: .off events
-  if ( $(window).width() > 961 )
-    return;
-
   $('.js-menu').on('click', function(e){
+    if ( $(window).width() > 961 )
+      return;
+
     // See http://stackoverflow.com/a/21053259
     e.stopImmediatePropagation();
     $('div[data-shift]').toggleClass('shift');
