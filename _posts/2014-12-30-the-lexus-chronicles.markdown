@@ -12,7 +12,7 @@ categories: Work
 
 
 <p class="textindent">To recruit new fans for Lexus' Facebook page, we created 'The Lexus Chronicles', a Social Graphic Novel shaped by the suggestions of the fans.
-Utilizing Facebook's native social sharing features, fans were able to drive the story along by 'voting' on the outcome. The result? We were able to engage Lexus' fans and feature Lexus cars in a (graphic) novel way.
+Utilizing Facebook's native social sharing features, fans were able to drive the story along by choosing the next course of action for the characters to take. The result? We were able to engage Lexus' fans and feature Lexus cars in a (graphic) novel way.
 <br><br>
 This project received Merit, Art Direction/Craft in Kancil Awards 2014.</p>
 
