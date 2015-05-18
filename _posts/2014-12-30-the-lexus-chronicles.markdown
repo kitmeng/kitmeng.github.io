@@ -12,10 +12,11 @@ categories: Work
 Utilizing Facebook's native social sharing features, fans were able to drive the story along by choosing the next course of action for the characters to take. The result? We were able to engage Lexus' fans and feature Lexus cars in a (graphic) novel way.</p>-->
 
 
-<p class="textindent">The Lexus Chronicles is a real-time social graphic novel shaped by the suggestions of the fans. The story blablabla was told in the form of weekly social postings.
-Utilizing Facebook's native social sharing features, fans were able to drive the story along - every like, share and comment contributed to the actions.
-<br><br>
-This project received <b>Merit, Art Direction/Craft</b> in <b>Kancil Awards 2014</b>.</p>
+<p class="textindent">
+	'The Lexus Chronicles' is a real-time social graphic novel shaped by the fans themselves. The story unfolds with every like, share and comment, with every social interaction determining the outcome of the story.
+</p>
+
+<p>This project received <b>Merit, Art Direction/Craft</b> in <b>Kancil Awards 2014</b>.</p>
 
 
 <p>
@@ -112,8 +113,10 @@ This project received <b>Merit, Art Direction/Craft</b> in <b>Kancil Awards 2014
 		<li>Illustrator : Running Snail Studio</li>
 		<li>Copywriter : Cherry Lee</li>
 		<li>Account Manager : Adeline Quek</li>
-	</ul>
+	</ul>	
 </p>
+
+
 
 <!--
 <div class="box box-orange">Awards</div>
