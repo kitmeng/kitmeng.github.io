@@ -21,8 +21,8 @@ Utilizing Facebook's native social sharing features, fans were able to drive the
 
 <p>
 	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/01.fw.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
+		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/01.png" alt="" style="width:100%;">
+		The masthead.
 	</h3>
 </p>
 
