@@ -2,11 +2,11 @@
 layout: post
 title:  "Toyota Top 5 Social Posts"
 slug:   "toyota-top-5"
-date:   2014-12-26 14:37:43
+date:   2014-12-25 14:37:43
 categories: Work
 ---
 
-<p>Collection of social postings for Toyota.</p>
+<p>With the 2014 World Cup looming, we created a set of contexual social postings.</p>
 
 <p>
 	<h3>
@@ -28,3 +28,5 @@ categories: Work
 		Fans even got to name the characters.
 	</h3>
 </p>
+
+<div class="whitespace"></div>

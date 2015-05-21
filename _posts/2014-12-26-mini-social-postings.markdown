@@ -2,7 +2,7 @@
 layout: post
 title:  "MINI Social Postings"
 slug:   "mini-social-postings"
-date:   2014-12-30 14:37:43
+date:   2014-12-26 14:37:43
 categories: Work
 ---
 

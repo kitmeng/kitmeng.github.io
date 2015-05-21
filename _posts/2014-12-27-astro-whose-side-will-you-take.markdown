@@ -2,7 +2,7 @@
 layout: post
 title:  "Astro Whose Side Will You Take?"
 slug:   "astro-whose-side-will-you-take"
-date:   2014-12-28 14:37:43
+date:   2014-12-27 14:37:43
 categories: Work
 ---
 <p>
@@ -26,3 +26,5 @@ categories: Work
 <p>The first rebranding in five years since the Inter-Brethren Assemblies' Unplugged band competition first started, and also transitioning from what used to be just a band competition to a music and worship workshop, we decided to overhaul the visual identity to something fresh and much livelier than previous years. Print materials for this year include A3 posters, A4 registration forms and A5 conference booklets.</p>
 
 <p></p>
+
+<div class="whitespace"></div>

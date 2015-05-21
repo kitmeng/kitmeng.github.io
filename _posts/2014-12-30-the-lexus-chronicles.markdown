@@ -103,6 +103,9 @@ Utilizing Facebook's native social sharing features, fans were able to drive the
 	</h3>
 </p>
 
+<div class="whitespace"></div>
+
+<!--
 <p>
 	<div class="box box-green">Credits</div>
 	<ul class="ul ul-credits">
@@ -115,6 +118,7 @@ Utilizing Facebook's native social sharing features, fans were able to drive the
 		<li>Account Manager : Adeline Quek</li>
 	</ul>	
 </p>
+-->
 
 
 
