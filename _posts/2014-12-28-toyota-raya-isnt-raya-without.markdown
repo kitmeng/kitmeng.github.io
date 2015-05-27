@@ -24,12 +24,6 @@ categories: Work
 
 <p>
 	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/02.png" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/03.png" alt="" style="width:100%;">
 	</h3>
 </p>

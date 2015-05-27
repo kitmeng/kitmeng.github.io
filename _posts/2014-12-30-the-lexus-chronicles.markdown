@@ -33,6 +33,8 @@ Utilizing Facebook's native social sharing features, fans were able to drive the
 	</h3>
 </p>
 
+<p>The story was told through weekly social postings on Facebook.</p>
+
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/03.png" alt="" style="width:100%;">
