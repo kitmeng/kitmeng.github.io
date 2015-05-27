@@ -6,7 +6,7 @@ date:   2014-12-25 14:37:43
 categories: Work
 ---
 
-<p class="textindent">'Toyota Top 3' is series of contextual social postings designed to add entertainment value to spice up the Facebook blablabla</p>
+<!--<p class="textindent">'Toyota Top 3' is series of contextual social postings designed to add entertainment value to spice up the Facebook blablabla</p>-->
 
 <p>With the 2014 World Cup looming, I created a series of Top 3 things to prep for the World Cup Finals.</p>
 
