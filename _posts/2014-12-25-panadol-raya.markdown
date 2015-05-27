@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Toyota Top 5 Social Posts"
-slug:   "toyota-top-5"
+title:  "Panadol Raya Campaign"
+slug:   "panadol-raya"
 date:   2014-12-25 14:37:43
 categories: Work
 ---
