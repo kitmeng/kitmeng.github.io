@@ -6,11 +6,8 @@ date:   2014-12-30 14:37:43
 categories: Work
 ---
 
-<!--<div class="box box-purple">Description</div>-->
-
-<!--<p class="textindent">To recruit new fans for Lexus' Facebook page, we created 'The Lexus Chronicles', a Social Graphic Novel shaped by the suggestions of the fans.
-Utilizing Facebook's native social sharing features, fans were able to drive the story along by choosing the next course of action for the characters to take. The result? We were able to engage Lexus' fans and feature Lexus cars in a (graphic) novel way.</p>-->
-
+<!--<div class="box box-purple">Description</div>
+<div class="whitespace-small"></div>-->
 
 <p class="textindent">
 	'The Lexus Chronicles' is a real-time social graphic novel shaped by the fans themselves. The story unfolds with every like, share and comment, with every social interaction determining the outcome of the story.
@@ -38,74 +35,62 @@ Utilizing Facebook's native social sharing features, fans were able to drive the
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/03.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/04.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/05.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/06.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/07.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/08.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/09.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/10.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/11.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/12.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
-
-<div class="whitespace"></div>
 
 <!--
 <p>
@@ -122,7 +107,7 @@ Utilizing Facebook's native social sharing features, fans were able to drive the
 </p>
 -->
 
-
+<div class="whitespace"></div>
 
 <!--
 <div class="box box-orange">Awards</div>

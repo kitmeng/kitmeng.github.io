@@ -33,17 +33,21 @@ a[href]
   color: #000
   text-decoration: none
   &:hover
-    text-decoration: underline
-    color: #ED3D2D  
-    padding-bottom: 3px   
+    text-decoration: none
+    color: #000  
+    border-bottom: 1px dotted #2699F1
+    /*padding-bottom: 3px*/
   &.page_navigator
-    color: #ED3D2D
-    border: 1px solid #ED3D2D
-    border-color: #ED3D2D   
+    color: #000
+    border: 1px solid #2699F1
+    border-color: #2699F1   
     position: relative
     overflow: hidden
     display: inline
-    padding: 5px 20px       
+    padding: 5px 20px   
+
+    /* Blue #2699F1 */
+    /* Red #ED3D2D */
 
 .container
   @include outer-container(100%)
@@ -67,7 +71,7 @@ a[href]
   width: 90%
 
 .about-content
-  margin: 60px auto 30px
+  margin: 80px auto 50px
   width: 90%
 
 .navigation
@@ -114,7 +118,7 @@ a[href]
         text-decoration: none
         &:hover
           transition: all 0.6s ease
-          color: #ED3D2D
+          color: #2699F1
 
 .post-list
   list-style-type: none
@@ -153,6 +157,9 @@ a[href]
 
 .whitespace
   margin-bottom: 100px
+
+.whitespace-small
+  margin-bottom: 20px
 
 .textindent
   text-indent: 2em
