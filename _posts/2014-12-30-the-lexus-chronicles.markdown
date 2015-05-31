@@ -19,14 +19,12 @@ categories: Work
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/01.png" alt="" style="width:100%;">
-		The masthead.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lexus-chronicles/02.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 

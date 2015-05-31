@@ -7,7 +7,7 @@ categories: Work
 ---
 
 <p class="textindent">
-	What makes Raya <i>raya</i>? For this project, I designed 5 unique Raya packets, each potraying a different scene from the Raya festivities.
+	What makes Raya <i>raya</i>? For this project, I designed 5 unique Raya packets, each representing a key scene from the Raya festivities.
 </p>
 
 <p>

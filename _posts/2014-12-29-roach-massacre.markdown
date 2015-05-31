@@ -18,7 +18,7 @@ categories: Work
 	</h3>
 </p>
 
-<p>There were 5 different characters in the game, each with their own strengths and abilities.</p>
+There were 5 different characters in the game, each with their own strengths and abilities.
 
 <p>
 	<h3>
@@ -26,9 +26,7 @@ categories: Work
 	</h3>
 </p>
 
-<p>
-	<iframe src="https://player.vimeo.com/video/87833991?title=0&byline=0&portrait=0" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</p>
+Screenshots from the game.
 
 <p>
 	<h3>
@@ -52,6 +50,12 @@ categories: Work
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/roach-massacre/07.jpg" alt="" style="width:100%;">
 	</h3>
+</p>
+
+Watch the case study video here.
+
+<p>
+	<iframe src="https://player.vimeo.com/video/87833991?title=0&byline=0&portrait=0" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
 <div class="whitespace"></div>
