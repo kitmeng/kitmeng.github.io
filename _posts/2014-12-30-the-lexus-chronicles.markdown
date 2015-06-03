@@ -13,7 +13,7 @@ categories: Work
 	'The Lexus Chronicles' is a real-time social graphic novel shaped by the fans themselves. The story unfolds with every like, share and comment, with every social interaction determining the outcome of the story.
 </p>
 
-<p>This project received <b>Merit, Art Direction/Craft</b> in <b>Kancil Awards 2014</b>.</p>
+<p>This project received <b>Merit, Art Direction/Craft</b> and <b>Merit, Animation, Graphic Design &amp; Illustration/Craft for Cyber &amp; Mobile</b> in <b>Kancil Awards 2014</b>.</p>
 
 
 <p>
