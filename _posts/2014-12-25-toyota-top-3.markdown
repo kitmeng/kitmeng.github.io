@@ -1,31 +1,28 @@
 ---
 layout: post
-title:  "Panadol Raya Campaign"
-slug:   "panadol-raya"
+title:  "Toyota Top 3 Social Posts"
+slug:   "toyota-top-3"
 date:   2014-12-25 14:37:43
 categories: Work
 ---
 
-<p>With the 2014 World Cup looming, we created a set of contexual social postings.</p>
+<p>With the 2014 World Cup looming, I created a series of Top 3 things to prep for the World Cup Finals, presented in a fun and playful visual style.</p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/01.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/02.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 
 <p>
 	<h3>
 		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-top-5/03.png" alt="" style="width:100%;">
-		Fans even got to name the characters.
 	</h3>
 </p>
 

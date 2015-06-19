@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "MINI Social Postings"
-slug:   "mini-social-postings"
+title:  "Pampers Leapfrog"
+slug:   "pampers-leapfrog"
 date:   2014-12-25 14:37:43
 categories: Work
 ---
