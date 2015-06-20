@@ -2,7 +2,7 @@
 layout: post
 title:  "The Lexus Chronicles"
 slug:   "the-lexus-chronicles"
-date:   2014-12-30 14:37:43
+date:   2014-12-29 14:37:43
 categories: Work
 ---
 
