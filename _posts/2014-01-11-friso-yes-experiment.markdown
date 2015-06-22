@@ -2,7 +2,7 @@
 layout: post
 title:  "The Yes Experiment"
 slug:   "friso-yes-experiment"
-date:   2014-12-30 14:37:43
+date:   2014-01-11 14:37:43
 categories: Work
 ---
 

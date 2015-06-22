@@ -2,7 +2,7 @@
 layout: post
 title:  "Toyota EDM"
 slug:   "toyota-edm"
-date:   2014-12-26 14:37:43
+date:   2014-01-03 14:37:43
 categories: Work
 ---
 
