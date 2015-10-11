@@ -16,5 +16,7 @@ paginate_path: "/page/:num/"
 
 gems: [neat]
 
-pygments: false
-highlighter: rogue
+# Not supported by GitHub Pages yet.
+# https://help.github.com/articles/page-build-failed-config-file-error/#highlighting-errors
+# highlighter: rogue
+highlighter: pygments
