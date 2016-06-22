@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Johnson's Banner"
-slug:   "johnsons-banner"
+title:  "Johnson's Banner Ad"
+slug:   "johnsons-banner-ad"
 date:   2014-01-04 14:37:43
 categories: Work
 ---
