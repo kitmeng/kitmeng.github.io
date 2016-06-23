@@ -2,7 +2,7 @@
 layout: post
 title:  "Roach Massacre"
 slug:   "roach-massacre"
-date:   2014-01-06 14:37:43
+date:   2014-01-06 00:00:00
 categories: Work
 ---
 

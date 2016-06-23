@@ -2,15 +2,19 @@
 layout: post
 title:  "Merry Twistmas"
 slug:   "merry-twistmas"
-date:   2016-01-01 14:37:43
+date:   2016-01-01 00:00:00
 categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->
 
-<p>I had fun making these cinemagraphs in my free time.</p>
+<p class="textindent">Ever received a crappy, nonsensical, thoughtless, used or even expired Christmas gift? Tiger Radler is here to turn those Christmas frowns upside down. How? Simply submit a photo of your crappy 'gift' and receive a 6-can pack of Tiger Radler in return.</p>
 
-<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/cinemagraphs/01.gif" alt="" style="width:100%;"></p>
-<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/cinemagraphs/02.gif" alt="" style="width:100%;"></p>
+Visit the live site at <a href="http://merrytwistmas.com.my/" target="_blank"><b>www.merrytwistmas.com.my</b></a>
+
+<!--<p><iframe src="https://marvelapp.com/if173d?emb=1" width="452" height="901" allowTransparency="true" frameborder="0"></iframe></p>-->
+
+<p><img src="" alt="" style="width:100%;"></p>
+
 
 <div class="whitespace"></div>

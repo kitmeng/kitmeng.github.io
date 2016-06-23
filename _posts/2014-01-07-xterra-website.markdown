@@ -2,7 +2,7 @@
 layout: post
 title:  "XTERRA Malaysia Website"
 slug:   "xterra-website"
-date:   2014-01-07 14:37:43
+date:   2014-01-07 00:00:00
 categories: Work
 ---
 

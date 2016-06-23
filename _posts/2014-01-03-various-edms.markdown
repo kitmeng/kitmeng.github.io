@@ -10,6 +10,11 @@ categories: Work
 
 <p>Selected EDM designs I've done over the years.</p>
 
-<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-edm/01.png" alt="Toyota EDM" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/various-edms/01.jpg" alt="Toyota EDM" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/various-edms/02.jpg" alt="Toyota EDM" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/various-edms/03.jpg" alt="Toyota EDM" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/various-edms/04.jpg" alt="Toyota EDM" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/various-edms/05.jpg" alt="Toyota EDM" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/various-edms/06.jpg" alt="Toyota EDM" style="width:100%;"></p>
 
 <div class="whitespace"></div>
