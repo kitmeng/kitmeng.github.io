@@ -8,9 +8,21 @@ categories: Work
 
 <!--<div class="box box-purple">Description</div>-->
 
-<p class="textindent">'The Lemon Daily' is a GIF-driven social media campaign</p>
+<p class="textindent">As a relatively young brand trying to gain a foothold in the market, Tiger Radler wanted to connect to it's younger adults. 'The Lemon Daily' is a GIF-driven social media campaign designed to mirror the product's brand preposition of double refreshment. The concept is taking real news and refreshing them with Radler's unique twist.</p>
 
-<p><img src="" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/Masthead.jpg" alt="" style="width:100%;"></p>
 
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/01.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/02.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/03.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/04.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/05.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/06.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/07.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/08.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/09.gif" alt="" style="width:100%;"></p>
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/10.gif" alt="" style="width:100%;"></p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/FB%20Tab.jpg" alt="" style="width:100%;"></p>
 
 <div class="whitespace"></div>
