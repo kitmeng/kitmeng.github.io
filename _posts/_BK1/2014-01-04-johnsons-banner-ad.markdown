@@ -1,8 +1,8 @@
 ---
+title: Johnson's Banner Ad
+date: 2014-01-04 14:37:43 Z
 layout: post
-title:  "Johnson's Banner Ad"
-slug:   "johnsons-banner-ad"
-date:   2014-01-04 14:37:43
+slug: johnsons-banner-ad
 categories: Work
 ---
 

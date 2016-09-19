@@ -1,8 +1,8 @@
 ---
+title: Toyota Top 3 Social Posts
+date: 2014-01-02 00:00:00 Z
 layout: post
-title:  "Toyota Top 3 Social Posts"
-slug:   "toyota-top-3"
-date:   2014-01-02 00:00:00
+slug: toyota-top-3
 categories: Work
 ---
 

@@ -1,8 +1,8 @@
 ---
+title: GIFs
+date: 2016-01-01 14:37:43 Z
 layout: post
-title:  "GIFs"
-slug:   "gifs"
-date:   2016-01-01 14:37:43
+slug: gifs
 categories: Work
 ---
 

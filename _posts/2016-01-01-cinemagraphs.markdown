@@ -1,9 +1,9 @@
 ---
+title: Cinemagraphs
+date: 2016-01-01 14:37:43 Z
+categories:
+- Play
 layout: post
-title:  "Cinemagraphs"
-slug:   "cinemagraphs"
-date:   2016-01-01 14:37:43
-categories: Play
 ---
 
 <!--<div class="box box-purple">Description</div>-->

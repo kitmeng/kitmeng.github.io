@@ -1,8 +1,8 @@
 ---
+title: Cinemagraphs
+date: 2016-01-01 14:37:43 Z
 layout: post
-title:  "Cinemagraphs"
-slug:   "cinemagraphs"
-date:   2016-01-01 14:37:43
+slug: cinemagraphs
 categories: Play
 ---
 

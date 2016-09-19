@@ -1,9 +1,9 @@
 ---
+title: Roach Massacre
+date: 2014-01-06 00:00:00 Z
+categories:
+- Work
 layout: post
-title:  "Roach Massacre"
-slug:   "roach-massacre"
-date:   2014-01-06 00:00:00
-categories: Work
 ---
 
 <p class="textindent">

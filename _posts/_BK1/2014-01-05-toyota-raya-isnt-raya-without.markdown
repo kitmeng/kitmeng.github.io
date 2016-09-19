@@ -1,8 +1,8 @@
 ---
+title: Toyota Raya Isn't Raya Without...
+date: 2014-01-05 00:00:00 Z
 layout: post
-title:  "Toyota Raya Isn't Raya Without..."
-slug:   "toyota-raya-isnt-raya-without"
-date:   2014-01-05 00:00:00
+slug: toyota-raya-isnt-raya-without
 categories: Work
 ---
 

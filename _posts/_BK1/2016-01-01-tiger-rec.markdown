@@ -1,8 +1,8 @@
 ---
+title: Tiger REC
+date: 2016-01-01 14:37:43 Z
 layout: post
-title:  "Tiger REC"
-slug:   "tiger-rec"
-date:   2016-01-01 14:37:43
+slug: tiger-rec
 categories: Work
 ---
 

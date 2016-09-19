@@ -1,9 +1,9 @@
 ---
+title: The Lemon Daily
+date: 2016-01-01 00:00:00 Z
+categories:
+- Work
 layout: post
-title:  "The Lemon Daily"
-slug:   "the-lemon-daily"
-date:   2016-01-01 00:00:00
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->

@@ -1,9 +1,9 @@
 ---
+title: Toyota Traffic Tots
+date: 2014-01-10 00:00:00 Z
+categories:
+- Work
 layout: post
-title:  "Toyota Traffic Tots"
-slug:   "toyota-traffic-tots"
-date:   2014-01-10 00:00:00
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->

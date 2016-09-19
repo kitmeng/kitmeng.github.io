@@ -1,8 +1,8 @@
 ---
+title: Astro Easy Move
+date: 2016-01-01 14:37:43 Z
 layout: post
-title:  "Astro Easy Move"
-slug:   "astro-easy-move"
-date:   2016-01-01 14:37:43
+slug: astro-easy-move
 categories: Work
 ---
 

@@ -1,9 +1,9 @@
 ---
+title: The Lexus Chronicles
+date: 2014-01-08 00:00:00 Z
+categories:
+- Work
 layout: post
-title:  "The Lexus Chronicles"
-slug:   "the-lexus-chronicles"
-date:   2014-01-08 00:00:00
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>

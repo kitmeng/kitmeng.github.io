@@ -1,8 +1,8 @@
 ---
+title: Merry Twistmas
+date: 2016-01-01 00:00:00 Z
 layout: post
-title:  "Merry Twistmas"
-slug:   "merry-twistmas"
-date:   2016-01-01 00:00:00
+slug: merry-twistmas
 categories: Work
 ---
 

@@ -1,9 +1,9 @@
 ---
+title: Tiger Tales
+date: 2016-01-01 00:00:00 Z
+categories:
+- Work
 layout: post
-title:  "Tiger Tales"
-slug:   "tiger-tales"
-date:   2016-01-01 00:00:00
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->

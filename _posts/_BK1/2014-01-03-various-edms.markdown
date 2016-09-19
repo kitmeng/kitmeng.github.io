@@ -1,8 +1,8 @@
 ---
+title: Various EDMs
+date: 2014-01-03 14:37:43 Z
 layout: post
-title:  "Various EDMs"
-slug:   "various-edm"
-date:   2014-01-03 14:37:43
+slug: various-edm
 categories: Work
 ---
 

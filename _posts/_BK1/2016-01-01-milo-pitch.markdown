@@ -1,8 +1,8 @@
 ---
+title: Milo Pitch
+date: 2016-01-01 14:37:43 Z
 layout: post
-title:  "Milo Pitch"
-slug:   "milo-pitch"
-date:   2016-01-01 14:37:43
+slug: milo-pitch
 categories: Work
 ---
 

@@ -1,9 +1,9 @@
 ---
+title: The Yes Experiment
+date: 2014-01-11 00:00:00 Z
+categories:
+- Work
 layout: post
-title:  "The Yes Experiment"
-slug:   "friso-yes-experiment"
-date:   2014-01-11 00:00:00
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->

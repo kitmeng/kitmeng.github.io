@@ -1,8 +1,8 @@
 ---
+title: SHEW Digital Campaign
+date: 2016-01-01 14:37:43 Z
 layout: post
-title:  "SHEW Digital Campaign"
-slug:   "shew-digital"
-date:   2016-01-01 14:37:43
+slug: shew-digital
 categories: Play
 ---
 

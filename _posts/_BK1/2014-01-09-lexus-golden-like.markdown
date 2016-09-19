@@ -1,8 +1,8 @@
 ---
+title: Lexus Golden Like
+date: 2014-01-09 00:00:00 Z
 layout: post
-title:  "Lexus Golden Like"
-slug:   "lexus-golden-like"
-date:   2014-01-09 00:00:00
+slug: lexus-golden-like
 categories: Work
 ---
 

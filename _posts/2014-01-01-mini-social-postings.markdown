@@ -1,9 +1,9 @@
 ---
+title: MINI Social Postings
+date: 2014-01-01 00:00:00 Z
+categories:
+- Work
 layout: post
-title:  "MINI Social Postings"
-slug:   "mini-social-postings"
-date:   2014-01-01 00:00:00
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->
