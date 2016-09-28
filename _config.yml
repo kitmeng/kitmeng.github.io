@@ -8,10 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: 'www.kitmeng.com | Designer by day, Asleep by night.
+Description: 'www.kitmeng.com | Designer by day, Asleep by night.
 
 '
-baseurl: ''
+baseurl: 
 url: http://kitmeng.com
 markdown: kramdown
 paginate: 20
