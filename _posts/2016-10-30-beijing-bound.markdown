@@ -8,7 +8,7 @@ layout: post
 
 Why do pangolins love quiche?
 
-> Lorem ipsum sed ul vertices.
+>Lorem ipsum sed ul vertices.
 
 A [link](http://example.com "Title").
 	
