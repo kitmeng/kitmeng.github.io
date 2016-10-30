@@ -7,6 +7,7 @@ Why do pangolins love quiche?
 
 > Lorem ipsum sed ul vertices.
 
+A [link](http://example.com "Title").
 	
 *Emphasize* _emphasize_
 **Strong** __Strong__
