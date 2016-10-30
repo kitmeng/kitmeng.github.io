@@ -1,0 +1,21 @@
+---
+title: Kit Meng
+timezone: Asia/Kuala_Lumpur
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+Description: 'www.kitmeng.com | Designer by day, Asleep by night.
+
+'
+baseurl: 
+url: http://kitmeng.com
+markdown: kramdown
+paginate: 20
+paginate_path: "/page/:num/"
+gems:
+- neat
+highlighter: pygments
