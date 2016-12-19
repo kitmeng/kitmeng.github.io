@@ -21,6 +21,8 @@ A [link](http://example.com "Title").
 
 <blockquote>
 <ul>
-<li>A sample line of code.</blockquote></li>
+<li>A sample line of code.</li>
 </ul>
+</blockquote>
+
 <div class="whitespace"></div>
