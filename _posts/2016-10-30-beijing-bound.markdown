@@ -8,19 +8,17 @@ layout: post
 
 Why do pangolins love quiche?
 
->Lorem ipsum sed ul vertices.
+> Lorem ipsum sed ul vertices.
 
 A [link](http://example.com "Title").
-	
-*Emphasize* _emphasize_
-**Strong** __Strong__
 
-~~~~
-This is a 
-piece of code 
-in a block
-~~~~
+*Emphasize* *emphasize*
+**Strong** **Strong**
 
-`A sample line of code.`
+    This is a 
+    piece of code 
+    in a block
+
+<blockquote>A sample line of code.</blockquote>
 
 <div class="whitespace"></div>
