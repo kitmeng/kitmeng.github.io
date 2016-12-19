@@ -21,4 +21,6 @@ piece of code
 in a block
 ~~~~
 
+`A sample line of code.`
+
 <div class="whitespace"></div>
