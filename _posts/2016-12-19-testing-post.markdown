@@ -5,3 +5,4 @@ slug: testing-post
 categories: Play
 ---
 
+This is the copy for testing post.
