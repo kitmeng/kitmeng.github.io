@@ -19,10 +19,10 @@ A [link](http://example.com "Title").
     piece of code 
     in a block
 
-<blockquote>
+<div class="blockquote">
 <ul>
 <li>A sample line of code.</li>
 </ul>
-</blockquote>
+</div>
 
 <div class="whitespace"></div>
