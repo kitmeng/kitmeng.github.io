@@ -8,4 +8,6 @@ categories: Blog
 layout: post
 ---
 
-I could complain about the smog.
+> Leaving was a surprisingly easy decision to make.
+
+I can complain.
