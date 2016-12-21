@@ -8,4 +8,4 @@ categories: Blog
 layout: post
 ---
 
-Lorem ipsum sed ul vertices.
+I could complain about the smog.
