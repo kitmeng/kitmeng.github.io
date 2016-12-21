@@ -26,3 +26,5 @@ I wanted an adventure.
 Thanks to everyone who thought of me and bothered to be there. 
 
 Here's to many more firsts.
+
+<div class="whitespace"></div>
