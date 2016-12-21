@@ -1,8 +1,8 @@
 ---
-title: Beijing Bound
+title: Title
 date: 2016-10-30 22:45:00 +08:00
 categories: Play
-slug: beijing-bound
+slug: title
 layout: post
 ---
 
