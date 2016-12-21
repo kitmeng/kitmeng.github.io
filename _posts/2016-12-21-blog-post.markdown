@@ -1,5 +1,5 @@
 ---
-title: Blog Post
+title: Beijing Bound (This is an outdated title)
 date: 2016-12-21 16:02:00 +08:00
 tags:
 - blog
@@ -8,4 +8,4 @@ categories: Blog
 layout: post
 ---
 
-Lorem ipsum sed ul vertices.
+I could complain about the smog.
