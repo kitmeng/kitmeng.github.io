@@ -8,7 +8,20 @@ categories: Blog
 layout: post
 ---
 
-It was my first time. Trading homeland for motherland. Living alone. All this at once, this is new for me.
+It was my first time. Trading homeland for motherland. Living alone. This is new for me.
+
+
+
+
+
+
+
+
+
+
+
+
+Lately I've been asking myself what do I want to achieve here? 
 
 Perhaps it's a bit selfish, but I wanted adventure.
 
