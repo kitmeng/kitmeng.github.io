@@ -8,4 +8,6 @@ categories: Blog
 layout: post
 ---
 
-Leaving was a surprisingly easy decision to make.
+> Leaving was a surprisingly easy decision to make.
+
+I can complain.
