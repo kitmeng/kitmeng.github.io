@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Markdown Formatting
 date: 2016-10-30 22:45:00 +08:00
 categories: Play
 slug: title
