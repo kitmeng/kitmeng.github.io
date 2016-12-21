@@ -2,7 +2,7 @@
 title: Cinemagraphs
 date: 2016-01-01 22:37:00 +08:00
 slug: cinemagraphs
-categories: Play
+categories: Work
 layout: post
 ---
 
