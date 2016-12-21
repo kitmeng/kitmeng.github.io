@@ -8,4 +8,6 @@ categories: Blog
 layout: post
 ---
 
-I could complain about the smog.
+
+
+I could complain about a lot of things. I could complain about the smog.
