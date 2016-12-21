@@ -8,7 +8,9 @@ categories: Blog
 layout: post
 ---
 
-It's my first time.
+It was my first time. 
+
+I wanted an adventure.
 
 
 
