@@ -1,9 +1,9 @@
 ---
 title: XTERRA Malaysia Website
-date: 2014-01-07 00:00:00 Z
+date: 2014-01-07 08:00:00 +08:00
+categories:
+- Work
 layout: post
-slug: xterra-website
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->

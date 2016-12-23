@@ -1,9 +1,9 @@
 ---
 title: Lexus Golden Like
-date: 2014-01-09 00:00:00 Z
+date: 2014-01-09 08:00:00 +08:00
+categories:
+- Work
 layout: post
-slug: lexus-golden-like
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->

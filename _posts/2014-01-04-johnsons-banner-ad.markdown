@@ -1,9 +1,9 @@
 ---
 title: Johnson's Banner Ad
-date: 2014-01-04 14:37:43 Z
+date: 2014-01-04 22:37:43 +08:00
+categories:
+- Work
 layout: post
-slug: johnsons-banner-ad
-categories: Work
 ---
 
 <p>Banner created as part of a pitch for Johnson's new global brand campaign to adapt to Malaysia market.</p>

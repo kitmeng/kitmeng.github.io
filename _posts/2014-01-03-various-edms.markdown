@@ -1,9 +1,9 @@
 ---
 title: Various EDMs
-date: 2014-01-03 14:37:43 Z
+date: 2014-01-03 22:37:43 +08:00
+categories:
+- Work
 layout: post
-slug: various-edm
-categories: Work
 ---
 
 <!--<div class="box box-purple">Description</div>-->

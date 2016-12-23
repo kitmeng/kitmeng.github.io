@@ -1,9 +1,9 @@
 ---
 title: Toyota Top 3 Social Posts
-date: 2014-01-02 00:00:00 Z
+date: 2014-01-02 08:00:00 +08:00
+categories:
+- Work
 layout: post
-slug: toyota-top-3
-categories: Work
 ---
 
 <p class="textindent">With the 2014 World Cup looming, I created a series of Top 3 things to prep for the World Cup Finals, presented in a fun and playful visual style.</p>
