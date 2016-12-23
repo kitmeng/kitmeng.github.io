@@ -2,6 +2,9 @@
 title: Kit Meng
 timezone: Asia/Kuala_Lumpur
 collections:
+  blog:
+    title: Blog
+    output: true
   posts:
     title: Posts
     output: true
