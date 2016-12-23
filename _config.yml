@@ -5,11 +5,11 @@ collections:
   blog:
     title: Blog
     output: true
-  posts:
-    title: Posts
-    output: true
   uploads:
     title: Uploads
+    output: true
+  posts:
+    title: Work
     output: true
 Description: 'www.kitmeng.com | Designer by day, Asleep by night.
 
