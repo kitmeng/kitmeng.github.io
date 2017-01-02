@@ -8,7 +8,7 @@ categories: Blog
 layout: post
 ---
 
-**It was my first time.** Trading the comforts of living in Malaysia, for motherland. Living alone. This is new for me.
+**It was my first time.** Trading the comforts of living in my homeland, Malaysia, for the [motherland](https://en.wikipedia.org/wiki/Beijing). Living alone. This is new for me.
 
 Lately I've been asking myself what do I want to achieve here?
 
