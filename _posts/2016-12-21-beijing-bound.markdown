@@ -20,7 +20,9 @@ While at work, I chanced upon Casey Neistat's TED talk. In it, he showed the aud
 
 > **"All of us here, we've hit the jackpot in life."**
 
-Thanks to everyone who thought it was important to make
+I realised how lucky I am to have this "average" life. I guess most people would kill to be in my shoes. It kinda shined a light on giving me a purpose of being here. I'm not here to run away from my problems. There is a choice. I can be here to make the most of it. I can be here to* live my dreams.*
+
+What is my dream? It's simple really. I wish to not place so much expectations on people and situations to play out how I intend them. I wish to be kind to people, because it's definitely way harder than being mean. I wish to be someone who does more good than harm. It's simple and cliche, but that's my dream. I guess that's the first time I truly discovered how to fill in that void, and everyday I'm working towards it.
 
 Here's to many more firsts.
 
