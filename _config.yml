@@ -2,11 +2,14 @@
 title: Kit Meng
 timezone: Asia/Kuala_Lumpur
 collections:
-  posts:
-    title: Posts
+  blog:
+    title: Blog
     output: true
   uploads:
     title: Uploads
+    output: true
+  posts:
+    title: Work
     output: true
 Description: 'www.kitmeng.com | Designer by day, Asleep by night.
 
