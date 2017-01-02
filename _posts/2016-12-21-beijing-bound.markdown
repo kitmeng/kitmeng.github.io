@@ -8,9 +8,7 @@ categories: Blog
 layout: post
 ---
 
-**It was my first time.** I traded the comforts of living in my homeland, for  [motherland](https://en.wikipedia.org/wiki/Beijing). Not having my mom to pick up after me when I make a mess. Having to pay my own bills. Living alone. All of this is new to me.
-
-It was actually a very easy decision to make.
+**It was my first time.** I traded the comforts of living in my homeland, for  [motherland](https://en.wikipedia.org/wiki/Beijing). Not having my mom to pick up after me when I make a mess. Having to pay my own bills. Living alone. All of this is new to me. However, it was actually a very easy decision to make.
 
 Being a sheltered and overprotected 26 year old, and probably only about retained the level of maturity of an adolescent, I made countless mistakes in the way I treated people who genuinely cared about me. You could say these couple of years have been tumultuous. I had never been so deeply unhappy and disillusioned by life, as if it everything had lost meaning. 
 
