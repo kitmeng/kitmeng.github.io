@@ -16,9 +16,9 @@ You see, being a sheltered and overprotected 26 year old, and having only about 
 
 I wanted to run away from this life, all that I know. If in other situations I tried to run away from my problems figuratively, this time I  was trying to, *literally*. I thought if I could have a new environment surrounding me, I didn't have to deal with my issues. It didn't take long for me to realise that I couldn't.
 
-One day at work, I chanced upon Casey Neistat's TED talk. I was greatly touched by the movie he made. One line that stood out to me 
+While at work, I chanced upon Casey Neistat's TED talk. In it, he showed the audience a promotional video he made for “The Secret Life of Walter Mitty.” The theme of the video was "live your dreams". Instead of making they wanted, he took the studio's money and travel to the Philippines, where a massive Typhoon had hit days earlier. One line from his talk stood out for me, in which he said... (paraphrasing here)
 
-> Perhaps it's a bit selfish, but I wanted adventure.
+> **"All of us here, we've hit the jackpot in life. I went to an average school, had an average job, "**
 
 Thanks to everyone who thought it was important to make
 
