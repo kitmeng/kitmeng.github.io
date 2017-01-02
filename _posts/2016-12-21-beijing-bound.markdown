@@ -12,6 +12,8 @@ layout: post
 
 You see, being a sheltered and overprotected 26 year old, and having only about retained the maturity level of an adolescent, I made countless mistakes these past couple of years in the way I treated people who genuinely cared about me. You could say these couple of years have been tumultuous. I had never been so deeply unhappy and disillusioned by life, as if it everything had lost meaning.
 
+Every time I 
+
 It was an easy decision to make actually.
 
 All this is well and good, but I've been feeling empty sometimes. Lately I've been asking myself what do I want to achieve here?
