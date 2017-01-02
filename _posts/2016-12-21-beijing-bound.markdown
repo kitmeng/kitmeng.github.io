@@ -8,9 +8,13 @@ categories: Blog
 layout: post
 ---
 
-**It was my first time.** Trading the comforts of living in my homeland, Malaysia, for the [motherland](https://en.wikipedia.org/wiki/Beijing). Living alone. This is new for me.
+**It was my first time.** I traded the comforts of living in my homeland, for  [motherland](https://en.wikipedia.org/wiki/Beijing). Not having my mom to pick up after me when I make a mess. Having to pay my own bills. Living alone. All of this is new to me.
 
-Lately I've been asking myself what do I want to achieve here?
+It was a pretty easy decision to make actually. For the past 2 years, I've was deeply unhappy and disillusioned by life, as if it had lost it's meaning. Being a sheltered and overprotected 26 year old, I probably never truly grew much in terms of maturity. 
+
+It was an easy decision to make actually.
+
+All this is well and good, but I've been feeling empty sometimes. Lately I've been asking myself what do I want to achieve here?
 
 Perhaps it's a bit selfish, but I wanted adventure.
 
