@@ -8,7 +8,7 @@ categories: Blog
 layout: post
 ---
 
-**I've never properly explained why I decided to leave.**
+**I've never properly explained why I left.**
 
 It was my first time. I traded the comforts of living in my homeland, for  [motherland](https://en.wikipedia.org/wiki/Beijing). Not having my mom to pick up after me when I make a mess. Having to pay my own bills. Living alone. All of this is new to me. In spite of this, it was actually a very easy decision to make.
 
