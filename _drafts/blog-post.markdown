@@ -22,6 +22,6 @@ Thanks to everyone who thought it was important to make
 
 Here's to many more firsts.\
 \
-\*This is an outdated blog post title.
+`*This is an outdated blog post title.`
 
 <div class="whitespace"></div>
