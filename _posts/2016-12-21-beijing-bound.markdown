@@ -18,7 +18,7 @@ I wanted to run away from this life, all that I know. If in other situations I t
 
 While at work, I chanced upon Casey Neistat's TED talk. In it, he showed the audience a promotional video he made for “The Secret Life of Walter Mitty.” The theme of the video was "live your dreams". Instead of making they wanted, he took the studio's money and travel to the Philippines, where a massive Typhoon had hit days earlier. One line from his talk stood out for me, in which he said... (paraphrasing here)
 
-> **"All of us here, we've hit the jackpot in life. I went to an average school, had an average job, "**
+> **"All of us here, we've hit the jackpot in life."**
 
 Thanks to everyone who thought it was important to make
 
