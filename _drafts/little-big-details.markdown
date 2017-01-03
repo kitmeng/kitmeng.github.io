@@ -9,3 +9,7 @@ layout: post
 ---
 
 Here's a list of seemingly insignificant things I miss.
+
+1. Usable brooms
+
+2. 
