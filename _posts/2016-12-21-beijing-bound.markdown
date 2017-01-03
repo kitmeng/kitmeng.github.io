@@ -18,11 +18,11 @@ I wanted to run away from this life, all that I know. If in other situations I t
 
 While at work, I chanced upon Casey Neistat's TED talk. In it, he showed the audience a promotional video he made for “The Secret Life of Walter Mitty.” The theme of the video was "live your dreams". Instead of making they wanted, he took the studio's money and travel to the Philippines, where a massive Typhoon had hit days earlier. One line from his talk stood out for me, in which he said... (paraphrasing here)
 
-> **"All of us here, we've hit the jackpot in life."**
+> # **"All of us here, we've hit the jackpot in life."**
 
 I realised how lucky I am to have this "average" life. I guess most people would kill to be in my shoes. It kinda shined a light on giving me a purpose of being here. I'm not here to run away from my problems. There is a choice. I can be here to make the most of it. I can be here to\* live my dreams.\*
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/_ayTA-tJr3A" frameborder="0" allowfullscreen></iframe>
+<iframe style="padding-top:10px; padding-bottom:30px;" width="100%" height="420" src="https://www.youtube.com/embed/_ayTA-tJr3A" frameborder="0" allowfullscreen></iframe>
 
 What is my dream? It's simple really. I wish to not place so much expectations on people and situations to play out how I intend them. I wish to be kind to people, because it's definitely way harder than being mean. I wish to be someone who does more good than harm. It's simple and cliche, but that's my dream. I guess that's the first time I truly discovered how to fill in that void, and right now I'm working towards it everyday.
 
