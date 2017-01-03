@@ -8,3 +8,4 @@ categories: Blog
 layout: post
 ---
 
+Here's a list of seemingly insignificant things I miss.
