@@ -22,7 +22,7 @@ While at work, I chanced upon Casey Neistat's TED talk. In it, he showed the aud
 
 I realised how lucky I am to have this "average" life. I guess most people would kill to be in my shoes. It kinda shined a light on giving me a purpose of being here. I'm not here to run away from my problems. There is a choice. I can be here to make the most of it. I can be here to\* live my dreams.\*
 
-<iframe style="padding-bottom:20px;" width="100%" height="400" src="https://www.youtube.com/embed/_ayTA-tJr3A" frameborder="0" allowfullscreen></iframe>
+<iframe style="padding:30px;" width="100%" height="420" src="https://www.youtube.com/embed/_ayTA-tJr3A" frameborder="0" allowfullscreen></iframe>
 
 What is my dream? It's simple really. I wish to not place so much expectations on people and situations to play out how I intend them. I wish to be kind to people, because it's definitely way harder than being mean. I wish to be someone who does more good than harm. It's simple and cliche, but that's my dream. I guess that's the first time I truly discovered how to fill in that void, and right now I'm working towards it everyday.
 
