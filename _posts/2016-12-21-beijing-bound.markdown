@@ -24,6 +24,7 @@ I realised how lucky I am to have this "average" life. I guess most people would
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/_ayTA-tJr3A" frameborder="0" allowfullscreen></iframe>
 
+
 What is my dream? It's simple really. I wish to not place so much expectations on people and situations to play out how I intend them. I wish to be kind to people, because it's definitely way harder than being mean. I wish to be someone who does more good than harm. It's simple and cliche, but that's my dream. I guess that's the first time I truly discovered how to fill in that void, and right now I'm working towards it everyday.
 
 Here's to many more firsts.
