@@ -1,6 +1,6 @@
 ---
 title: Toyota Traffic Tots
-date: 2014-01-10 00:00:00 Z
+date: 2014-01-10 08:00:00 +08:00
 categories:
 - Work
 layout: post

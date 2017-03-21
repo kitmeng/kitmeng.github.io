@@ -1,6 +1,6 @@
 ---
 title: Roach Massacre
-date: 2014-01-06 00:00:00 Z
+date: 2014-01-06 08:00:00 +08:00
 categories:
 - Work
 layout: post
