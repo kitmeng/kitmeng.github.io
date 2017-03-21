@@ -10,6 +10,8 @@ layout: post
 
 <p>I had fun making these cinemagraphs in my free time.</p>
 
+https://www.dropbox.com/s/vktsqc2m4bfe8ta/01.jpg?dl=0
+
 ![01-8725e1.gif](/uploads/01-8725e1.gif)
 
 ![02.gif](/uploads/02.gif)
