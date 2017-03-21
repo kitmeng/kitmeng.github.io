@@ -12,7 +12,7 @@ layout: post
 
 To see more, <a href="https://www.facebook.com/TigerBeerMY/app/511315475725805/" target="_blank"><b>click here</b></a>
 
-https://s3.amazonaws.com/kitmeng.com/img/800x500.jpg
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/800x500.jpg" alt="" style="width:100%;"></p>
 
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/Masthead.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/the-lemon-daily/01.gif" alt="" style="width:100%;"></p>
