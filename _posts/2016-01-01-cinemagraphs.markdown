@@ -10,7 +10,6 @@ layout: post
 
 <p>I had fun making these cinemagraphs in my free time.</p>
 
-<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/cinemagraphs/01.gif" alt="" style="width:100%;"></p>
-<p><img src="https://dl.dropboxusercontent.com/u/3998133/Test/cinemagraphs/02.gif" alt="" style="width:100%;"></p>
+![02.gif](/uploads/02.gif)
 
 <div class="whitespace"></div>
