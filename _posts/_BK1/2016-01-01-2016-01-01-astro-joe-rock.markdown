@@ -1,9 +1,10 @@
 ---
 title: Astro Easy Move
-date: 2016-01-01 14:37:43 Z
-layout: post
+date: 2016-01-01 22:37:00 +08:00
+published: false
 slug: astro-easy-move
 categories: Work
+layout: post
 ---
 
 <!--<div class="box box-purple">Description</div>-->
