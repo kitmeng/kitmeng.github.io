@@ -20,7 +20,6 @@ There were 5 different characters in the game, each with their own strengths and
 
 Screenshots from the game.
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/03.jpg" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/04.jpg" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/05.jpg" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/06.jpg" style="width:100%;"></p>

@@ -24,6 +24,5 @@ To see more, <a href="https://www.facebook.com/TigerBeerMY/app/511315475725805/"
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/09.gif" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/10.gif" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/FB+Tab.jpg" alt="" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/800x500.jpg" alt="" style="width:100%;"></p>
 
 <div class="whitespace"></div>
