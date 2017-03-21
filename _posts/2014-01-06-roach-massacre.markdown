@@ -12,45 +12,18 @@ layout: post
 
 <p>This project received <b>Merit, Art Direction/Craft</b> and <b>Bronze, Open Category</b> in <b>Kancil Awards 2011</b>.</p>
 
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/roach-massacre/01.jpg" alt="" style="width:100%;">
-	</h3>
-</p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/01.jpg" style="width:100%;"></p>
 
 There were 5 different characters in the game, each with their own strengths and abilities.
 
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/roach-massacre/02.jpg" alt="" style="width:100%;">
-	</h3>
-</p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/02.jpg" style="width:100%;"></p>
 
 Screenshots from the game.
 
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/roach-massacre/04.jpg" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/roach-massacre/05.jpg" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/roach-massacre/06.jpg" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/roach-massacre/07.jpg" alt="" style="width:100%;">
-	</h3>
-</p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/03.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/04.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/05.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/06.jpg" style="width:100%;"></p>
 
 Watch the case study video here.
 
