@@ -11,10 +11,10 @@ layout: post
 </p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/01.jpg" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/02.jpg" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/03.jpg" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/04.jpg" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/05.jpg" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/06.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/02.png" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/03.png" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/04.png" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/05.png" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/06.png" style="width:100%;"></p>
 
 <div class="whitespace"></div>
