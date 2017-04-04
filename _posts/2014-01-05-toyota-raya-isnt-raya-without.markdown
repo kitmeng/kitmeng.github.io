@@ -10,40 +10,11 @@ layout: post
 	What makes Raya <i>raya</i>? For this project, I designed 5 unique Raya packets, each representing a key scene from the Raya festivities.
 </p>
 
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/01.jpg" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/02.png" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/03.png" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/04.png" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/05.png" alt="" style="width:100%;">
-	</h3>
-</p>
-
-<p>
-	<h3>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/toyota-raya-isnt-raya-without/06.png" alt="" style="width:100%;">
-	</h3>
-</p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/01.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/02.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/03.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/04.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/05.jpg" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-raya-isnt-raya-without/06.jpg" style="width:100%;"></p>
 
 <div class="whitespace"></div>
