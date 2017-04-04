@@ -26,9 +26,11 @@ Screenshots from the game.
 
 Watch the case study video here.
 
+<!--
 <p>
 <iframe src="https://player.vimeo.com/video/87833991?title=0&byline=0&portrait=0" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
+-->
 
 <div class="whitespace"></div>
 
