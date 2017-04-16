@@ -8,7 +8,7 @@ layout: post
 
 <!--<div class="box box-purple">Description</div>-->
 
-<p>Tiger REC is a music platform.</p>
+<p>Tiger REC is a music platform for aspiring music managers.</p>
 
 
 <div class="whitespace"></div>
