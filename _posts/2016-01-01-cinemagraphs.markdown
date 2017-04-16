@@ -1,8 +1,8 @@
 ---
 title: Cinemagraphs
 date: 2016-01-01 22:37:00 +08:00
-categories:
-- Blog
+categories: Work
+slug: cinemagraphs
 layout: post
 ---
 
