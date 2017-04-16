@@ -1,7 +1,6 @@
 ---
 title: Toyota Top 3 Social Posts
 date: 2014-01-02 08:00:00 +08:00
-published: false
 categories: Work
 slug: toyota-top-3
 layout: post
