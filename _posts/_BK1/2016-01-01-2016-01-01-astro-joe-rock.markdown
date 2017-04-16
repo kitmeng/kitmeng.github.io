@@ -1,7 +1,6 @@
 ---
 title: Astro Easy Move
 date: 2016-01-01 22:37:00 +08:00
-published: false
 slug: astro-easy-move
 categories: Work
 layout: post
