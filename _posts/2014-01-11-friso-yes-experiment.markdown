@@ -1,8 +1,8 @@
 ---
 title: The Yes Experiment
 date: 2014-01-11 08:00:00 +08:00
-categories:
-- Work
+categories: Work
+slug: the-yes-experiment
 layout: post
 ---
 

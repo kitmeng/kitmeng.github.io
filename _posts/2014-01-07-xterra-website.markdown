@@ -1,8 +1,8 @@
 ---
 title: XTERRA Malaysia Website
 date: 2014-01-07 08:00:00 +08:00
-categories:
-- Work
+categories: Work
+slug: xterra-malaysia-website
 layout: post
 ---
 
