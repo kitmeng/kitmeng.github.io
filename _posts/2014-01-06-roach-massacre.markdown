@@ -1,8 +1,8 @@
 ---
 title: Roach Massacre
 date: 2014-01-06 08:00:00 +08:00
-categories:
-- Work
+categories: Work
+slug: roach-massacre
 layout: post
 ---
 
