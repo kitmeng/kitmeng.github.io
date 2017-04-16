@@ -1,6 +1,7 @@
 ---
 title: The Lexus Chronicles
 date: 2014-01-08 08:00:00 +08:00
+published: false
 categories: Work
 slug: the-lexus-chronicles
 layout: post
