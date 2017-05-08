@@ -6,8 +6,8 @@ categories: Work
 layout: post
 ---
 
-<p>Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
+<p>Campaign website for </p>
 
-<p>Lorem ipsum is simply dummy text of the printing and typesetting industry.</p>
+<p>Put video here.</p>
 
 <div class="whitespace"></div>
