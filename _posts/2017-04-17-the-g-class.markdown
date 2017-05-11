@@ -10,4 +10,6 @@ layout: post
 
 <p>Put video here.</p>
 
+<p>Put QR code here.</p>
+
 <div class="whitespace"></div>
