@@ -20,6 +20,6 @@ layout: post
 
 
 
-<i class="em em-link"></i><a href="https://www.w3schools.com"> here</a>
+<i class="em em-link"></i><a href="https://www.w3schools.com">View the campaign website here</a>
 
 <div class="whitespace"></div>
