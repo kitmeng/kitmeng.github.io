@@ -20,6 +20,6 @@ layout: post
 
 
 
-<i class="em em-link"></i><a href="https://www.w3schools.com"><b>View the live website here</b></a>
+<i class="em em-link"></i><a href="https://www.w3schools.com">&#160;<b>View the live website here</b></a>
 
 <div class="whitespace"></div>
