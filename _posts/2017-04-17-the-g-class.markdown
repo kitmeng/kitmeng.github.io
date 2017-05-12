@@ -18,6 +18,6 @@ layout: post
 <p>http://special.mercedes-benz.com.cn/g_class_2017/index.html</p>
 <p>http://special.mercedes-benz.com.cn/g_class_2017/mobi/index.html</p>
 
-<i class="em em-aerial_tramway"></i>
+<i class="em em-link"></i>
 
 <div class="whitespace"></div>
