@@ -16,5 +16,6 @@ layout: post
 <p>Put QR code here.</p>
 
 <p>http://special.mercedes-benz.com.cn/g_class_2017/index.html</p>
+<p>http://special.mercedes-benz.com.cn/g_class_2017/mobi/index.html</p>
 
 <div class="whitespace"></div>
