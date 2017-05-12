@@ -1,13 +1,23 @@
 ---
 title: The G Class
 date: 2017-04-17 00:10:00 +08:00
+tags:
+- Art Direction
+- Animation
 slug: the-g-class
 categories: Work
 layout: post
 ---
 
-<p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p>Campaign website for </p>
 
-<p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p>Put video here.</p>
+
+<p>Put QR code here.</p>
+
+<p>http://special.mercedes-benz.com.cn/g_class_2017/index.html</p>
+<p>http://special.mercedes-benz.com.cn/g_class_2017/mobi/index.html</p>
+
+<i class="em em-aerial_tramway"></i>
 
 <div class="whitespace"></div>
