@@ -7,7 +7,7 @@ Categories: Wo
 
 Here are a list of my favourite tools to plan my goals, work and life.
 
-<span style="color:blue;">**Trello**</span> →
+<span style="color:#026AA7;">**Trello**</span> →
 
 **Slack** →
 
