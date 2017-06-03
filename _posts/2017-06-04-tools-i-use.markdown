@@ -8,7 +8,7 @@ layout: post
 
 Here are a list of my favourite tools to plan and organise my work + life goals.
 
-<span style="color:#026AA7;">**Trello** → </span> My 
+<span style="color:#026AA7;">**Trello** → </span> I am obsessed with this productivity tool.
 
 **Slack** → 
 
