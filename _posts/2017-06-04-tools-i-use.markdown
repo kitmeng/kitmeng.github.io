@@ -22,6 +22,4 @@ Here are a list of my favourite tools to plan and organise my work + life goals.
 
 **IFFTT** → 
 
-<!--Those are the big ones. I’ll continue to add / modify this list as I think of other things. -->
-
 <div class="whitespace"></div>
