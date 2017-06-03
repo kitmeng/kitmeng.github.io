@@ -18,8 +18,6 @@ layout: post
 <p>http://special.mercedes-benz.com.cn/g_class_2017/index.html</p>
 <p>http://special.mercedes-benz.com.cn/g_class_2017/mobi/index.html</p>
 
-
-
-<i class="em em-link"></i><a href="https://www.w3schools.com">here</a>
+<i class="em em-link"></i><a href="https://www.w3schools.com">&#160;<b>View the live website here</b></a>
 
 <div class="whitespace"></div>

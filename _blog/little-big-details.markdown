@@ -1,15 +1,10 @@
 ---
-title: Little Big Details
+title: The Tools I use
 date: 2017-01-02 23:27:00 +08:00
-slug: little-big-details
 categories: Blog
+slug: the-tools-i-use
+Field name: 
 layout: post
 ---
 
-Here are some of the little details I miss
-
-1. asd
-   asdf
-   asdf
-
-2. 
+This is a list of tools I use to plan my goals, work and life.
