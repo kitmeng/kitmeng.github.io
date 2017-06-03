@@ -10,7 +10,7 @@ Here are a list of my favourite tools to plan and organise my work + life goals.
 
 <span style="color:#026AA7;">**Trello** → </span> I am obsessed with this productivity tool.
 
-**Slack** → 
+**Slack** → I mostly use this as a RSS reader for advertising news.
 
 **Google Docs** → A great tool for creating beautiful and functional presentation slides. I love being able to collaborate with my team members on one single file.
 
