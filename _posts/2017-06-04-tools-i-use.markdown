@@ -18,7 +18,7 @@ Here are a list of my favourite tools to plan and organise my work + life goals.
 
 **Github Pages** → Where this website is hosted.
 
-**Siteleaf** → Simple interface, great documentation for newbies of CMSs like me.
+<span style="color:#8dcf3f;">**Siteleaf** → </span>Simple interface, great documentation for newbies of CMSs like me.
 
 **IFFTT** → Great for automating repetitive tasks.
 
