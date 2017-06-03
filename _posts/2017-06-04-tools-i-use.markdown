@@ -5,7 +5,7 @@ slug: tools-i-use
 Categories: Wo
 ---
 
-This is a list of tools I use to plan my goals, work and life.
+Here are a list of tools I use to plan my goals, work and life.
 
 **Trello** →
 
