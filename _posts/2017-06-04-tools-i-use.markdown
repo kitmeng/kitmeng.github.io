@@ -7,7 +7,7 @@ Categories: Wo
 
 This is a list of tools I use to plan my goals, work and life.
 
-**Trello** -
+**Trello** →
 
 Those are the big ones. I’ll continue to add / modify this list as I think of other things. 
 
