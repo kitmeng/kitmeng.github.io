@@ -2,11 +2,26 @@
 title: Tools I use
 date: 2017-06-04 00:19:00 +08:00
 slug: tools-i-use
-categories: Work
+Categories: Wo
+layout: post
 ---
 
-This is a list of tools I use to plan my goals, work and life.
+Here are a list of my favourite tools to plan and organise my work + life goals.
 
-1. **Trello** - 
+<span style="color:#026AA7;">**Trello** → </span> My 
+
+**Slack** → 
+
+**Google Docs** → A great tool for creating beautiful and functional presentation slides. I love being able to collaborate with my team members on one single file.
+
+**Sublime Text** → 
+
+**Github** → 
+
+**Siteleaf** → 
+
+**IFFTT** →
+
+Those are the big ones. I’ll continue to add / modify this list as I think of other things. 
 
 <div class="whitespace"></div>
