@@ -3,6 +3,7 @@ title: Tools I use
 date: 2017-06-04 00:19:00 +08:00
 slug: tools-i-use
 Categories: Wo
+layout: post
 ---
 
 Here are a list of my favourite tools to plan and organise my work + life goals.
