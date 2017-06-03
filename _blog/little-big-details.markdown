@@ -6,10 +6,4 @@ categories: Blog
 layout: post
 ---
 
-Here are some of the little details I miss
-
-1. asd
-   asdf
-   asdf
-
-2. 
+This is a list of tools I use to plan my goals, work and life.
