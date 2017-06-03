@@ -8,7 +8,7 @@ layout: post
 
 Here are a list of my favourite tools to plan and organise my work + life goals.
 
-<span style="color:#026AA7;">**Trello** → </span> I am completely obsessed with this productivity tool. 
+<span style="color:#026AA7;">**Trello** → </span> I am completely obsessed with this productivity tool. I use Trello for everything, from setting personal life goals, to recording down ✈ travel plans.
 
 **Slack** → Like e-mail on steroids. Besides that, I mostly love the extensions I can add to the main app functionality.(e.g. RSS reader for advertising news)
 
@@ -18,8 +18,8 @@ Here are a list of my favourite tools to plan and organise my work + life goals.
 
 **Github Pages** → Where this website is hosted.
 
-**Siteleaf** → Where
+**Siteleaf** → Simple interface, great documentation for newbies of CMSs like me.
 
-**IFFTT** → 
+**IFFTT** → Great for automating repetitive tasks.
 
 <div class="whitespace"></div>
