@@ -2,7 +2,7 @@
 title: Tools I use
 date: 2017-06-04 00:19:00 +08:00
 slug: tools-i-use
-Categories: Wo
+Categories: Work
 layout: post
 ---
 
