@@ -8,7 +8,7 @@ layout: post
 
 Here are a list of my favourite tools to plan and organise my work + life goals.
 
-<span style="color:#026AA7;">**Trello** → </span> I am obsessed with this productivity tool. 
+<span style="color:#026AA7;">**Trello** → </span> I am completely obsessed with this productivity tool. 
 
 **Slack** → Like e-mail on steroids. Besides that, I mostly love the extensions I can add to the main app functionality.(e.g. RSS reader for advertising news)
 
