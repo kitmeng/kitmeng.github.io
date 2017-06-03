@@ -7,11 +7,13 @@ Categories: Wo
 
 Here are a list of my favourite tools to plan my goals, work and life.
 
-**Trello** →
+<span style="color:blue;">**Trello** →
 
 **Slack** →
 
 **Google Docs** →
+
+**Trello** →
 
 Those are the big ones. I’ll continue to add / modify this list as I think of other things. 
 
