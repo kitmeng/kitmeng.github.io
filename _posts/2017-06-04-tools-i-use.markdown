@@ -9,6 +9,10 @@ Here are a list of my favourite tools to plan my goals, work and life.
 
 **Trello** →
 
+**Slack** →
+
+**Google Docs** →
+
 Those are the big ones. I’ll continue to add / modify this list as I think of other things. 
 
 <div class="whitespace"></div>
