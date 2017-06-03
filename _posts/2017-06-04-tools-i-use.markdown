@@ -7,6 +7,6 @@ Categories: Wo
 
 This is a list of tools I use to plan my goals, work and life.
 
-1. **Trello** -
+**Trello** -
 
 <div class="whitespace"></div>
