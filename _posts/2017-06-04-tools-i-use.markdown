@@ -5,7 +5,7 @@ slug: tools-i-use
 Categories: Wo
 ---
 
-Here are a list of my favourite tools to plan my goals, work and life.
+Here are a list of my favourite tools to plan and organise my work + life goals.
 
 <span style="color:#026AA7;">**Trello** → </span>
 
