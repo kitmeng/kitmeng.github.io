@@ -1,6 +1,10 @@
 ---
 title: Tools I use
 date: 2017-06-04 00:19:00 +08:00
+categories:
+- Blog
+tags:
+- Blog
 slug: tools-i-use
 Categories: Work
 layout: post
