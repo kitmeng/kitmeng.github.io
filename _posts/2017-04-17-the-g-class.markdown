@@ -29,6 +29,6 @@ layout: post
 <p>http://special.mercedes-benz.com.cn/g_class_2017/index.html</p>
 <p>http://special.mercedes-benz.com.cn/g_class_2017/mobi/index.html</p>
 
-<i class="em em-link"></i><a href="https://www.w3schools.com">&#160;<b>View the live website here</b></a>
+<i class="em em-link"></i><a href="http://special.mercedes-benz.com.cn/g_class_2017/index.html" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b>View the live website here</b></a>
 
 <div class="whitespace"></div>
