@@ -1,11 +1,11 @@
 ---
 title: The G Class
 date: 2017-04-17 00:10:00 +08:00
+categories:
+- Work
 tags:
 - Art Direction
 - Animation
-slug: the-g-class
-categories: Work
 layout: post
 ---
 
