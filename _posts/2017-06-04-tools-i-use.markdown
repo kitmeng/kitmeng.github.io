@@ -10,6 +10,8 @@ Categories: Work
 layout: post
 ---
 
+![ilya-pavlov-87472.jpg](/uploads/ilya-pavlov-87472.jpg)
+
 Here are a list of my favourite tools to plan and organise my work + life goals.
 
 <span style="color:#026AA7;">**Trello** → </span> I am completely obsessed with this productivity tool. I use Trello for everything, from setting personal life goals, to recording down ✈ travel plans.
