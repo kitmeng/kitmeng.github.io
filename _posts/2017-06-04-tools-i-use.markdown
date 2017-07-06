@@ -20,12 +20,12 @@ Here are a list of my favourite tools to plan and organise my work + life goals.
 
 <span style="color:#F2D600;">**Google Docs** → </span>Perfect for quickly putting together slides to explain your thoughts. Also, I love being able to collaborate with my team members on one single file.
 
-<span style="color:#026AA7;">**Sublime Text** → </span>Yes, I do play around with code from time to time.
+<span style="color:#EE8434;">**Sublime Text** → </span>Yes, I do play around with code from time to time.
 
-<span style="color:#026AA7;">**GitHub Pages** → </span>Where this website is hosted.
+<span style="color:#666666;">**GitHub Pages** → </span>Where this website is hosted.
 
 <span style="color:#8dcf3f;">**Siteleaf** → </span>Simple interface, great documentation for newbies of CMSs like me.
 
-<span style="color:#026AA7;">**IFFTT** → </span>Great for automating repetitive tasks.
+<span style="color:#ff4400;">**IFFTT** → </span>Great for automating repetitive tasks.
 
 <div class="whitespace"></div>
