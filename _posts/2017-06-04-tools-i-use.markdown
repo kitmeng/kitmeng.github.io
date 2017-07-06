@@ -10,9 +10,9 @@ Categories: Work
 layout: post
 ---
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/tools-i-use/ilya-pavlov-87472.jpg" alt="" style="width:100%;"></p>
+`Writings`
 
-`Image courtesy of Unsplash`
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/tools-i-use/ilya-pavlov-87472.jpg" alt="" style="width:100%;"></p>
 
 Here are a list of my favourite tools to plan and organise my work + life goals.
 
