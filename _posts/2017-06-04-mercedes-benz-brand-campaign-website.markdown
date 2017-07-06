@@ -1,7 +1,6 @@
 ---
 title: Codename Believe
 date: 2017-06-04 00:47:00 +08:00
-published: false
 slug: mercedes-benz-brand-campaign
 categories: Work
 layout: post
