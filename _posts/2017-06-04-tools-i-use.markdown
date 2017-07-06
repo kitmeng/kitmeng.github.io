@@ -22,7 +22,7 @@ Here are a list of my favourite tools to plan and organise my work + life goals.
 
 <span style="color:#EE8434;">**Sublime Text** → </span>Yes, I do play around with code from time to time.
 
-<span style="color:#496DDB;">**GitHub Pages** → </span>Where this website is hosted.
+<span style="color:#666666;">**GitHub Pages** → </span>Where this website is hosted.
 
 <span style="color:#8dcf3f;">**Siteleaf** → </span>Simple interface, great documentation for newbies of CMSs like me.
 
