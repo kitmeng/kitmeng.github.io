@@ -1,6 +1,8 @@
 ---
 title: Mercedes me Connect Library
 date: 2017-07-06 22:53:00 +08:00
+slug: mercedes-me-connect-library
+categories: Work
 ---
 
 <iframe src="https://marvelapp.com/4b152ci?emb=1" width="948" height="676" allowTransparency="true" frameborder="0"></iframe>
