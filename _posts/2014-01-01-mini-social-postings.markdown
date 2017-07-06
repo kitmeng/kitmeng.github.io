@@ -8,6 +8,8 @@ slug: mini-social-postings
 layout: post
 ---
 
+`Design` `Writing`
+
 <!--<div class="box box-purple">Description</div>-->
 
 <p class="textindent">Collection of social postings for MINI. I came up with the ideas and concepts behind the visuals, at times helping out with headlines.</p>
