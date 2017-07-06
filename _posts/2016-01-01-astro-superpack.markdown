@@ -6,6 +6,8 @@ slug: astro-superpack
 layout: post
 ---
 
+`Art Direction`  `UI/UX Design`
+
 <!--<div class="box box-purple">Description</div>-->
 
 <p class="textindent">I redesigned the Astro Superpack microsite to be more content-focused and easy to navigate.</p>
