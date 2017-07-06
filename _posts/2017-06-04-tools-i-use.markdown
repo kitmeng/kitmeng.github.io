@@ -12,6 +12,8 @@ layout: post
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/tools-i-use/ilya-pavlov-87472.jpg" alt="" style="width:100%;"></p>
 
+`Image courtesy of Unsplash`
+
 Here are a list of my favourite tools to plan and organise my work + life goals.
 
 <span style="color:#026AA7;">**Trello** → </span> I am completely obsessed with this productivity tool. I use Trello for everything, from setting personal life goals, to recording down ✈ travel plans.
