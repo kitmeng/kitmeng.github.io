@@ -5,9 +5,8 @@ slug: mercedes-me-connect-library
 categories: Work
 ---
 
-<iframe src="https://marvelapp.com/4b152ci?emb=1" width="948" height="676" allowTransparency="true" frameborder="0"></iframe>
+`Art Direction` `UI/UX`
 
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
-<div style="text-align:center;">
-<iframe src="https://marvelapp.com/8156b7g?emb=1" width="452" height="901" allowTransparency="true" frameborder="0" style="margin:0 auto;"></iframe>
-</div>
+<i class="em em-link"></i><a href="https://marvelapp.com/4b152ci" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b>Try the prototype!</b></a>
