@@ -1,5 +1,5 @@
 ---
-title: The G Class
+title: G-Class
 date: 2017-04-17 00:10:00 +08:00
 categories:
 - Work
