@@ -5,7 +5,14 @@ slug: mercedes-me-connect-library
 categories: Work
 ---
 
-`Art Direction` `UI/UX`
+`The Challenge`
+Create a new kind of computer navigation device that is less expensive and more reliable than any other on the market.
+
+`The Outcome`
+The first usable computer mouse, with a “ribcage” to hold pieces together and a tactile click.
+
+`Impact`
+The basic mechanism design of this first mouse is used in virtually all mechanical mouses produced to date.
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
