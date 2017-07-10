@@ -5,10 +5,10 @@ slug: mercedes-me-connect-library
 categories: Work
 ---
 
-`The Challenge`
+`Challenge`
 Create a new kind of computer navigation device that is less expensive and more reliable than any other on the market.
 
-`The Outcome`
+`Outcome`
 The first usable computer mouse, with a “ribcage” to hold pieces together and a tactile click.
 
 `Impact`
