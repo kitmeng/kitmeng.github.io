@@ -1,5 +1,5 @@
 ---
-title: Project me
+title: 'Project : me'
 date: 2017-07-24 16:25:00 +08:00
 slug: mercedes-me-website
 categories: Work
