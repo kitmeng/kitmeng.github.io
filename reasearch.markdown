@@ -1,7 +1,0 @@
----
-title: Reasearch
-date: 2017-08-05 11:19:00 +08:00
-layout: post_template
----
-
-My first page test
