@@ -2,9 +2,6 @@
 title: Kit Meng
 timezone: Asia/Kuala_Lumpur
 collections:
-  research:
-    title: Research
-    output: true
   uploads:
     title: Uploads
     output: true
