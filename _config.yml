@@ -2,11 +2,17 @@
 title: Kit Meng
 timezone: Asia/Kuala_Lumpur
 collections:
+  research:
+    title: Research
+    output: true
   uploads:
     title: Uploads
     output: true
   posts:
     title: Work
+    output: true
+  writings:
+    title: Writings
     output: true
 Description: 'www.kitmeng.com | Designer by day, Asleep by night.
 
