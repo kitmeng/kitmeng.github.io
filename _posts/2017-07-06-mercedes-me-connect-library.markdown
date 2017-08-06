@@ -3,11 +3,13 @@ title: 'Project : Library'
 date: 2017-07-06 22:53:00 +08:00
 slug: mercedes-me-connect-library
 categories: Work
+Test:
+  Test: 
 ---
 
 `Challenge`
 
-Create an intelligent, predictive tool to educate existing owners, prospects and sales staff about Mercedes me Connect services.
+Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
 
 `Outcome`
 
