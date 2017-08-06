@@ -8,9 +8,7 @@ layout: post
 
 <!--<div class="box box-purple">Description</div>-->
 
-<p class="textindent">'The Lemon Daily' puts a refreshing spin on real world news. One of the most fun projects I've ever worked on.
-
-is a GIF-driven social media campaign with the concept of creating talking points based off of real world news and putting a fresh twist on it.</p>
+<p class="textindent">'The Lemon Daily' puts a refreshing spin on real world news. One of the most fun projects I've ever worked on.</p>
 
 To see more, <a href="https://www.facebook.com/TigerBeerMY/app/511315475725805/" target="_blank"><b>click here</b></a>
 
