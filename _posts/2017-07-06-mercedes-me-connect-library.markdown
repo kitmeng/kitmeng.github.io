@@ -5,7 +5,7 @@ slug: mercedes-me-connect-library
 categories: Work
 ---
 
-`Art Direction` `UI/UX Design`
+`Art Direction` `UI Design` `UX Design` `Prototyping`
 
 **Challenge**
 Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
