@@ -5,7 +5,7 @@ slug: mercedes-me-connect-library
 categories: Work
 ---
 
-`Art Direction` `UI Design` `UX Design` `Prototyping`
+`Art Direction`  `UI Design`  `UX Design`  `Prototyping`
 
 **Challenge**
 
