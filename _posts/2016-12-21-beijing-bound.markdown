@@ -1,6 +1,7 @@
 ---
 title: Beijing Bound*
 date: 2016-12-21 16:02:00 +08:00
+published: false
 tags:
 - blog
 slug: beijing-bound
