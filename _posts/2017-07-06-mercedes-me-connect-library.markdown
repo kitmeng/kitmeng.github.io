@@ -7,15 +7,15 @@ categories: Work
 
 `Art Direction`  `UI Design`  `UX Design`  `Prototyping`
 
-**Challenge**
+<b>Challenge</b>
 
 Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
 
-**Outcome**
+<b>Outcome</b>
 
 The 'Mercedes me Connect Library' is an intelligent content system that predicts the user's interests then showcases relevant information in a human friendly way.
 
-**Impact**
+<b>Impact</b>
 
 TBD
 
