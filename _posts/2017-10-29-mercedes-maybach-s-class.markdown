@@ -12,4 +12,8 @@ layout: post
 
 Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
 
+<b>The Idea</b>
+
+Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
+
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
