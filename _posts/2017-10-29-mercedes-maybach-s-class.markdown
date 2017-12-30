@@ -6,7 +6,7 @@ categories: Work
 layout: post
 ---
 
-\`Art Direction\`  \`UI Design\`  \`UX Design\`  \`Prototyping\`
+`Art Direction`  `UI Design`  `UX Design`  `Prototyping`
 
 <b>Challenge</b>
 
@@ -22,19 +22,19 @@ TBD
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
-<p><img src="\[https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/00.png\](https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
+<p><img src="[https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/00.png](https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
 
-<p><img src="\[https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png\](https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
+<p><img src="[https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png](https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
 
-<p><img src="\[https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/02.png\](https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
+<p><img src="[https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/02.png](https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
 
-<p><img src="\[https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/03.png\](https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
+<p><img src="[https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/03.png](https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
 
-<p><img src="\[https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/04.png\](https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
+<p><img src="[https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/04.png](https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
 
-<p><img src="\[https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/05.png\](https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
+<p><img src="[https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/05.png](https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
 
-<p><img src="\[https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/06.png\](https://s3-us-west-2.amazonaws.com/interone/0000\\\+Mercedes\\\+me\\\+Club\\\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
+<p><img src="[https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/06.png](https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png)" alt="" style="width:100%;"></p>
 
 <p>More details coming soon.</p>
 
