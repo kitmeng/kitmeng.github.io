@@ -1,5 +1,5 @@
 ---
-title: Mercedes me Connect E-Brochure
+title: Mercedes me Connect Library
 date: 2017-07-06 22:53:00 +08:00
 slug: mercedes-me-connect-library
 categories: Work
@@ -14,10 +14,6 @@ Design an intelligent, predictive way to educate existing owners, prospects and 
 <b>Outcome</b>
 
 The 'Mercedes me Connect Library' is an intelligent content system that predicts the user's interests then showcases relevant information in a human friendly way.
-
-<b>Impact</b>
-
-TBD
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
