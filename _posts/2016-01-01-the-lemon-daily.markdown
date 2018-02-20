@@ -6,6 +6,8 @@ slug: the-lemon-daily
 layout: post
 ---
 
+`Social`
+
 <!--<div class="box box-purple">Description</div>-->
 
 <p class="textindent">'The Lemon Daily' puts a refreshing spin on real world news. One of the favourite projects I worked on.</p>
