@@ -1,5 +1,5 @@
 ---
-title: Astro Superpack
+title: Astro Superpack Website
 date: 2016-01-01 08:00:00 +08:00
 categories: Work
 slug: astro-superpack
