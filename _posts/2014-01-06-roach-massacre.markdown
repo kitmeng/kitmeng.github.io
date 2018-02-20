@@ -6,6 +6,8 @@ slug: roach-massacre
 layout: post
 ---
 
+`Game Design`
+
 <p class="textindent">
 	The 'Roach Massacre' advergame was created as a fun way to convey just how effective Ridsect Roach Traps are at getting rid of those pesky cockroaches.
 </p>
