@@ -6,7 +6,7 @@ categories: Work
 layout: post
 ---
 
-`Art Direction`
+`Web`
 
 <b>The Project</b>
 
