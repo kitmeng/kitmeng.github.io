@@ -1,12 +1,12 @@
 ---
-title: Mercedes-Maybach S-Class
+title: Maybach S-Class Website
 date: 2017-10-29 17:10:00 +08:00
 slug: maybach
 categories: Work
 layout: post
 ---
 
-`Art Direction`
+`Web`
 
 <b>The Project</b>
 

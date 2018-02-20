@@ -1,5 +1,5 @@
 ---
-title: G-Class
+title: G-Class Website
 date: 2017-04-17 00:10:00 +08:00
 categories:
 - Work
@@ -8,6 +8,8 @@ tags:
 - Animation
 layout: post
 ---
+
+`Web` 
 
 <p>Campaign website for Mercedes-Benz G Class. Art direction, animation lead and design of the mobile-first experience.</p>
 
