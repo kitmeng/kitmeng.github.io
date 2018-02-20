@@ -6,7 +6,7 @@ categories: Work
 layout: post
 ---
 
-**`WEBSITE`**
+`WEBSITE`
 
 <b>The Project</b>
 
