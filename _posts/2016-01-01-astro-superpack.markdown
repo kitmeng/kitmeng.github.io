@@ -6,7 +6,7 @@ slug: astro-superpack
 layout: post
 ---
 
-`Art Direction`  `UI/UX Design`
+`Web`
 
 <!--<div class="box box-purple">Description</div>-->
 
