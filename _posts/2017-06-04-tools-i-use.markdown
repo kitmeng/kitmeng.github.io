@@ -10,7 +10,7 @@ Categories: Work
 layout: post
 ---
 
-`Writings`
+`Writing`
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/tools-i-use/ilya-pavlov-87472.jpg" alt="" style="width:100%;"></p>
 
