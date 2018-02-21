@@ -1,8 +1,8 @@
 ---
 title: Maybach S-Class Website
 date: 2017-10-29 17:10:00 +08:00
-slug: maybach
-categories: Work
+categories:
+- Work
 layout: post
 ---
 
