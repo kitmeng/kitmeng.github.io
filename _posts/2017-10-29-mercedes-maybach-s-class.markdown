@@ -10,10 +10,17 @@ layout: post
 
 <p class="thick">About the Project</p>
 
-A campaign website introducing the 2017 Mercedes-Maybach S-Class.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 <p class="thick">Art Direction</p>
 
-Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/-01-Home-Page.jpg" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-00-Navigation-Page.jpg?raw=true" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-00-Tutorial-Page.jpg?raw=true" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-01-Home-Page.jpg?raw=true" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-02-River-Page.jpg?raw=true" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-03-Tree-Page.jpg?raw=true" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-04-Mountain-Page.jpg?raw=true" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-05-Test-Drive-Page.jpg?raw=true" alt="" style="width:100%;"></p>
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-06-Test-Drive-Form.jpg?raw=true" alt="" style="width:100%;"></p>
