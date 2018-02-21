@@ -8,8 +8,12 @@ layout: post
 
 `Website`
 
-<b>The Project</b><br>Campaign website for the 2017 Mercedes-Maybach S-Class.
+<p class="thick">About the Project</p>
 
-<b>Art Direction</b><br>Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
+A campaign website introducing the 2017 Mercedes-Maybach S-Class.
+
+<p class="thick">Art Direction</p>
+
+Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/-01-Home-Page.jpg" alt="" style="width:100%;"></p>
