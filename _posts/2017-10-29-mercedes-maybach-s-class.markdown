@@ -1,18 +1,18 @@
 ---
 title: Maybach S-Class Website
 date: 2017-10-29 17:10:00 +08:00
-slug: maybach
-categories: Work
+categories:
+- Work
 layout: post
 ---
 
 `Website`
 
-<b>The Project</b>
+<p class="thick">About the Project</p>
 
 A campaign website introducing the 2017 Mercedes-Maybach S-Class.
 
-<b>Art Direction</b>
+<p class="thick">Art Direction</p>
 
 Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
 
