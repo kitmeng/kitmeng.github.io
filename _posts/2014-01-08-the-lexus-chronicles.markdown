@@ -11,7 +11,7 @@ layout: post
 <!--<div class="box box-purple">Description</div>
 <div class="whitespace-small"></div>-->
 
-!--<p class="textindent">-->
+<!--<p class="textindent">-->
 <p>
 **The Challenge**
 Lexus needed a way to increase their fans count and boost social engagement. 
