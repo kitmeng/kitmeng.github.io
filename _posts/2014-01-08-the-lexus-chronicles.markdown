@@ -24,7 +24,6 @@ The idea was to promote brand love naturally by creating an experience for true 
 We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.
 
 **A (graphic) novel approach to recruiting fans.**
-
 </p>
 
 
