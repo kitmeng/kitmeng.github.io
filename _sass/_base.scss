@@ -80,26 +80,8 @@ ul, ol, dl, figure,
 // /**
 //  * Headings
 //  */
-// h3, h4, h5, h6 {
+// h1, h2, h3, h4, h5, h6 {
 //     font-weight: bold;
-// }
-
-// /**
-//  * Headings
-//  */
-// h1{
-    font-family: $base-font-family-bold;
-    font-size: $base-font-size * 3;   
-    line-height: $base-line-height;         
-// }
-
-// /**
-//  * Headings
-//  */
-// h2{
-    font-family: $base-font-family-bold;
-    font-size: $base-font-size; 
-    line-height: $base-line-height;    
 // }
 
 
@@ -153,9 +135,8 @@ code {
 }
 
 code {
-    padding: 5px 12px;
-    font-family: "Montserrat-SemiBold",Helvetica,Arial,sans-serif; 
-    margin-right:5px;
+    padding: 5px 15px;
+    font-family: "Montserrat-SemiBold",Helvetica,Arial,sans-serif;
 }
 
 pre {
