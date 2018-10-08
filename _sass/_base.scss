@@ -87,8 +87,19 @@ ul, ol, dl, figure,
 // /**
 //  * Headings
 //  */
-// h1, h2{
-    font-family: "Montserrat-SemiBold",Helvetica,Arial,sans-serif;
+// h1{
+    font-family: $base-font-family-bold;
+    font-size: $base-font-size * 3;   
+    line-height: $base-line-height;         
+// }
+
+// /**
+//  * Headings
+//  */
+// h2{
+    font-family: $base-font-family-bold;
+    font-size: $base-font-size; 
+    line-height: $base-line-height;    
 // }
 
 
