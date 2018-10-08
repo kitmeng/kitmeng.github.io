@@ -131,12 +131,14 @@ code {
     font-size: 18px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
+    text-transform: uppercase;
     // background-color: #eef;
 }
 
 code {
     padding: 3px 10px;
-    font-family: "Montserrat-Regular",Helvetica,Arial,sans-serif;
+    font-family: "Montserrat-SemiBold",Helvetica,Arial,sans-serif;
+    margin-right: 5px;
 }
 
 pre {
