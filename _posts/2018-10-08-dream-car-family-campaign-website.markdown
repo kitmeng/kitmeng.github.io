@@ -8,11 +8,12 @@ layout: post
 
 `Web`
 
-**THE CHALLENGE**
+<h1>THE CHALLENGE</h1>
 
 Convey the unique personality of each car in the Mercedes-Benz Dream Car Family.
 
-**THE OUTCOME**
+<h1>THE OUTCOME</h1>
+
 For the campaign website, we created different captivating scenarios and environments that correspond with the emotions you get when driving these cars.
 
 These scenes were activated by users using a simple swipe gesture. A custom soundtrack was composed to compliment the experience.
