@@ -6,15 +6,15 @@ categories:
 layout: post
 ---
 
-`Website`
+`Web`
 
 <p class="thick">About the Project</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <p class="thick">Art Direction</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-00-Navigation-Page.jpg?raw=true" alt="" style="width:100%;"></p>
 <p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-00-Tutorial-Page.jpg?raw=true" alt="" style="width:100%;"></p>
