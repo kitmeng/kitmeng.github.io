@@ -7,10 +7,37 @@ $mobile: new-breakpoint(max-width 480px 4)
 $tablet: new-breakpoint(max-width 960px 6)
 $desktop: new-breakpoint(min-width 961px 12)
 
-h2
-  font-weight: normal
-  font-size: 2em
+
+/*HEADLINE*/
+
+/*TITLES*/
+
+p.thick
+  font-weight: bold
+
+/*CAPTIONS*/
+
+/*LINKS*/
+
+h5 
+  border-bottom: 1px dotted #2699F1
+  color: #2699F1
+  margin: 0.5em
+
+/*CODE*/
+
+
+/*HEADLINE*/
+h1
+  font-family: Montserrat-SemiBold, Helvetica, Arial
+  font-size: 2.2em
   line-height: 1.2em
+
+h2
+  font-family: Montserrat-SemiBold, Helvetica, Arial
+  font-weight: bold
+  font-size: 1em
+  line-height: 1em
 
 h3
   font-weight: normal
@@ -27,7 +54,11 @@ h4
 h10
   font-weight: normal
   font-size: 1em
-  color: #EBA5FF  
+  color: #EBA5FF
+
+img.content
+  width: 100%
+  height: auto
 
 a[href]
   color: #000
@@ -65,7 +96,6 @@ a[href]
   position: relative
   transition: all 400ms ease 0s
   right: 0
-  /*margin-top: 50px
 
 .content
   margin: 15% auto 0
@@ -123,9 +153,14 @@ a[href]
 
 .post-list
   list-style-type: none
+  li
+    margin: 30px 0px
+    &:not(:last-child)
+      padding-bottom: 50px
+      /*border-bottom: 1px dashed #ccc
 
-.p
-  /*margin-bottom: 20%*/
+.comments
+  margin-bottom: 80px
 
 .about
   background: url('images/avatar.png') no-repeat top left
@@ -157,20 +192,13 @@ a[href]
     right: 80%
 
 .whitespace
-  margin-bottom: 100px
+  margin-bottom: 0px
 
 .whitespace-small
   margin-bottom: 20px
 
 .textindent
   text-indent: 2em
-
-.blockquote
-  color: #828282
-  border-left: 3px solid #e8e8e8
-  padding-left: 25px
-  font-size: 18px
-  letter-spacing: -1px
 
 .box
   border: 1px solid #ccc
