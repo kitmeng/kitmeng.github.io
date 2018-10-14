@@ -6,7 +6,7 @@ layout: default
 
   <ul class="post-list">
     {% for post in paginator.posts %}
-      <li>
+      <li class="post-entity">
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
 
         <h2 id="{{ post.slug }}">
@@ -15,9 +15,11 @@ layout: default
         <a class="post-content" >{{ post.content }}</a>
       </li>
     {% endfor %}
+    <!--
     <li>
       {% include about.html %}
-    </li> 
+    </li>
+    -->
   </ul>
 
 <!--Subscribe via RSS-->

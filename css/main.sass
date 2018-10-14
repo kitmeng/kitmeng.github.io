@@ -1,19 +1,19 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
-
 @charset "utf-8"
 
 @font-face
   font-family: "BrandonText"
-  src: url('fonts/BrandonTextWeb-Regular.otf') format('opentype')
+  src: url('fonts/BrandonText-Regular.otf') format('opentype')
 
 // Our variables
 $base-font-family: "BrandonText", Helvetica, Arial, sans-serif
-$base-font-size: 1.1em
+$base-font-size: 1em
 $small-font-size: $base-font-size * 0.875
 $base-line-height: 2
 
-//$spacing-unit: 50px
+$spacing-unit: 50px
 
 $text-color: #111111
 $background-color: #fdfdfd
@@ -32,8 +32,8 @@ $on-laptop: 800px
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
-//         padding-right: $spacing-unit / 2
-//         padding-left: $spacing-unit / 2
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
 //     }
 // }
 =media-query($device)

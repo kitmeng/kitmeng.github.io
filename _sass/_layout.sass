@@ -27,7 +27,11 @@ h4
 h10
   font-weight: normal
   font-size: 1em
-  color: #EBA5FF  
+  color: #EBA5FF
+
+img.content
+  width: 100%
+  height: auto
 
 a[href]
   color: #000
@@ -38,15 +42,14 @@ a[href]
     border-bottom: 1px dotted #2699F1
     /*padding-bottom: 3px*/
   &.page_navigator
-    color: #FFF
-    /*border: 1px solid #2699F1*/
-    /*border-color: #2699F1*/
+    color: #000
+    border: 1px solid #2699F1
+    border-color: #2699F1
     position: relative
     overflow: hidden
     display: inline
-    padding: 6px 20px
-    background-color: #cecece
-    border-radius: 3px
+    padding: 5px 20px
+
     /* Blue #2699F1 */
     /* Red #ED3D2D */
 
@@ -65,7 +68,7 @@ a[href]
   position: relative
   transition: all 400ms ease 0s
   right: 0
-  /*margin-top: 50px
+  margin-top: 50px
 
 .content
   margin: 15% auto 0
@@ -123,12 +126,18 @@ a[href]
 
 .post-list
   list-style-type: none
+  margin-left: 0
+  li.post-entity
+    margin-bottom: 80px
+    &:not(:last-child)
+      padding-bottom: 80px
+      border-bottom: 1px dashed #ccc
 
-.p
-  /*margin-bottom: 20%*/
+.comments
+  margin-bottom: 80px
 
 .about
-  background: url('images/avatar.png') no-repeat top left
+  background: url('images/avatar.jpg') no-repeat top left
   background-size: 60px 60px
   display: inline-block
   right: 0
@@ -164,13 +173,6 @@ a[href]
 
 .textindent
   text-indent: 2em
-
-.blockquote
-  color: #828282
-  border-left: 3px solid #e8e8e8
-  padding-left: 25px
-  font-size: 18px
-  letter-spacing: -1px
 
 .box
   border: 1px solid #ccc
