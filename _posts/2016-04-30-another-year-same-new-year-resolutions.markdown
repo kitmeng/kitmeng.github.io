@@ -1,9 +1,9 @@
 ---
+title: Another Year, Same New Year Resolutions
+date: 2016-04-30 11:31:00 +08:00
+categories:
+- Life
 layout: post
-title:  "Another Year, Same New Year Resolutions"
-slug:   "another-year-same-new-year-resolutions"
-date:   2016-04-30 11:31:00 +08:00
-categories: Life
 ---
 
 <figure>

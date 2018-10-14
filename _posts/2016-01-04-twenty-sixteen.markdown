@@ -1,9 +1,9 @@
 ---
+title: Twenty Sixteen
+date: 2016-01-04 00:20:06 +08:00
+categories:
+- Life
 layout: post
-title:  "Twenty Sixteen"
-slug:   "twenty-sixteen"
-date:   2016-01-03 16:20:06
-categories: Life
 ---
 
 Happy New Year!

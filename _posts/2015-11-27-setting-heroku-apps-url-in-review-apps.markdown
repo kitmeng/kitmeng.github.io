@@ -1,10 +1,12 @@
 ---
+title: Setting Heroku apps URL in Review App
+date: 2015-11-27 07:47:06 +08:00
+categories:
+- Heroku
+- Ruby
+- Rails
 layout: post
-title:  "Setting Heroku apps URL in Review App"
-slug:   "setting-heroku-apps-url-in-review-app"
-date:   2015-11-26 23:47:06
 comments: true
-categories: Heroku Ruby Rails
 ---
 
 Heroku launched the [review apps beta](https://blog.heroku.com/archives/2015/5/19/heroku_review_apps_beta) earlier in May 2015, which completes the continuous delivery experience when deploying on Heroku, along with the [Heroku flow](https://blog.heroku.com/archives/2015/9/3/heroku_flow_pipelines_review_apps_and_github_sync). To try out this new flow, I spinned up a rails review app, everything else looks good except that all the assets were broken on the review app server.

@@ -1,10 +1,13 @@
 ---
+title: Setting up GPG for Git
+date: 2016-04-30 11:31:00 +08:00
+categories:
+- Git
+- Coding
+- GPG
+- OSX
 layout: post
-title:  "Setting up GPG for Git"
-slug:   "setting-up-gpg-for-git"
-date:   2016-04-30 11:31:00 +08:00
 comments: true
-categories: Git Coding GPG OSX
 ---
 
 Earlier this month GitHub launched a new feature, [GPG signature verification](https://github.com/blog/2144-gpg-signature-verification) which would add a verified tag for each commit that signed with GPG.

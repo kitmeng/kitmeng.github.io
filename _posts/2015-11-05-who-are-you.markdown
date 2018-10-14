@@ -1,9 +1,9 @@
 ---
+title: Who Are You?
+date: 2015-11-05 06:45:06 +08:00
+categories:
+- Life
 layout: post
-title:  "Who Are You?"
-slug:   "who-are-you"
-date:   2015-11-04 22:45:06
-categories: Life
 ---
 
 Hi I’m Shinn Chong.

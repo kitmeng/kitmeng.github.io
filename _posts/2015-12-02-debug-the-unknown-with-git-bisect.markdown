@@ -1,10 +1,12 @@
 ---
+title: Debug the unknown with git bisect
+date: 2015-12-02 21:55:06 +08:00
+categories:
+- Git
+- Coding
+- Debugging
 layout: post
-title:  "Debug the unknown with git bisect"
-slug:   "debug-the-unknown-with-git-bisect"
-date:   2015-12-02 13:55:06
 comments: true
-categories: Git Coding Debugging
 ---
 
 Many of you might have been facing the problem where the few latest commits break your existing features (Y NO TESTING?).
