@@ -1,23 +1,21 @@
 ---
-title: Life.inspect
-timezone: Asia/Singapore
+title: Kit Meng
+timezone: Asia/Kuala_Lumpur
 collections:
-  posts:
-    title: Posts
-    output: true
   uploads:
     title: Uploads
     output: true
-description: 'www.lifeinspect.com | Life • Inspected by Shinn Chong
+  posts:
+    title: Work
+    output: true
+Description: 'www.kitmeng.com | Designer by day, Asleep by night.
 
 '
-baseurl: ''
-url: https://www.lifeinspect.com
-twitter_username: shinnchong
-github_username: shinnyx
-paginate: 20
+baseurl: 
+url: http://kitmeng.com
+markdown: kramdown
+paginate: 15
 paginate_path: "/page/:num/"
-plugins:
-- jekyll-sitemap
-- jekyll-seo-tag
-- jekyll-paginate
+gems:
+- neat
+highlighter: rouge
