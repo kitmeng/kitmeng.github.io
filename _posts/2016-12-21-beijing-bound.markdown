@@ -2,10 +2,10 @@
 title: Beijing Bound*
 date: 2016-12-21 16:02:00 +08:00
 published: false
+categories:
+- Blog
 tags:
 - blog
-slug: beijing-bound
-categories: Blog
 layout: post
 ---
 

@@ -2,8 +2,8 @@
 title: Various EDMs
 date: 2014-01-03 22:37:00 +08:00
 published: false
-categories: Work
-slug: various-edms
+categories:
+- Work
 layout: post
 ---
 

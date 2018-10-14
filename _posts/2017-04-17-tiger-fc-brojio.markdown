@@ -2,8 +2,8 @@
 title: Tiger FC Brojio
 date: 2017-04-17 00:11:00 +08:00
 published: false
-slug: tiger-fc-brojio
-categories: Work
+categories:
+- Work
 layout: post
 ---
 

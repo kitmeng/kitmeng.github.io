@@ -2,8 +2,8 @@
 title: 'Project : Tech'
 date: 2017-07-24 16:27:00 +08:00
 published: false
-slug: tech-campaign
-categories: Work
+categories:
+- Work
 layout: post
 ---
 
