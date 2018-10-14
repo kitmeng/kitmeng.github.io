@@ -1,19 +1,23 @@
-# Site settings
+---
 title: Life.inspect
-# email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  www.lifeinspect.com | Life • Inspected by Shinn Chong
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.lifeinspect.com" # the base hostname & protocol for your site
+timezone: Asia/Singapore
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 'www.lifeinspect.com | Life • Inspected by Shinn Chong
+
+'
+baseurl: ''
+url: https://www.lifeinspect.com
 twitter_username: shinnchong
-github_username:  shinnyx
-
-timezone: "Asia/Singapore"
-
+github_username: shinnyx
 paginate: 20
 paginate_path: "/page/:num/"
-
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-paginate
