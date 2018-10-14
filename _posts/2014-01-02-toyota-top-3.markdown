@@ -1,0 +1,18 @@
+---
+title: Toyota Top 3 Social Posts
+date: 2014-01-02 08:00:00 +08:00
+published: false
+categories: Work
+tags:
+- Art Direction
+slug: toyota-top-3
+layout: post
+---
+
+<p class="textindent">With the 2014 World Cup looming, I created a series of Top 3 things to prep for the World Cup Finals, presented in a fun and playful visual style.</p>
+
+<p><h3><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-top-5/01.png" alt="" style="width:100%;"></h3></p>
+<p><h3><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-top-5/02.png" alt="" style="width:100%;"></h3></p>
+<p><h3><img src="https://s3.amazonaws.com/kitmeng.com/img/toyota-top-5/03.png" alt="" style="width:100%;"></h3></p>
+
+<div class="whitespace"></div>
