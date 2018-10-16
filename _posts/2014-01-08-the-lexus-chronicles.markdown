@@ -9,6 +9,7 @@ layout: post
 `Social`
 
 **THE CHALLENGE**
+
 Lexus needed a way to increase their fans count and boost social engagement.
 
 **THE OUTCOME**
