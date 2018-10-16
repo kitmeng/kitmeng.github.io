@@ -8,12 +8,8 @@ layout: post
 
 `Social`
 
-<!--<div class="box box-purple">Description</div>
-
-<p>
 **The Challenge**
 Lexus needed a way to increase their fans count and boost social engagement.
-</p>
 
 <p>The Outcome
 
