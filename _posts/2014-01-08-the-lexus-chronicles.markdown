@@ -8,10 +8,11 @@ layout: post
 
 `Social`
 
-**THE CHALLENGE**
+> THE CHALLENGE
+
 Lexus needed a way to increase their fans count and boost social engagement.
 
-**THE OUTCOME**
+> THE OUTCOME
 
 The idea was to promote brand love naturally by creating an experience for true fans to be a part of.
 
