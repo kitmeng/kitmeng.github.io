@@ -2,8 +2,8 @@
 title: 'Project : Panorama'
 date: 2017-07-06 23:19:00 +08:00
 published: false
-slug: mercedes-me-website
-categories: Work
+categories:
+- Work
 ---
 
 `Art Direction` `UI/UX`

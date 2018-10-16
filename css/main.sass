@@ -4,17 +4,12 @@
 @charset "utf-8"
 
 @font-face
-  font-family: "Montserrat-Regular"
-  src: url('fonts/montserrat/Montserrat-Regular.otf') format('opentype')
-
-//@font-face
-  //font-family: "BrandonText"
-  //src: url('fonts/BrandonText-Regular.otf') format('opentype')
+  font-family: "Montserrat"
+  src: url('fonts/Montserrat/Montserrat-Light.otf') format('opentype')
 
 // Our variables
-$base-font-family: "Montserrat-Regular", Helvetica, Arial, sans-serif
-//$base-font-family: "BrandonText", Helvetica, Arial, sans-serif
-$base-font-size: 1
+$base-font-family: "Montserrat", Helvetica, Arial, sans-serif
+$base-font-size: 1em
 $small-font-size: $base-font-size * 0.875
 $base-line-height: 2
 
@@ -29,15 +24,16 @@ $grey-color-light: lighten($grey-color, 40%)
 $grey-color-dark: darken($grey-color, 25%)
 
 // Width of the content area
-$content-width: 1440px
+$content-width: 800px
+
 $on-palm: 600px
 $on-laptop: 800px
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
+//         padding-right: $spacing-unit / 2
+//         padding-left: $spacing-unit / 2
 //     }
 // }
 =media-query($device)

@@ -6,7 +6,6 @@ categories:
 - Blog
 tags:
 - Blog
-slug: tools-i-use
 Categories: Work
 layout: post
 ---

@@ -2,8 +2,8 @@
 title: Cinemagraphs
 date: 2016-01-01 22:37:00 +08:00
 published: false
-categories: Work
-slug: cinemagraphs
+categories:
+- Work
 layout: post
 ---
 
