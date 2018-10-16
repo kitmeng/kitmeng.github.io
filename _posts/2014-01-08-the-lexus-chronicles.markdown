@@ -9,22 +9,20 @@ layout: post
 `Social`
 
 <!--<div class="box box-purple">Description</div>
-<div class="whitespace-small"></div>-->
 
-<!--<p class="textindent">-->
 <p>
 **The Challenge**
-Lexus needed a way to increase their fans count and boost social engagement. 
+Lexus needed a way to increase their fans count and boost social engagement.
 </p>
 
-<p>
-**The Outcome**
+<p>The Outcome
+
 The idea was to promote brand love naturally by creating an experience for true fans to be a part of.
 
 We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.
-
-**A (graphic) novel approach to recruiting fans.**
 </p>
+
+
 
 
 <p>This project received <b>Merit, Art Direction/Craft</b> and <b>Merit, Animation, Graphic Design &amp; Illustration/Craft for Cyber &amp; Mobile</b> in <b>Kancil Awards 2014</b>.</p>
