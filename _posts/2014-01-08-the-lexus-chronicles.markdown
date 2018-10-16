@@ -8,18 +8,18 @@ layout: post
 
 `Social`
 
-> THE CHALLENGE
+## **THE CHALLENGE**
 
 Lexus needed a way to increase their fans count and boost social engagement.
 
-> THE OUTCOME
+## **THE OUTCOME**
 
 The idea was to promote brand love naturally by creating an experience for true fans to be a part of.
 
 We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.
 
 <!--
-<p>This project received <b>Merit, Art Direction/Craft</b> and <b>Merit, Animation, Graphic Design &amp; Illustration/Craft for Cyber &amp; Mobile</b> in <b>Kancil Awards 2014</b>.</p>
+<p>This project received <b>Merit, Art Direction/Craft</b> and <b>Merit, Animation, Graphic Design & Illustration/Craft for Cyber & Mobile</b> in <b>Kancil Awards 2014</b>.</p>
 -->
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/01.png" style="width:100%;"></p>
@@ -55,16 +55,16 @@ We created a social online graphic novel, powered and driven by fans. Every like
 
 <!--
 <p>
-	<div class="box box-green">Credits</div>
-	<ul class="ul ul-credits">
-		<li>Client : Lexus Malaysia</li>
-		<li>Agency : Saatchi &#38; Saatchi Arachnid</li>
-		<li>Creative Director : Kelvin Wong, Pickers Cheah</li>
-		<li>Art Director : Kit Meng</li>
-		<li>Illustrator : Running Snail Studio</li>
-		<li>Copywriter : Cherry Lee</li>
-		<li>Account Manager : Adeline Quek</li>
-	</ul>	
+<div class="box box-green">Credits</div>
+<ul class="ul ul-credits">
+<li>Client : Lexus Malaysia</li>
+<li>Agency : Saatchi & Saatchi Arachnid</li>
+<li>Creative Director : Kelvin Wong, Pickers Cheah</li>
+<li>Art Director : Kit Meng</li>
+<li>Illustrator : Running Snail Studio</li>
+<li>Copywriter : Cherry Lee</li>
+<li>Account Manager : Adeline Quek</li>
+</ul>\
 </p>
 -->
 
@@ -74,26 +74,26 @@ We created a social online graphic novel, powered and driven by fans. Every like
 <div class="box box-orange">Awards</div>
 
 <ul class="ul ul-credits">
-	<li>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
-		Art Direction/Craft for Cyber &#38; Mobile (MERIT)<br>
-		KANCIL AWARDS 2014
-	</li>
-	<li>
-		<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
-		Art Direction/Craft for Cyber &#38; Mobile (MERIT)<br>
-		KANCIL AWARDS 2014
-	</li>
+<li>
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
+Art Direction/Craft for Cyber & Mobile (MERIT)<br>
+KANCIL AWARDS 2014
+</li>
+<li>
+<img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px;">
+Art Direction/Craft for Cyber & Mobile (MERIT)<br>
+KANCIL AWARDS 2014
+</li>
 </ul>
 -->
 
-<!--<p>Art Direction/Craft for Cyber &#38; Mobile
+<!--<p>Art Direction/Craft for Cyber & Mobile
 <h3>(MERIT)</h3>
 <h3>KANCIL AWARDS 2014</h3>
 </p>-->
 
 <!--<div style="margin: 30px; float: left;"><img src="https://dl.dropboxusercontent.com/u/3998133/Test/awards/kancils.png" alt="Kancil Awards" style="width: 76px; height: 40px; float: left;"></div>
 
-<p class="textindent">Animation, Graphic Design &#38; Illustration/Craft for Cyber &#38; Mobile <div class="h_tiny">(MERIT)</div><br>
+<p class="textindent">Animation, Graphic Design & Illustration/Craft for Cyber & Mobile <div class="h_tiny">(MERIT)</div><br>
 <div class="h_tiny">KANCIL AWARDS 2014</div>
 </p>-->
