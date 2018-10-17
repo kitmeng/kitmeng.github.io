@@ -8,15 +8,19 @@ layout: post
 
 `Social`
 
-## **THE CHALLENGE**
-
+<p>
+<div class="font-semibold">THE CHALLENGE</div>
 Lexus needed a way to increase their fans count and boost social engagement.
+</p>
 
-## **THE OUTCOME**
-
+<p>
+<div class="font-semibold">THE OUTCOME</div>
 The idea was to promote brand love naturally by creating an experience for true fans to be a part of.
 
 We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.
+</p>
+
+<div class="whitespace-xs"></div>
 
 <!--
 <p>This project received <b>Merit, Art Direction/Craft</b> and <b>Merit, Animation, Graphic Design & Illustration/Craft for Cyber & Mobile</b> in <b>Kancil Awards 2014</b>.</p>

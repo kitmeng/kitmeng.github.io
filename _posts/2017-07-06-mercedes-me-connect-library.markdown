@@ -12,14 +12,16 @@ categories:
 </p>
 
 <p>
-<div class="font-bold">THE CHALLENGE</div>
+<div class="font-semibold">THE CHALLENGE</div>
 Most car owners do not fully understand the intricacies of these products and services, and most importantly, how they can be useful for them in daily life.
 </p>
 
 <p>
-<div class="font-bold">THE OUTCOME</div>
+<div class="font-semibold">THE OUTCOME</div>
 We started off asking “What if users can ask for more out of their vehicles?”
 </p>
+
+<div class="whitespace-xs"></div>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
