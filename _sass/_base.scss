@@ -130,7 +130,7 @@ blockquote {
 pre,
 code {
     font-family: Montserrat-SemiBold, Arial;
-    font-size: 1rem;
+    font-size: 0.7rem;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
     text-transform: uppercase;
@@ -142,7 +142,7 @@ code {
 }
 
 pre {
-    padding: 8px 12px;
+    padding: 5px 15px;
     overflow-x: scroll;
 
     > code {
