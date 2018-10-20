@@ -11,14 +11,14 @@ h2
   font-weight: normal
   font-size: 2em
   line-height: 1.2em
-  font-family: Montserrat-SemiBold
+  font-family: Montserrat-Bold
 
 h3
   font-weight: normal
   font-size: 0.6em
   text-transform: uppercase
   color: #666
-  font-family: Montserrat-SemiBold
+  font-family: Montserrat-Bold
 
 h4
   font-weight: normal
@@ -55,6 +55,12 @@ a[href]
     /* Blue #2699F1 */
     /* Red #ED3D2D */
 
+.font-bold
+  font-family: Montserrat-Bold
+
+.font-semibold
+  font-family: Montserrat-SemiBold  
+
 .container
   @include outer-container(100%)
 
@@ -74,11 +80,11 @@ a[href]
 
 .content
   margin: 10% auto 0
-  width: 95%
+  width: 80%
 
 .about-content
   margin: 20%
-  width: 95%
+  width: 80%
 
 .navigation
   @include span-columns(3)
@@ -167,12 +173,6 @@ a[href]
   @include media($mobile)
     right: 80%
 
-.whitespace
-  margin-bottom: 100px
-
-.whitespace-small
-  margin-bottom: 20px
-
 .textindent
   text-indent: 2em
 
@@ -205,4 +205,13 @@ hr.rainbow-line
   transition: all 200ms ease 0s
 
 .whitespace
-  padding: 5em
+  padding: 3em
+
+.whitespace-xs
+  padding: 1em
+
+
+/*images*/
+
+.img-round
+  border-radius: 0.7em

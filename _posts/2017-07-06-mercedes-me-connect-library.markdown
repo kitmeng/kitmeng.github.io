@@ -7,28 +7,24 @@ categories:
 
 `Web` `Concept`
 
-<b>Challenge</b>
+<p>
+‘Mercedes me Connect’ are an array of features, services and innovations that provide added value based on the needs and lifestyle of Mercedes-Benz car owners.
+</p>
 
-Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.
+<p>
+<div class="font-semibold">THE CHALLENGE</div>
+Most car owners do not fully understand the intricacies of these products and services, and most importantly, how they can be useful for them in daily life.
+</p>
 
-<b>Outcome</b>
+<p>
+<div class="font-semibold">THE OUTCOME</div>
+We started off asking “What if users can ask for more out of their vehicles?”
+</p>
 
-The 'Mercedes me Connect Library' is an intelligent content system that predicts the user's interests then showcases relevant information in a human friendly way.
+<div class="whitespace-xs"></div>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/01.png" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/02.png" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/03.png" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/04.png" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/05.png" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/06.png" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3-us-west-2.amazonaws.com/interone/0000\+Mercedes\+me\+Club\+E-Brochure/iPad-App/00.png" alt="" style="width:100%;"></p>
-
 <i class="em em-link"></i><a href="https://marvelapp.com/4b152ci" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b> Try the prototype!</b></a>
+
+<div class="whitespace"></div>
