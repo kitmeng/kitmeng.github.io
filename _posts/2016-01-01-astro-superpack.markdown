@@ -8,7 +8,7 @@ layout: post
 
 `Web`
 
-<p class="textindent">We redesigned the microsite to be more content-focused and easy to navigate.</p>
+<p>We redesigned the microsite to be more content-focused and easy to navigate.</p>
 
 <div class="whitespace-xs"></div>
 
