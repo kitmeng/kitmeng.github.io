@@ -10,14 +10,16 @@ layout: post
 
 <p>
 <div class="font-semibold">THE CHALLENGE</div>
-Lexus needed a way to increase their fans count and boost social engagement.
+Lexus needed a way to increase their fans count and boost social engagement. 
 </p>
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
-The idea was to promote brand love naturally by creating an experience for true fans to be a part of.
+The idea was to create an experience that true fans can be a part of.
 
-We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.
+We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.\
+\
+**A (graphic) novel approach to recruiting fans.**
 </p>
 
 <div class="whitespace-xs"></div>
