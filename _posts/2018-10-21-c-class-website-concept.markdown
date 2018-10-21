@@ -14,7 +14,7 @@ Build affinity from this target audience towards the C-Class.
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
-Every 
+People who strive and stand for their beliefs are usually a target of jealousy, or receive a lot of comments from keyboard warriors trying to bring them down. With this insight in mind, we decided to compile a list of hate comments that our target audience face on a daily basis. Then we built an interactive website where users can eradicate these hate comments with the help of the ever reliable C-Class.
 </p>
 
 <div class="whitespace-xs"></div>
