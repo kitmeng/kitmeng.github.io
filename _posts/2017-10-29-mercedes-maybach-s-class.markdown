@@ -12,21 +12,21 @@ We crafted the website with traditional Chinese calligraphic illustrations, thou
 
 <div class="whitespace-xs"></div>
 
-<p style="margin: 1em;"><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/00.gif" alt="" style="width:80%;" class="img-round"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/01.jpg" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/01.jpg" alt="" style="width:100%;" class="img-round"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/02.jpg" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/02.jpg" alt="" style="width:100%;" class="img-round"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/03.jpg" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/03.jpg" alt="" style="width:100%;" class="img-round"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/04.jpg" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/04.jpg" alt="" style="width:100%;" class="img-round"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/05.jpg" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/05.jpg" alt="" style="width:100%;" class="img-round"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/06.jpg" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/06.jpg" alt="" style="width:100%;" class="img-round"></p>
+<!--<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/07.jpg" alt="" style="width:100%;"></p>-->
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/07.jpg" alt="" style="width:100%;" class="img-round"></p>
+<p style="text-align: center;"><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/00.gif" alt="" style="width:100%;"></p>
 
 <!--
 <p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-00-Navigation-Page.jpg?raw=true" alt="" style="width:100%;"></p>

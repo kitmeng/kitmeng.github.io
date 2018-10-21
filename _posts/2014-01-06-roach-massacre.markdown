@@ -22,38 +22,25 @@ Everyone loathes cockroaches, and gain immense satisfaction from exterminating t
 
 <div class="whitespace-xs"></div>
 
-
-<!--IMAGES-->
-
-
-<div class="whitespace"></div>
-
-
-<!--
-<p class="textindent">
-	The 'Roach Massacre' advergame was created as a fun way to convey just how effective Ridsect Roach Traps are at getting rid of those pesky cockroaches.
-</p>
-
-<p>This project received <b>Merit, Art Direction/Craft</b> and <b>Bronze, Open Category</b> in <b>Kancil Awards 2011</b>.</p>
-
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/01.jpg" style="width:100%;"></p>
 
-There were 5 different characters in the game, each with their own strengths and abilities.
+<p>There were 5 different characters in the game, each with their own strengths and abilities.</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/02.jpg" style="width:100%;"></p>
 
-Screenshots from the game.
+<p>Screenshots from the game.</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/04.jpg" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/05.jpg" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/06.jpg" style="width:100%;"></p>
 
-Watch the case study video here.
+<p>Watch the case study video here.</p>
 
 <p>
 <iframe src="https://player.vimeo.com/video/87833991?title=0&byline=0&portrait=0" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
--->
+
+<div class="whitespace"></div>
 
 <!--
 <p>
