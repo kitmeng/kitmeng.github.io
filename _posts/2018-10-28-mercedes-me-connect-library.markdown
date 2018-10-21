@@ -26,8 +26,6 @@ We started off with language. We got rid of complicated technical jargon and int
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
-
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/01.png" alt="" style="width:100%;"></p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/02.jpg" alt="" style="width:100%;"></p>
