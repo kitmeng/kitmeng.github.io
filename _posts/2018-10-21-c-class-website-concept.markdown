@@ -5,16 +5,16 @@ date: 2018-10-21 15:00:00 +08:00
 
 `Web`
 
-<p>C-Class is built for those </p>
+<p>C-Class is built for the up-and-comers, the self-starters, the go-getters. They are the special ones who don't just inhabit the world, but seek to make their mark in it. When it comes to their cars, they deserve a car that is built on the same values they share.</p>
 
 <p>
 <div class="font-semibold">THE CHALLENGE</div>
-We believe Papa John’s pizza, being communal in nature, has the ability to bring people together. However, keeping track of RSVP lists while setting up a gathering with friends can be a nightmare.
+Build affinity from this target audience towards the C-Class.
 </p>
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
-That’s where the Papa John’s ‘Friend Circle’ Mini Program comes in handy. This simple tool allows you to easily set up a gathering with friends, keep track of their responses. In addition, it helps figure out which pizza toppings, flavours they prefer.
+Every 
 </p>
 
 <div class="whitespace-xs"></div>
