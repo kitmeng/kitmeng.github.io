@@ -51,8 +51,10 @@ We created a social online graphic novel, powered and driven by fans. Every like
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/pg-end.jpg" style="width:100%;"></p>
 
+<!--
 <p>
 <iframe src="http://www.workdoneby.us/awards2014/lexuschronicles/lc.mp4" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
+-->
 
 <div class="whitespace"></div>
