@@ -1,16 +1,20 @@
 ---
-title: Tiger FC Brojio
+title: Tiger FC Brojio Concept
 date: 2017-04-17 00:11:00 +08:00
 categories:
 - Work
 layout: post
 ---
 
-`Mini Program`
+`Web App`
 
 <p>
 <div class="font-semibold">THE CHALLENGE</div>
-We believe Papa John’s pizza, being communal in nature, has the ability to bring people together. However, keeping track of RSVP lists while setting up a gathering with friends can be a nightmare.
+**The ultimate fan deserves the ultimate football companion.**
+
+It is your football buddy. Always there to keep you updated with the latest football news, cool facts. It even scores you invites to exclusive Tiger FC viewing parties.
+
+Oh, and he also buys you a beer.
 </p>\
 \
 <p>
