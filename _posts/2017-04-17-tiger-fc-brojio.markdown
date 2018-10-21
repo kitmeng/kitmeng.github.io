@@ -15,13 +15,6 @@ layout: post
 It is your football buddy. Always there to keep you updated with the latest football news, cool facts. It even scores you invites to exclusive Tiger FC viewing parties.
 
 Oh, and he also buys you a beer.
-</p>\
-\
-<p>
-<div class="font-semibold">THE OUTCOME</div>
-That’s where the Papa John’s ‘Friend Circle’ Mini Program comes in handy. This simple tool allows you to easily set up a gathering with friends, keep track of their responses. In addition, it helps figure out which pizza toppings, flavours they prefer.
-
-**A better way to bring friends together.**
 </p>
 
 <div class="whitespace-xs"></div>
