@@ -14,13 +14,17 @@ Categories: Work
 
 <p>
 <div class="font-semibold">THE CHALLENGE</div>
-Most car owners do not fully understand the intricacies of these products and services, and most importantly, how they can be useful for them in daily life.
+Most car owners do not fully understand the intricacies of these products and services, and most importantly, how what they can be useful for in daily life.
 </p>
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
-We started off asking “What if users can ask for more out of their vehicles?”
+We started off with language. We got rid of complicated technical jargon and introduced each feature with a question of "What if...?". We wanted our target audience to ask more out of their Mercedes-Benz cars. To see this as more than just status symbol that gets them from A-B.
 </p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
+
+<p>Next, we designed a simple, intelligent and predictive web app experience.</p>
 
 <div class="whitespace-xs"></div>
 
