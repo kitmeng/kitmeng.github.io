@@ -21,8 +21,7 @@ For the campaign website, we created different captivating scenarios and environ
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/00c.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/01a.jpg" alt="" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/01bjpg" alt="" style="width:100%;"></p>
-
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/01b.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/01c.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/01d.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/01e.jpg" alt="" style="width:100%;"></p>
