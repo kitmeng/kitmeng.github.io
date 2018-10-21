@@ -19,14 +19,12 @@ Most car owners do not fully understand the intricacies of these products and se
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
-We started off with language. We got rid of complicated technical jargon and introduced each feature with a question of "What if...?". We wanted our target audience to ask more out of their Mercedes-Benz cars. To see this as more than just status symbol that gets them from A-B.
+We started off with language. We got rid of complicated technical jargon and introduced each feature with a question of "What if...?". We wanted our target audience to ask more out of their Mercedes-Benz cars. To see this as more than just status symbol that gets them from A-B. Next, we designed a simple, intelligent and predictive web app to house this experience.
 </p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
-
-<p>Next, we designed a simple, intelligent and predictive web app experience.</p>
-
 <div class="whitespace-xs"></div>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-me-connect-library/isometric-design.png" alt="" style="width:100%;"></p>
 
