@@ -21,7 +21,7 @@ We created a social online graphic novel, powered and driven by fans. Every like
 </p>
 
 <p>
-**A (graphic) novel approach to recruiting fans.**
+<b>A (graphic) novel approach to recruiting fans.</b>
 </p>
 
 <div class="whitespace-xs"></div>
