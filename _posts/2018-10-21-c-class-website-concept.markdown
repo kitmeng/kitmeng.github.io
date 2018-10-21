@@ -9,7 +9,7 @@ date: 2018-10-21 15:00:00 +08:00
 
 <p>
 <div class="font-semibold">THE CHALLENGE</div>
-Build affinity from this target audience towards the C-Class.
+Build brand affinity from our target audience towards the C-Class.
 </p>
 
 <p>
