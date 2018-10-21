@@ -8,12 +8,12 @@ categories:
 `Web`
 
 <p>
-**THE CHALLENGE**
+<div class="font-semibold">THE CHALLENGE</div>
 Convey the unique personalities of each Dream Car Family car in one cohesive web experience.
 </p>
 
 <p>
-**THE OUTCOME**
+<div class="font-semibold">THE OUTCOME</div>
 For the campaign website, we created different captivating scenarios and environments that correspond with the emotions you get when driving these cars.
 </p>
 
