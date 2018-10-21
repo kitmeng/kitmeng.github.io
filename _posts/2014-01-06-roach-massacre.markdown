@@ -41,18 +41,3 @@ Everyone loathes cockroaches, and gain immense satisfaction from exterminating t
 </p>
 
 <div class="whitespace"></div>
-
-<!--
-<p>
-	<div class="box box-green">Credits</div>
-	<ul class="ul ul-credits">
-		<li>Client : Lexus Malaysia</li>
-		<li>Agency : Saatchi &#38; Saatchi Arachnid</li>
-		<li>Creative Director : Kelvin Wong, Pickers Cheah</li>
-		<li>Art Director : Kit Meng</li>
-		<li>Illustrator : Running Snail Studio</li>
-		<li>Copywriter : Cherry Lee</li>
-		<li>Account Manager : Adeline Quek</li>
-	</ul>	
-</p>
--->

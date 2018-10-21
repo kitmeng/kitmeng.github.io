@@ -24,6 +24,8 @@ We invented brand new fusion dishes created out of unwanted food combinations.
 
 <div class="whitespace-xs"></div>
 
-<!--IMAGES-->
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/dont-mix-your-meals/01.gif" style="width:100%;"></p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/dont-mix-your-meals/02.gif" style="width:100%;"></p>
 
 <div class="whitespace"></div>
