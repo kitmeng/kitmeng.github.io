@@ -6,12 +6,13 @@ categories:
 tags:
 - Art Direction
 - Animation
+Categories: Work
 layout: post
 ---
 
 `Web`
 
-<p>Campaign website for Mercedes-Benz G Class. Art direction, animation lead and design of the mobile-first experience.</p>
+<p>Art direction and animation for the mobile-first experience.</p>
 
 <div class="whitespace-xs"></div>
 
