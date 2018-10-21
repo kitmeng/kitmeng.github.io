@@ -9,13 +9,13 @@ tags:
 layout: post
 ---
 
-`Web` 
+`Web`
 
 <p>Campaign website for Mercedes-Benz G Class. Art direction, animation lead and design of the mobile-first experience.</p>
 
 <div class="whitespace-xs"></div>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-g-class/20.jpg" alt="" style="width:100%;"></p>
+<!--<p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-g-class/20.jpg" alt="" style="width:100%;"></p>-->
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-g-class/01.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-g-class/02.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-g-class/03.jpg" alt="" style="width:100%;"></p>
