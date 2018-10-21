@@ -9,8 +9,7 @@ layout: post
 `Web App`
 
 <p>
-<div class="font-semibold">THE CHALLENGE</div>
-**The ultimate fan deserves the ultimate football companion.**
+<p>**The ultimate fan deserves the ultimate football companion.**</p>
 
 It is your football buddy. Always there to keep you updated with the latest football news, cool facts. It even scores you invites to exclusive Tiger FC viewing parties.
 
