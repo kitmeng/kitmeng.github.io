@@ -15,9 +15,11 @@ We believe Papa John’s pizza, being communal in nature, has the ability to bri
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
-That’s where the Papa John’s ‘Friend Circle’ Mini Program comes in handy. This simple tool allows you to easily set up a gathering with friends, keep track of their responses. In addition, it helps figure out which pizza toppings, flavours they prefer.
+That’s where the Papa John’s ‘Friend Circle’ Mini Program comes in handy. This simple tool allows you to easily set up a gathering with friends, keep track of their responses. In addition, it helps figure out which pizza toppings, flavours they prefer.\
+</p>
 
-<br><br><b>A better way to bring friends together.</b>
+<p>\
+**A better way to bring friends together.**
 </p>
 
 <div class="whitespace-xs"></div>
