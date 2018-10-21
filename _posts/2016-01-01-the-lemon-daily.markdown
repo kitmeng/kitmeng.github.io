@@ -8,11 +8,17 @@ layout: post
 
 `Social`
 
-<!--<div class="box box-purple">Description</div>-->
+<p>
+<div class="font-semibold">THE CHALLENGE</div>
+Tiger Radler needed a way to increase their fans count and boost social engagement.
+</p>
 
-<p class="textindent">'The Lemon Daily' puts a refreshing spin on real world news. One of the favourite projects I worked on.</p>
-
-To see more, <a href="https://www.facebook.com/TigerBeerMY/app/511315475725805/" target="_blank"><b>click here</b></a>
+<p>
+<div class="font-semibold">THE OUTCOME</div>
+The idea was to put a refreshing spin on news and culture by incorporating the brand into relevant, contextual pieces of social content.
+</p>\
+\
+<i class="em em-link"></i><a href="https://www.facebook.com/TigerBeerMY/app/511315475725805/" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b>❯ See more GIFs</b></a>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/Masthead.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/01.gif" alt="" style="width:100%;"></p>
@@ -25,6 +31,6 @@ To see more, <a href="https://www.facebook.com/TigerBeerMY/app/511315475725805/"
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/08.gif" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/09.gif" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/10.gif" alt="" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/FB+Tab.jpg" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lemon-daily/FB\+Tab.jpg" alt="" style="width:100%;"></p>
 
 <div class="whitespace"></div>
