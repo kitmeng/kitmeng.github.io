@@ -15,6 +15,8 @@ layout: post
 
 Here are a list of my favourite tools to plan and organise my work + life goals.
 
+<div class="whitespace-xs"></div>
+
 <span style="color:#026AA7;">**Trello** → </span> I am completely obsessed with this productivity tool. I use Trello for everything, from setting personal life goals, to recording down ✈ travel plans.
 
 **<span style="color:#20a48d;">S</span><span style="color:#40113f;">l</span><span style="color:#e6176f;">a</span><span style="color:#edb524;">c</span><span style="color:#78971f;">k</span>** → Like e-mail on steroids. Besides that, I mostly love the extensions I can add to the main app functionality.(e.g. RSS reader for advertising news)
