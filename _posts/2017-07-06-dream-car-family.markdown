@@ -15,7 +15,9 @@ Convey the unique personalities of each Dream Car Family car in one cohesive web
 <p>
 <div class="font-semibold">THE OUTCOME</div>
 For the campaign website, we created different captivating scenarios and environments that correspond with the emotions you get when driving these cars.
-</p>
+</p>\
+\
+<div class="whitespace-xs"></div>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/00c.jpg" alt="" style="width:100%;"></p>\
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/01a.jpg" alt="" style="width:100%;"></p>\
