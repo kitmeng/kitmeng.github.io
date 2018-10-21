@@ -17,6 +17,7 @@ Lexus needed a way to increase their fans count and boost social engagement.
 <div class="font-semibold">THE OUTCOME</div>
 The idea was to create an experience that true fans can be a part of.
 
+<p>
 We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.
 </p>
 
@@ -37,6 +38,8 @@ We created a social online graphic novel, powered and driven by fans. Every like
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/05.png" style="width:100%;"></p>
 
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/pg-04.jpg" style="width:100%;"></p>
+
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/06.png" style="width:100%;"></p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/07.png" style="width:100%;"></p>
@@ -50,6 +53,8 @@ We created a social online graphic novel, powered and driven by fans. Every like
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/11.png" style="width:100%;"></p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/12.png" style="width:100%;"></p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/the-lexus-chronicles/pg-end.jpg" style="width:100%;"></p>
 
 <!--
 <p>
