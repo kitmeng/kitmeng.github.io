@@ -1,5 +1,5 @@
 ---
-title: MINI Social Postings
+title: MINI Social
 date: 2014-01-01 08:00:00 +08:00
 categories:
 - Work
@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-`Design` `Writing`
+`Social`
 
 <!--<div class="box box-purple">Description</div>-->
 
