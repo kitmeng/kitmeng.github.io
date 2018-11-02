@@ -1,5 +1,5 @@
 ---
-title: C-Class Website Concept
+title: C-Class Concept
 date: 2018-10-29 15:00:00 +08:00
 ---
 
