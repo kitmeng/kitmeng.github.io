@@ -1,5 +1,5 @@
 ---
-title: TIME Fibre Broadband Concept
+title: TIME Fibre Broadband
 date: 2018-10-21 14:44:00 +08:00
 categories:
 - Work
@@ -7,7 +7,7 @@ Field name:
 layout: post
 ---
 
-`Mini Program`
+`Mini Program` `Concept`
 
 <p>
 With Astro IPTV-TIME lightning speed internet, loading bars will be a thing of the past. We ask the question, “Where will they go now?” “What will they do?”
