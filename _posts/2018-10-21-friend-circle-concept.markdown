@@ -1,12 +1,12 @@
 ---
-title: Papa John's Friend Circle Concept
+title: Papa John's Friend Circle
 date: 2018-10-21 14:48:00 +08:00
 categories:
 - Work
 layout: post
 ---
 
-`Mini Program`
+`Mini Program` `Concept`
 
 <p>
 <div class="font-semibold">THE CHALLENGE</div>
