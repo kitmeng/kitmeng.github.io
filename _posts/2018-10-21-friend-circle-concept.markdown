@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-`Mini Program`
+`Mini Program` `Concept`
 
 <p>
 <div class="font-semibold">THE CHALLENGE</div>
