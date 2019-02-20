@@ -1,5 +1,5 @@
 ---
-title: Don't mix your meals
+title: Don't Mix Your Meals
 date: 2018-10-25 08:00:00 +08:00
 categories:
 - Work
