@@ -8,8 +8,7 @@ categories:
 `Web`
 
 <p>
-<div class="font-semibold">THE CHALLENGE</div>
-Convey the unique personalities of each Dream Car Family car in one cohesive web experience.
+<div class="font-semibold">**A visual intepretation of each car’s unique personality and attributes.**</div>
 </p>
 
 <p>
