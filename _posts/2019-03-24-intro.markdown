@@ -7,6 +7,6 @@ Field name:
 layout: post
 ---
 
-> # Hi! I'm Kit Meng, a multi-disciplinary designer, writer, and assembler of stellar teams. She’s devoted to advancing typographic practice across all design disciplines and runs the Font Review Journal, a project devoted to examining the intersection of typeface design and the way type is used by designers. ▼
+> Hi! I'm Kit Meng, a multi-disciplinary designer, writer, and assembler of stellar teams. She’s devoted to advancing typographic practice across all design disciplines and runs the Font Review Journal, a project devoted to examining the intersection of typeface design and the way type is used by designers. ▼
 
 <div class="whitespace"></div>
