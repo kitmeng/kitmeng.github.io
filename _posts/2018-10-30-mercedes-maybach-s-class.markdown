@@ -14,7 +14,7 @@ layout: post
 
 </div>
 
-We crafted the website with traditional Chinese calligraphic illustrations, thoughtful animations and a custom soundtrack to complete the experience.
+We combined chinese calligraphy, illustrations, thoughtful animations and a custom soundtrack to create a complete experience.
 
 <div class="whitespace-xs"></div>
 
