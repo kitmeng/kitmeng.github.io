@@ -1,5 +1,5 @@
 ---
-title: Maybach S-Class
+title: Maybach Web
 date: 2018-10-30 17:10:00 +08:00
 categories:
 - Work
@@ -9,10 +9,12 @@ layout: post
 `Web`
 
 <div class="font-semibold">
+
 # Depicting how the honorable man views the world - with the highest respect.
+
 </div>
 
-We crafted the website with traditional Chinese calligraphic illustrations, thoughtful animations and a custom soundtrack to complete the experience.
+We combined chinese calligraphy, illustrations, thoughtful animations and a custom soundtrack to create a complete experience.
 
 <div class="whitespace-xs"></div>
 
@@ -43,8 +45,9 @@ We crafted the website with traditional Chinese calligraphic illustrations, thou
 <p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-06-Test-Drive-Form.jpg?raw=true" alt="" style="width:100%;"></p>
 -->
 
-<p>Experience the full website in the link below.</p>
+<!--<p>Experience the full website in the link below.</p>
 
-<i class="em em-link"></i><a href="https://special.mercedes-benz.com.cn/maybach/" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b>❯ Live Link</b></a>
+<i class="em em-link"></i><a href="https://special.mercedes-benz.com.cn/maybach/" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b>❯ Live Link</b></a>\
+-->
 
 <div class="whitespace"></div>

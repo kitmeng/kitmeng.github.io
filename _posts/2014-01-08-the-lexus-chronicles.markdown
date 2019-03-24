@@ -8,18 +8,11 @@ layout: post
 
 `Social`
 
-<p>
-<div class="font-semibold">THE CHALLENGE</div>
-Lexus needed a way to increase their fans count and boost social engagement. 
-</p>
+<div class="font-semibold">**A (graphic) novel approach to recruiting fans.**</div>
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
-The idea was to create an experience that true fans can be a part of.
-
-We created a social online graphic novel, powered and driven by fans. Every like, comment and share contributed towards, and decided the story. Fans even got to name one of the characters.
-
-<p><b>A (graphic) novel approach to recruiting fans.</b></p>
+We created a social graphic novel driven by the fans. Hosted on Facebook, every like, comment and share contributed towards and decided the story.
 </p>
 
 <div class="whitespace-xs"></div>

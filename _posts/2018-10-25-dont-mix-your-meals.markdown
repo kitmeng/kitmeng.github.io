@@ -9,18 +9,12 @@ layout: post
 
 `Social`
 
-<p>Seemingly clean dishes may still harbour remnants of previous meals when not properly washed.
+<p>
+<div class="font-semibold">**Convincing people to take a no-compromise approach to dish washing.**</div>
 </p>
 
 <p>
-<div class="font-semibold">THE CHALLENGE</div>
-Convince our target audience to take a no compromise approach to this issue and make the switch to SIEMENS’ dishwashers?
-</p>
-
-<p>
-<div class="font-semibold">THE OUTCOME</div>
-Inefficient cleaning of dishes results in unsavoury food combinations.
-We invented brand new fusion dishes created out of unwanted food combinations.
+Inefficient cleaning of dishes results in unsavoury food combinations. To convince people to take a no-compromise approach to dish washing, we invented fictional dishes created out of food remnants left on unclean dishes.
 </p>
 
 <div class="whitespace-xs"></div>
