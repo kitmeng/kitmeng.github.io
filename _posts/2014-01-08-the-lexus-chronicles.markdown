@@ -8,10 +8,7 @@ layout: post
 
 `Social`
 
-<p>
-<div class="font-semibold">THE CHALLENGE</div>
-Lexus needed a way to increase their fans count and boost social engagement. 
-</p>
+<div class="font-semibold">**A (graphic) novel approach to recruiting fans.**</div>
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
