@@ -28,6 +28,6 @@ For the campaign website, we created different captivating scenarios and environ
 
 <p>To view the rest of the cars and animations, please visit the live website.</p>
 
-<i class="em em-link"></i><a href="https://special.mercedes-benz.com.cn/2018-dream-car/" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b>❯ Live Link</b></a>
+<i class="em em-link"></i><a href="https://special.mercedes-benz.com.cn/2018-dream-car/" style="border-bottom: 1px dotted #2699F1; color: #2699F1;" target="_blank"><b>📎 Live Link</b></a>
 
 <div class="whitespace"></div>
