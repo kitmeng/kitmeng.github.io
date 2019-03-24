@@ -9,7 +9,7 @@ layout: post
 `Web`
 
 <div class="font-semibold">
-**Depicting how the honorable man views the world - with the highest respect.**
+# Depicting how the honorable man views the world - with the highest respect.
 </div>
 
 We crafted the website with traditional Chinese calligraphic illustrations, thoughtful animations and a custom soundtrack to complete the experience.
