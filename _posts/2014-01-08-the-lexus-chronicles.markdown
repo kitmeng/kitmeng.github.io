@@ -8,7 +8,7 @@ layout: post
 
 `Social`
 
-<div class="font-semibold">**A (graphic) novel approach to recruiting fans.**</div>
+<div style="font-family:Montserrat-Thin; font-size:2em; line-height:150%;">A (graphic) novel approach to recruiting fans.</div>
 
 <p>
 <div class="font-semibold">THE OUTCOME</div>
