@@ -7,9 +7,7 @@ categories:
 
 `Web`
 
-<p>
-<div style="font-family:Montserrat-Thin; font-size:2em; line-height:150%;">A visual intepretation of each car’s unique personality and attributes.</div>
-</p>
+<h2>A visual intepretation of each car’s unique personality and attributes.</h2>
 
 <p>
 We created different captivating scenarios and environments that correspond with the emotions you feel when driving these cars.
