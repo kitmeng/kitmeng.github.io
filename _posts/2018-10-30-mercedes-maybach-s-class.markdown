@@ -1,5 +1,5 @@
 ---
-title: Maybach Web
+title: Maybach
 date: 2018-10-30 17:10:00 +08:00
 categories:
 - Work
