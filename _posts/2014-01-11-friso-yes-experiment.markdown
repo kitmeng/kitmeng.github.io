@@ -1,10 +1,13 @@
 ---
 title: The Yes Experiment
 date: 2014-01-11 08:00:00 +08:00
-categories: Work
-slug: the-yes-experiment
+published: false
+categories:
+- Work
 layout: post
 ---
+
+`Web`
 
 <!--<div class="box box-purple">Description</div>-->
 

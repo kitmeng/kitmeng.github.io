@@ -2,7 +2,7 @@
  _    _ _
 | | _(_) |_   _ __ ___   ___ _ __   __ _
 | |/ / | __| | '_ ` _ \ / _ \ '_ \ / _` |
-|   &lt;| | |_  | | | | | |  __/ | | | (_| |
+|    | | |_  | | | | | |  __/ | | | (_| |
 |_|\_\_|\__| |_| |_| |_|\___|_| |_|\__, |
                                    |___/
 </pre>
@@ -19,4 +19,4 @@ Run the following command to check if the build succeed.
 
 Kit Meng's personal Jekyll website.
 
-Copyright 2014 @kitmeng
+Copyright 2018 @kitmeng

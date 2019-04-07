@@ -14,8 +14,9 @@ Description: 'www.kitmeng.com | Designer by day, Asleep by night.
 baseurl: 
 url: http://kitmeng.com
 markdown: kramdown
-paginate: 10
+paginate: 20
 paginate_path: "/page/:num/"
-gems:
-- neat
+plugins:
+  - neat
+  - jekyll-seo-tag
 highlighter: rouge

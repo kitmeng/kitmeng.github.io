@@ -1,8 +1,9 @@
 ---
 title: Tiger Tales
 date: 2016-01-01 08:00:00 +08:00
-categories: Work
-slug: tiger-tales
+published: false
+categories:
+- Work
 layout: post
 ---
 
