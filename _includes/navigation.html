@@ -1,0 +1,17 @@
+<nav id="site-nav" data-shift-nav>
+  <ul>
+    {% for post in paginator.posts %}
+      {% if post.title %}
+        <li class="{% if forloop.first %}active{% endif %}">
+          <a href="#{{ post.slug }}" title="{{ post.title }}">{{ post.title | truncate: 30 }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% if paginator.previous_page %}
+    <a class="page_navigator" href="{{ paginator.previous_page_path }}">Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="page_navigator" href="{{ paginator.next_page_path }}">Older</a>
+  {% endif %}
+</nav>
