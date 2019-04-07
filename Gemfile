@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', group: :jekyll_plugins
+gem 'github-pages'
+
+gem 'jekyll'
 
 gem 'bourbon'
 gem 'neat'
+
+gem 'yajl-ruby'
