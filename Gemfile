@@ -8,3 +8,6 @@ gem 'bourbon'
 gem 'neat'
 
 gem 'yajl-ruby'
+
+gem 'jekyll-paginate'
+gem 'jekyll-seo-tag'
