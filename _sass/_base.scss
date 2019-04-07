@@ -33,8 +33,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: 1em;
-    //margin-bottom: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
 }
 
 
@@ -110,17 +109,10 @@ li {
 //  * Blockquotes
 //  */
 blockquote {
-<<<<<<< HEAD
     color: $grey-color;
     border-left: 3px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
-=======
-    color: #828282;
-    border-left: 2px dotted #e8e8e8;
-    padding-left: 2em;
-    font-size: 1em;
->>>>>>> master
     letter-spacing: -1px;
     // font-style: italic;
 
@@ -136,34 +128,18 @@ blockquote {
 //  */
 pre,
 code {
-<<<<<<< HEAD
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-=======
-    font-family: Montserrat-SemiBold, Arial;
-    font-size: 0.7rem;
-    border: 1px solid $grey-color-light;
-    border-radius: 3px;
-    text-transform: uppercase;
->>>>>>> master
     // background-color: #eef;
 }
 
 code {
-<<<<<<< HEAD
     padding: 1px 5px;
 }
 
 pre {
     padding: 8px 12px;
-=======
-    padding: 5px 10px;
-}
-
-pre {
-    padding: 5px 10px;
->>>>>>> master
     overflow-x: scroll;
 
     > code {
