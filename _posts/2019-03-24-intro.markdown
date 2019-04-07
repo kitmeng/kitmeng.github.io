@@ -7,7 +7,10 @@ Field name:
 layout: post
 ---
 
-> Kit Meng. Digital Designer & Developer. See my recent work. ▼
+> 👋 I’m Kit Meng. 
+I craft digital experiences
+for 🖥️ and📱.
+▼
 
 <!--> Hi! I'm Kit Meng, a multi-disciplinary designer, writer, and assembler of stellar teams. She’s devoted to advancing typographic practice across all design disciplines and runs the Font Review Journal, a project devoted to examining the intersection of typeface design and the way type is used by designers. ▼-->
 
