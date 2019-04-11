@@ -2,10 +2,10 @@
 title: Toyota Top 3 Social Posts
 date: 2014-01-02 08:00:00 +08:00
 published: false
-categories: Work
+categories:
+- Work
 tags:
 - Art Direction
-slug: toyota-top-3
 layout: post
 ---
 

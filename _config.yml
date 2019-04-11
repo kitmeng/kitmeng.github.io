@@ -8,14 +8,14 @@ collections:
   posts:
     title: Work
     output: true
-Description: 'www.kitmeng.com | Designer by day, Asleep by night.'
-baseurl:
+Description: www.kitmeng.com | Designer by day, Asleep by night.
+baseurl: 
 url: http://kitmeng.com
 markdown: kramdown
 paginate: 10
 paginate_path: "/page/:num/"
 plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - neat
+- jekyll-paginate
+- jekyll-seo-tag
+- neat
 highlighter: rouge

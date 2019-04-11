@@ -2,8 +2,8 @@
 title: Toyota Raya Isn't Raya Without...
 date: 2014-01-05 08:00:00 +08:00
 published: false
-categories: Work
-slug: toyota-raya-isnt-raya-without
+categories:
+- Work
 layout: post
 ---
 

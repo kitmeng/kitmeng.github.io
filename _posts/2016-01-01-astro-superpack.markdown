@@ -2,8 +2,8 @@
 title: Astro Superpack Website
 date: 2016-01-01 08:00:00 +08:00
 published: false
-categories: Work
-slug: astro-superpack
+categories:
+- Work
 layout: post
 ---
 

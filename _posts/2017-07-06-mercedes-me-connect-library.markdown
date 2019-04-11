@@ -1,8 +1,8 @@
 ---
 title: Mercedes me Connect Library Concept
 date: 2017-07-06 22:53:00 +08:00
-slug: mercedes-me-connect-library
-categories: Work
+categories:
+- Work
 ---
 
 `Web` `Concept`
