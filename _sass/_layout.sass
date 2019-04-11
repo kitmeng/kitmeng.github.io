@@ -7,46 +7,19 @@ $mobile: new-breakpoint(max-width 480px 4)
 $tablet: new-breakpoint(max-width 960px 6)
 $desktop: new-breakpoint(min-width 961px 12)
 
-
-/*HEADLINE*/
-
-/*TITLES*/
-
-p.thick
-  font-weight: bold;
-
-/*CAPTIONS*/
-
-/*LINKS*/
-
-h5 
-  border-bottom: 1px dotted #2699F1;
-  color: #2699F1;
-  margin: 0.5em;
-
-/*CODE*/
-
-
-
-
-
-
-/*HEADLINE*/
-h1
-  font-weight: normal
-  font-size: 2.2em
-  line-height: 1.2em
-
 h2
   font-weight: normal
-  font-size: 2.2em
+  font-size: 2em
   line-height: 1.2em
+  font-family: Montserrat-Bold
 
 h3
   font-weight: normal
   font-size: 0.6em
   text-transform: uppercase
   color: #666
+  font-family: Montserrat-Bold
+  padding-top: 0.5em
 
 h4
   font-weight: normal
@@ -72,17 +45,22 @@ a[href]
     border-bottom: 1px dotted #2699F1
     /*padding-bottom: 3px*/
   &.page_navigator
-    color: #FFF
-    /*border: 1px solid #2699F1*/
-    /*border-color: #2699F1*/
+    color: #000
+    border: 1px solid #2699F1
+    border-color: #2699F1
     position: relative
     overflow: hidden
     display: inline
-    padding: 6px 20px
-    background-color: #cecece
-    border-radius: 3px
+    padding: 5px 20px
+
     /* Blue #2699F1 */
     /* Red #ED3D2D */
+
+.font-bold
+  font-family: Montserrat-Bold
+
+.font-semibold
+  font-family: Montserrat-SemiBold
 
 .container
   @include outer-container(100%)
@@ -99,18 +77,20 @@ a[href]
   position: relative
   transition: all 400ms ease 0s
   right: 0
+  //margin-top: 50px
 
 .content
-  margin: 15% auto 0
-  width: 90%
+  margin: 10% auto 0
+  width: 80%
 
 .about-content
-  margin: 80px auto 50px
+  margin: 5em auto
   width: 90%
 
 .navigation
   @include span-columns(3)
   position: fixed
+  z-index: 1
   top: 6em
   right: em(25px)
   text-align: right
@@ -119,6 +99,7 @@ a[href]
     @include span-columns(4)
     right: -50%
   @include media($mobile)
+    z-index: -1
     @include span-columns(6)
     right: -65%
 
@@ -139,11 +120,13 @@ a[href]
 #site-nav
   ul
     list-style-type: none
+    z-index: -1
     margin-right: em(-40px)
     li
       transition: all 0.6s
       &.active
         @include media($desktop)
+          z-index: 1
           padding-right: em(40px)
         a
           color: #000
@@ -156,11 +139,12 @@ a[href]
 
 .post-list
   list-style-type: none
-  li
-    margin: 30px 0px
+  margin-left: 0
+  li.post-entity
+    margin-bottom: 80px
     &:not(:last-child)
-      padding-bottom: 50px
-      /*border-bottom: 1px dashed #ccc
+      padding-bottom: 80px
+      border-bottom: 1px dashed #ccc
 
 .comments
   margin-bottom: 80px
@@ -181,6 +165,7 @@ a[href]
 
 .shift-nav
   right: 15%
+  z-index: 1
   @include media($mobile)
     right: 20%
 
@@ -193,12 +178,6 @@ a[href]
   right: 42%
   @include media($mobile)
     right: 80%
-
-.whitespace
-  margin-bottom: 0px
-
-.whitespace-small
-  margin-bottom: 20px
 
 .textindent
   text-indent: 2em
@@ -230,3 +209,15 @@ hr.rainbow-line
   width: 100%
   border: none
   transition: all 200ms ease 0s
+
+.whitespace
+  padding: 3em
+
+.whitespace-xs
+  padding: 1em
+
+
+/*images*/
+
+.img-round
+  border-radius: 0.7em
