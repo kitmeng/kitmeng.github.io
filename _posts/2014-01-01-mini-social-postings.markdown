@@ -1,5 +1,5 @@
 ---
-title: MINI Social
+title: MINI Social Postings
 date: 2014-01-01 08:00:00 +08:00
 published: false
 categories:
@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-`Social`
+`Design` `Writing`
 
 <!--<div class="box box-purple">Description</div>-->
 

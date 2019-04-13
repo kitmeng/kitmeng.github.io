@@ -6,38 +6,47 @@ categories:
 layout: post
 ---
 
-`Advergame`
+`Game Design`
 
-<p>The Ridsect Roach Trap is the most effective and mess-free method of dealing with these pesky pests.</p>
-
-<p>
-<div class="font-semibold">THE CHALLENGE</div>
-Everyone loathes cockroaches, and gain immense satisfaction from exterminating them. However, most of us despise the aftermath of cleaning up the mess after they have been squished.
+<p class="textindent">
+	The 'Roach Massacre' advergame was created as a fun way to convey just how effective Ridsect Roach Traps are at getting rid of those pesky cockroaches.
 </p>
 
-<p>
-<div class="font-semibold">THE OUTCOME</div>
-‘Roach Massacre’ is an interactive game that allows gamers to annihilate these dirty buggers, no mess required.
-</p>
-
-<div class="whitespace-xs"></div>
+<p>This project received <b>Merit, Art Direction/Craft</b> and <b>Bronze, Open Category</b> in <b>Kancil Awards 2011</b>.</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/01.jpg" style="width:100%;"></p>
 
-<p>There were 5 different characters in the game, each with their own strengths and abilities.</p>
+There were 5 different characters in the game, each with their own strengths and abilities.
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/02.jpg" style="width:100%;"></p>
 
-<p>Screenshots from the game.</p>
+Screenshots from the game.
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/04.jpg" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/05.jpg" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/roach-massacre/06.jpg" style="width:100%;"></p>
 
-<p>Watch the case study video here.</p>
+Watch the case study video here.
 
+<!--
 <p>
 <iframe src="https://player.vimeo.com/video/87833991?title=0&byline=0&portrait=0" width="100%" height="500px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
+-->
 
 <div class="whitespace"></div>
+
+<!--
+<p>
+	<div class="box box-green">Credits</div>
+	<ul class="ul ul-credits">
+		<li>Client : Lexus Malaysia</li>
+		<li>Agency : Saatchi &#38; Saatchi Arachnid</li>
+		<li>Creative Director : Kelvin Wong, Pickers Cheah</li>
+		<li>Art Director : Kit Meng</li>
+		<li>Illustrator : Running Snail Studio</li>
+		<li>Copywriter : Cherry Lee</li>
+		<li>Account Manager : Adeline Quek</li>
+	</ul>	
+</p>
+-->

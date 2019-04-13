@@ -1,5 +1,5 @@
 ---
-title: Astro Superpack
+title: Astro Superpack Website
 date: 2016-01-01 08:00:00 +08:00
 published: false
 categories:
@@ -9,9 +9,9 @@ layout: post
 
 `Web`
 
-<p>We redesigned the microsite to be more content-focused and easy to navigate.</p>
+<!--<div class="box box-purple">Description</div>-->
 
-<div class="whitespace-xs"></div>
+<p class="textindent">I redesigned the Astro Superpack microsite to be more content-focused and easy to navigate.</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/astro-superpack-microsite/01.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/astro-superpack-microsite/02.jpg" alt="" style="width:100%;"></p>
