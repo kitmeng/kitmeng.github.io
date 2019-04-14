@@ -10,31 +10,37 @@ $desktop: new-breakpoint(min-width 961px 12)
 //POST TITLE FONT
 h2
   font-weight: normal
-  font-size: 2em
-  line-height: 1.2em
+  font-size: 2.5em
+  line-height: 1.25em
   font-family: WorkSans-Bold
 
 //POST TITLE FONT
 h3
   font-weight: normal
-  font-size: 0.6em
-  text-transform: uppercase
-  color: #666
-  font-family: WorkSans-Bold
-  padding-top: 0.5em
+  font-size: 2em
+  line-height: 1.25em
+  font-family: WorkSans-Regular
 
+//COMMENTS TEXT STYLE
 h4
   font-weight: normal
   font-size: 1em
-  text-transform: uppercase
-  color: #666
+  //text-transform: uppercase
+  font-family: WorkSans-Thin
+  border-bottom: 1px dotted #2699F1
+  margin-top: -3%
+  margin-bottom: 5%
 
-//POST TITLE FONT
+//INFO TEXT STYLE
 h5
   font-weight: normal
-  font-size: 2em
+  font-size: 3em
   line-height: 1.2em
   font-family: WorkSans-Bold
+  color: #1653d5
+  //background: -webkit-linear-gradient(#eee, #333)
+  //-webkit-background-clip: text
+  //-webkit-text-fill-color: transparent
 
 img.content
   width: 100%
@@ -84,7 +90,7 @@ a[href]
   //margin-top: 50px
 
 .content
-  margin: 10% auto 0
+  margin: 10% auto
   width: 80%
 
 .about-content
@@ -183,9 +189,6 @@ a[href]
   @include media($mobile)
     right: 80%
 
-.textindent
-  text-indent: 2em
-
 .box
   border: 1px solid #ccc
   position: relative
@@ -219,9 +222,3 @@ hr.rainbow-line
 
 .whitespace-xs
   padding: 1em
-
-
-/*images*/
-
-.img-round
-  border-radius: 0.7em
