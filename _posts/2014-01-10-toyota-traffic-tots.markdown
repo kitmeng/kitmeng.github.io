@@ -6,10 +6,6 @@ categories:
 layout: post
 ---
 
-`Web`
-
-<!--<div class="box box-purple">Description</div>-->
-
 <p class="textindent">'Toyota Traffic Tots' is a programme that educates 6-year-old preschool children along with their educators, guardians and parents about the importance of road safety. Keeping the target audience in mind, the website was designed in a fun and engaging way, filled with bright and cheerful interactive minigames, songs and downloadables.</p>
 
 Visit the live site at <a href="https://www.toyotatraffictots.com.my" target="_blank"><b>www.toyotatraffictots.com.my</b></a>

@@ -7,10 +7,6 @@ categories:
 layout: post
 ---
 
-`Web`
-
-<!--<div class="box box-purple">Description</div>-->
-
 <p class="textindent">I redesigned the Astro Superpack microsite to be more content-focused and easy to navigate.</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/astro-superpack-microsite/01.jpg" alt="" style="width:100%;"></p>

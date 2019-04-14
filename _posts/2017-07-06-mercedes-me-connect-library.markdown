@@ -5,8 +5,6 @@ categories:
 - Work
 ---
 
-`Web` `Concept`
-
 <b>Challenge</b>
 
 Design an intelligent, predictive way to educate existing owners, prospects and sales staff about Mercedes me Connect services.

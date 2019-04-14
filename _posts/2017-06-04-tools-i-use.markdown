@@ -1,7 +1,6 @@
 ---
 title: Tools I use
 date: 2017-06-04 00:19:00 +08:00
-published: false
 categories:
 - Blog
 tags:
@@ -9,8 +8,6 @@ tags:
 Categories: Work
 layout: post
 ---
-
-`Writing`
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/tools-i-use/ilya-pavlov-87472.jpg" alt="" style="width:100%;"></p>
 
