@@ -1,5 +1,5 @@
 ---
-title: (Almost) True Stories
+title: "(Almost) True Stories"
 date: 2017-07-06 22:53:00 +08:00
 categories:
 - Work
