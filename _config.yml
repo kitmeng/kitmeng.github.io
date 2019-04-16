@@ -12,7 +12,7 @@ Description: www.kitmeng.com | I create digital experiences for the Web.
 baseurl: 
 url: http://kitmeng.com
 markdown: kramdown
-paginate: 30
+paginate: 5
 paginate_path: "/page/:num/"
 plugins:
 - jekyll-paginate
