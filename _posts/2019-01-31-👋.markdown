@@ -14,7 +14,7 @@ I craft digital
 experiences<br>
 for 🖥️ and📱.</h5>
 
-<!--<h5>▼</h5>-->
+<p style="color:#1653d5;">▼</p>
 
 <div class="whitespace"></div>	
 <!--<img src="https://i.stack.imgur.com/uAEaU.jpg?s=32&g=1"></img>-->
