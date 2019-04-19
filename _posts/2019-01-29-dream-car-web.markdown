@@ -10,6 +10,8 @@ layout: post
 
 <h3>A creative interpretation of each car’s unique personality and attributes.</h3>
 
+<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-06-Test-Drive-Form.jpg?raw=true" alt="" style="width:100%;"></p>
+
 <p>We created unique worlds and environments for each car that change and transform with each touch.</p>
 
 <p>
@@ -18,7 +20,5 @@ layout: post
   Your browser does not support HTML5 video.
 </video>
 </p>
-
-<p><img src="https://github.com/kitmeng/kitmeng.github.io/blob/master/_images/mercedes-maybach-s-class/-06-Test-Drive-Form.jpg?raw=true" alt="" style="width:100%;"></p>
 
 <div class="whitespace"></div>
