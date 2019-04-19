@@ -15,8 +15,8 @@ layout: post
 <p>We created unique worlds and environments for each car that change and transform with each touch.</p>
 
 <p>
-<video width="100%" controls>
-  <source src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/video.mp4#t=0.5" type="video/mp4">
+<video width="100%" poster="placeholder.png" controls>
+  <source src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/video.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 </p>
