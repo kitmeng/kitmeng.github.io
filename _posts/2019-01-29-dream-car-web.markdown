@@ -16,7 +16,7 @@ layout: post
 
 <p>
 <video width="100%" controls>
-  <source src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/video.mp4" type="video/mp4">
+  <source src="https://s3.amazonaws.com/kitmeng.com/img/dream-car-family-website/video.mp4#t=0.5" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 </p>
