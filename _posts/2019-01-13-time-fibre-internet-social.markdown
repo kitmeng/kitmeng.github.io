@@ -5,7 +5,7 @@ categories:
 - Work
 ---
 
-`Social`
+`Social` `Concept`
 
 <h3>With internet speeds so fast, loading bars are out of a job.</h3>
 

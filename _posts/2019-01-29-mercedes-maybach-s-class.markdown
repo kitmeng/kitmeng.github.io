@@ -10,7 +10,7 @@ layout: post
 
 <h3>Depicting how the honorable man views the world - with the highest respect.</h3>
 
-<p>We combined chinese calligraphy and illustrations, thoughtful animations and a custom soundtrack to create a cohesive experience.</p>
+<p>We combined chinese calligraphy and illustrations, thoughtful animations and a custom soundtrack to create a cohesive web experience.</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/mercedes-maybach-s-class/00.gif" alt="" style="width:100%;"></p>
 
