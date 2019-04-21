@@ -1,6 +1,6 @@
 ---
 title: The Lexus Chronicles
-date: 2019-01-20 22:53:00 +08:00
+date: 2019-01-04 22:53:00 +08:00
 categories:
 - Work
 ---
