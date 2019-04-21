@@ -8,7 +8,7 @@ collections:
   posts:
     title: Work
     output: true
-Description: www.kitmeng.com | I create digital experiences for the Web.
+description: www.kitmeng.com | I create digital experiences for the Web.
 baseurl: 
 url: http://kitmeng.com
 markdown: kramdown
