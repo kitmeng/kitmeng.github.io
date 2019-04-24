@@ -1,0 +1,17 @@
+---
+title: "<!--\U0001F44B-->"
+date: 1990-10-10 00:00:00 +08:00
+categories:
+- Work
+layout: post
+---
+
+<div class="whitespace"></div>
+
+
+<h5>👋 I’m Kit Meng. <br>
+I craft digital
+experiences<br>
+for 🖥️ and📱.</h5>
+
+<div class="whitespace"></div>
