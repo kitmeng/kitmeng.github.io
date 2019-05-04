@@ -5,6 +5,8 @@ categories:
 - Work
 ---
 
+`Social`
+
 <h3>Social content creation for MINI Malaysia’s Facebook page.</h3>
 
 <p>I addition to designing the visuals, I wrote the copy and thought of content ideas.</p>

@@ -5,7 +5,7 @@ categories:
 - Work
 ---
 
-`Game Design`
+`Game`
 
 <h3>The most satisfying and mess-free method of annihilating those pesky roaches.</h3>
 
