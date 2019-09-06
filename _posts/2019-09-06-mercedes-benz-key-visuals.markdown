@@ -13,12 +13,4 @@ date: 2019-09-06 11:42:00 +08:00
 
 <h4>▲ A simple swipe guides the user through the story.</h4>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/01.png" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/02.jpg" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/03.jpg" alt="" style="width:100%;"></p>
-
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/04.jpg" alt="" style="width:100%;"></p>
-
 <div class="whitespace"></div>
