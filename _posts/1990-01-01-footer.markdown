@@ -1,0 +1,13 @@
+---
+title: "<!--\U0001F44B-->"
+date: 1990-01-01 00:00:00 +08:00
+categories:
+- Work
+layout: post
+---
+
+<div class="whitespace"></div>
+
+<h6 style="text-align: center;">🙏<br>Thank you for viewing. <br>This web experience was designed by <a href="http://www.kitmeng.com/">Kit Meng,</a> and developed by <a href="https://github.com/shinnyx" target="new">Shinn.</a></h6>
+
+<div class="whitespace"></div>

@@ -1,0 +1,26 @@
+---
+title: "<!--\U0001F44B-->"
+date: 2019-02-01 00:00:00 +08:00
+categories:
+- Work
+layout: post
+---
+
+<div class="whitespace"></div>
+
+
+<h5>👋 I’m Kit Meng. <br>
+I craft digital
+experiences<br>
+for 🖥️ and📱.</h5>
+
+<ul id="social-links">
+	<li><a href="https://www.behance.net/kitmeng" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_behance.png" width="40px;"></a></li>
+	<li><a href="https://www.linkedin.com/in/kitmeng/" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_linkedin.png" width="40px;"></a></li>
+	<li><a href="mailto:kitmeng@live.com" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_email.png" width="40px;"></a></li>
+</ul>
+
+<p style="color:#1653d5;">▼</p>
+
+<div class="whitespace"></div>	
+<!--<img src="https://i.stack.imgur.com/uAEaU.jpg?s=32&g=1"></img>-->

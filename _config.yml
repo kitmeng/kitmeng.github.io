@@ -8,11 +8,12 @@ collections:
   posts:
     title: Work
     output: true
-Description: www.kitmeng.com | I create digital experiences for the Web.
+site:
+  description: www.kitmeng.com | I create digital experiences for the Web.
 baseurl: 
 url: http://kitmeng.com
 markdown: kramdown
-paginate: 10
+paginate: 20
 paginate_path: "/page/:num/"
 plugins:
 - jekyll-paginate
