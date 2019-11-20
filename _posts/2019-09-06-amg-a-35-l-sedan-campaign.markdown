@@ -6,7 +6,7 @@ published: false
 
 `Campaign` `Print` `TVC`
 
-<h3>True strength is effortless.</h3>
+<h3>Welcome to the Club.</h3>
 
 <p>We used a simple interaction to tell the story of how the GLE overcome various challenging obstacles effortlessly. Ideation, art direction, design, animation and development supervison for the mobile web experience.</p>
 
