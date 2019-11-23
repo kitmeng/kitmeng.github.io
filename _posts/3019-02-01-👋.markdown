@@ -8,7 +8,6 @@ layout: post
 
 <div class="whitespace"></div>
 
-
 <h5>👋 I’m Kit Meng. <br>
 I craft digital
 experiences<br>
