@@ -9,9 +9,9 @@ layout: post
 
 `Print`
 
-<h3>True</h3>
+<!--<h3>True</h3>-->
 
-<p>We used a simple interaction to tell the story of how the GLE overcome various challenging obstacles effortlessly. Ideation, art direction, design, animation and development supervison for the mobile web experience.</p>
+<p>2019 marked my first year trying my hand at designing</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/01.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/02.jpg" alt="" style="width:100%;"></p>
