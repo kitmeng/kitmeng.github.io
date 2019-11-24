@@ -5,7 +5,7 @@ date: 2019-11-23 16:07:00 +08:00
 
 `TVC`
 
-<h3>Roger Federer's 2019 Shanghai Travelogue, as seen through his eyes.</h3>
+<h3>Shanghai, as seen through Roger Federer's eyes.</h3>
 
 <p>We were tasked to create interesting, relevant and sharable social content for V-Class, in conjunction with Roger Federer's participation at the 2019 Shanghai ATP Masters.</p>
 
