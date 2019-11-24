@@ -13,7 +13,7 @@ date: 2019-11-23 16:07:00 +08:00
 
 <p>Shot through a first person's perspective, we aimed to capture Roger's amazing reactions to his unique Shanghai experience, and also to show viewers a personal view towards V-Class' spaciousness.</p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/01.gif" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-v-class-roger-federer/01_1.mp4" alt="" style="width:100%;"></p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-v-class-roger-federer/02_1.mp4" alt="" style="width:100%;"></p>
 
