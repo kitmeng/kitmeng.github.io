@@ -15,7 +15,7 @@ date: 2019-11-23 16:07:00 +08:00
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/01.gif" alt="" style="width:100%;"></p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/01.gif" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-v-class-roger-federer/02_1.mp4" alt="" style="width:100%;"></p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-v-class-roger-federer/03_1.mp4" alt="" style="width:100%;"></p>
 
