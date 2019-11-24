@@ -10,9 +10,9 @@ published: false
 
 <p>We were tasked to create interesting, relevant and sharable social content for V-Class, in conjunction with Roger Federer's participation at the 2019 Shanghai ATP Masters.
 
-We came up with the concept of "Roger Federer's 2019 Shanghai Travelogue" in order to highlight V-Class features in an organic way. Within the short span of 10 hours, we captured Roger Federer's immersive Shanghai's rich culture.
+We came up with the concept of "Roger Federer's 2019 Shanghai Travelogue" in order to highlight V-Class features in an organic way. Within the short span of 10 hours, we captured Roger Federer's unique perspective of immersive Shanghai's rich culture.
 
-Seeing that Roger Federer was participating in the Shanghai ATP Masters tournament, </p>
+We used a first person's perspective method to capture his </p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/gle-web/01.gif" alt="" style="width:100%;"></p>
 
