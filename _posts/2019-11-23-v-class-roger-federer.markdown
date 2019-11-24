@@ -5,7 +5,7 @@ date: 2019-11-23 16:07:00 +08:00
 
 `TVC`
 
-<h3>T</h3>
+<!--<h3></h3>-->
 
 <p>We were tasked to create interesting, relevant and sharable social content for V-Class, in conjunction with Roger Federer's participation at the 2019 Shanghai ATP Masters.</p>
 
