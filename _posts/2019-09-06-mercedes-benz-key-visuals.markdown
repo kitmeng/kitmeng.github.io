@@ -21,5 +21,6 @@ layout: post
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/02.jpg" alt="" style="width:100%;"></p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/06.jpg" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/07.jpg" alt="" style="width:100%;"></p>
 
 <div class="whitespace"></div>
