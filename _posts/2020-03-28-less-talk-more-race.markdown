@@ -1,10 +1,10 @@
 ---
-title: Less Talk More Race
+title: AMG GT Family Web
 date: 2020-03-28 14:30:00 +08:00
 ---
 
 `Web`
 
-<h3>Performance speaks for itself.</h3>
+<h3>Less Talk, More Race.</h3>
 
-<p>The Mercedes-AMG GT Family are a .................</p>
+<p>Performance speaks for itself. The Mercedes-AMG GT Family are a .................</p>
