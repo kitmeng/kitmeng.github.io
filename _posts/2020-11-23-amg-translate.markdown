@@ -9,9 +9,9 @@ date: 2020-11-23 16:07:00 +08:00
 
 <p>Life doesn’t stop for you to leave your mark on it -
 every moment is something beautiful just waiting to happen.
-Just take control of life and go all in.
+Just take control of life and go all in.</p>
 
-Just like the ball is for the players, the phone is in your hands,
+<p>Just like the ball is for the players, the phone is in your hands,
 letting you take control of life. Use it to live out your full potential.
 Always in play.
 </p>
