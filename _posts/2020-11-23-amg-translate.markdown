@@ -11,7 +11,7 @@ date: 2020-11-23 16:07:00 +08:00
 every moment is something beautiful just waiting for you to make it happen.
 Take control of your life and go all in.</p>
 
-<p>In both the worlds of OPPO and FC Barcelona, the excitement never stops. Just as the ball is the player's outlet for never-ending creativity, that OPPO phone in your hands lets you take control of life, and create beautiful, unforgettable life moments. Use it to live out your full potential.
+<p>For OPPO and FC Barcelona, the excitement never stops. Just as the ball is the player's outlet for never-ending creativity, that OPPO phone in your hands lets you take control of life, and create beautiful, unforgettable life moments. Use it to live out your full potential.
 
 With the OPPO and FC Barcelona partnership, creativity is always in play.
 </p>
