@@ -13,7 +13,7 @@ Take control of your life and go all in.</p>
 
 <p>For OPPO and FC Barcelona, the excitement never stops. Just as the ball is the player's outlet for never-ending creativity, that OPPO phone in your hands lets you take control of life, and create beautiful, unforgettable life moments. Use it to live out your full potential.
 
-With the OPPO and FC Barcelona partnership, creativity is always in play.
+With the OPPO and FC Barcelona partnership, the beauty of life is always in play.
 </p>
 
 <h3>It Starts With A Touch</h3>
