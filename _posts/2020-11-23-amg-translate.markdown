@@ -7,7 +7,9 @@ date: 2020-11-23 16:07:00 +08:00
 
 <h3>Always in Play.</h3>
 
-<p>Life doesn’t stop for you to leave your mark on it - every moment is something beautiful just waiting for you to make it happen. Just take control of your life and go all in.</p>
+<p>Life doesn’t stop for you to leave your mark on it -
+every moment is something beautiful just waiting for you to make it happen.
+Take control of your life and go all in.</p>
 
 <p>Just as the ball for FC Barcelona players, and the OPPO phone in your hands, both of them let you take control of life, and create beautiful, unforgettable life moments. Use it to live out your full potential.
 </p>
