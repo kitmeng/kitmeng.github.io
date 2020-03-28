@@ -3,7 +3,7 @@ title: OPPO ╳ FC Barcelona Campaign
 date: 2020-11-23 16:07:00 +08:00
 ---
 
-`Campaign``Concept`
+`Campaign` `Concept`
 
 <h3>Always in Play.</h3>
 
