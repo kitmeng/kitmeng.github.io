@@ -12,7 +12,7 @@ date: 2020-11-23 16:07:00 +08:00
 <p>Just as the ball for FC Barcelona players, and the OPPO phone in your hands, both of them let you take control of life, and create beautiful, unforgettable life moments. Use it to live out your full potential.
 </p>
 
-<h3>Activations</h3>
+<h3>It Starts With A Touch</h3>
 <p>Shot through a first person's perspective, we aimed to capture Roger's amazing reactions to his unique Shanghai experience, and also to show viewers a personal view towards V-Class' spaciousness.</p>
 
 <h3>Microsite</h3>
