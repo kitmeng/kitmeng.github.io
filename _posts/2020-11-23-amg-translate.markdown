@@ -23,6 +23,9 @@ With the OPPO and FC Barcelona partnership, the beauty of life is always in play
 
 <p>Shot through a first person's perspective, we aimed to capture Roger's amazing reactions to his unique Shanghai experience, and also to show viewers a personal view towards V-Class' spaciousness.</p>
 
+<h3>Key Visuals</h3>
+<p>A story of how OPPO enables a young Barcelona fan to make the ultimate connection with the club he loves.</p>
+
 <!--<p><video width="100%" preload="metadata" controls="" autostart="0" loop="">
 <source src="https://s3.amazonaws.com/kitmeng.com/img/2019-v-class-roger-federer/01_1.mp4" type="video/mp4">
 Your browser does not support HTML5 video.
