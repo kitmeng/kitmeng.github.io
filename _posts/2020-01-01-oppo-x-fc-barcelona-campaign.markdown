@@ -13,7 +13,9 @@ date: 2020-01-01 21:05:00 +08:00
 
 <div class="awards">*The following ideas were presented as part of a proposed integrated campaign.</div>
 
+<br>
 <div class="whitespace-xs"></div>
+
 
 <!--FILM-->
 <h3>'It Starts With A Touch' Film</h3>
