@@ -5,21 +5,7 @@ date: 2020-01-01 21:05:00 +08:00
 
 `Campaign` `Concept`
 
-<!--<h3>Always in Play.</h3>-->
-<!--<h3>A Beautiful Touch.</h3>-->
 <h3>Beyond the Shot.</h3>
-
-<!--
-<p>
-	Life doesn’t stop for you to leave your mark on it -
-	every moment is something beautiful just waiting for you to make it happen.
-	So, take control of your life and go all in.
-
-	Just as the ball is the player's outlet for never-ending creativity,
-	that OPPO phone in your hands gives you the control to create beautiful, unforgettable life moments.
-	Use it to live out your full potential.
-</p>
--->
 
 <p>
 	Are you just a spectator of the beautiful game? Or do you aspire for more?
