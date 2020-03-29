@@ -31,4 +31,18 @@ date: 2020-01-01 21:05:00 +08:00
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/film-01.jpg" alt="" style="width:100%;"></p>
 <h4>▲ An illustrated reference of where the fan channel content was created.</h4>
 
+<div class="whitespace-xs"></div>
+
+<!--KEY VISUALS-->
+<h3>Key Visuals</h3>
+<p>Some key visual explorations combining parent brand elements, brand colors, and free-flowing, dynamic motion.</p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv01.jpg" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
+<!--<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv03.jpg" alt="" style="width:100%;"></p>-->
+
+
+
+
+
 <div class="whitespace"></div>
