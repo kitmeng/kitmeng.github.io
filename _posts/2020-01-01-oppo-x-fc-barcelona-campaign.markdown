@@ -26,8 +26,7 @@ He decides to start his own fan channel on YouTube. Through the skills he learns
 
 Meanwhile, in a difficult time of FC Barcelona's season, the players manage to chance upon his fan channel. After seeing the fan channel content, they become inspired again and start to perform much better in the next match, with Leo Messi even scoring a hat trick of goals.
 
-After this magnificent result, 
-
+After this magnificent result, the whole team decided to get together to perform a special celebration dedicated to this young fan's fan channel. Finally, we cut out to see the young fan's reaction to this amazing moment in his room. He has made it - he's become the ultimate fan.
 </p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/film-01.jpg" alt="" style="width:100%;"></p>
