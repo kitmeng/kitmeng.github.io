@@ -37,7 +37,7 @@ date: 2020-01-01 21:05:00 +08:00
 <div class="whitespace-xs"></div>
 
 <!--ACTIVATIONS-->
-<h3>Engaging Fans with Digital and On-Ground Activations.</h3>
+<h3>Engaging fans with digital and on-ground activations.</h3>
 
 <!--OFFICIAL FAN PHOTOGRAPHERS-->
 <p>Why don’t we provide them an OPPO smartphone and 30 pre-match special access, to get them to be Official Fan Photographers for FC Barcelona’s home games?
