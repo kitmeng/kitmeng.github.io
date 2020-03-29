@@ -20,7 +20,11 @@ date: 2020-01-01 21:05:00 +08:00
 <!--FILM-->
 <h3>'Beyond a Fan' Film</h3>
 
-<p>The story revolves around a young and shy FC Barcelona fan who has hide his passion for the club, because of his parent's disapproval and lack of understanding. One day, while watching highlights of the latest FC Barcelona match on his OPPO phone, </p>
+<p>The story revolves around a young and shy FC Barcelona fan who has to hide his passion for the club due to his parent's disapproval and lack of understanding. One day, while watching highlights of the latest FC Barcelona match on his OPPO phone, he gets inspired to find an outlet to express this passion.
+
+He decides to start his own fan channel on YouTube. Through the skills he learns off the internet and through the superior creation capabilities of his OPPO phone, he manages to grow his audience and gain a following.
+
+</p>
 
 <p>The story follows how OPPO enables a young FC Barcelona fan to make the ultimate connection with the club he loves.The story follows a young fan........</p>
 
