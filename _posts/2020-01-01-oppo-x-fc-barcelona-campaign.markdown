@@ -1,7 +1,6 @@
 ---
 title: OPPO ╳ FC Barcelona Campaign
 date: 2020-01-01 21:05:00 +08:00
-published: true
 ---
 
 `Campaign` `Concept`
