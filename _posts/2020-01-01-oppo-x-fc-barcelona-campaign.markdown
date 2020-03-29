@@ -7,8 +7,9 @@ date: 2020-01-01 21:05:00 +08:00
 
 <h3>Beyond the Shot.</h3>
 
-<p>Are you just a spectator of the beautiful game? Or do you aspire for more? The OPPO and FC Barcelona partnership empowers you to become the ultimate fan.
-Going Beyond the Shot means.
+<p>Are you just a spectator of the beautiful game? Or do you aspire for more?<br>
+The OPPO and FC Barcelona partnership empowers fans to go beyond the shot to become the ultimate fan.
+<br><br>
 The following ideas were presented as part of a proposed integrated campaign.</p>
 
 <div class="whitespace-xs"></div>
@@ -18,7 +19,7 @@ The following ideas were presented as part of a proposed integrated campaign.</p
 <p>The story follows how OPPO enables a young FC Barcelona fan to make the ultimate connection with the club he loves.The story follows a young fan........</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/film-01.jpg" alt="" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/film-02.jpg" alt="" style="width:100%;"></p>
+<h4>All these content were to be housed in the official microsite.</h4>
 
 <div class="whitespace-xs"></div>
 
