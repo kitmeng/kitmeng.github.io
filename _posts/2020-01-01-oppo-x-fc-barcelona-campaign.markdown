@@ -24,7 +24,9 @@ date: 2020-01-01 21:05:00 +08:00
 
 He decides to start his own fan channel on YouTube. Through the skills he learns off the internet and through the superior creation capabilities of his OPPO phone, he manages to grow his audience and gain a following. Soon, his fan channel becomes a viral sensation.
 
+Meanwhile, in a difficult time of FC Barcelona's season, the players manage to chance upon his fan channel. After seeing the fan channel content, they become inspired again and start to perform much better in the next match, with Leo Messi even scoring a hat trick of goals.
 
+After this magnificent result, 
 
 </p>
 
