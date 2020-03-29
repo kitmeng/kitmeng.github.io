@@ -24,7 +24,7 @@ The following ideas were presented as part of a proposed integrated campaign.</p
 
 <!--KEY VISUALS-->
 <h3>Key Visuals</h3>
-<p>Some key visual explorations. Combining parent brand elements, brand colors, and free-flowing, dynamic motion.</p>
+<p>Some key visual explorations combining parent brand elements, brand colors, and free-flowing, dynamic motion.</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv01.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
