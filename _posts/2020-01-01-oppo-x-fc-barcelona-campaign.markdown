@@ -22,7 +22,9 @@ date: 2020-01-01 21:05:00 +08:00
 
 <p>The story revolves around a young and shy FC Barcelona fan who has to hide his passion for the club due to his parent's disapproval and lack of understanding. One day, while watching highlights of the latest FC Barcelona match on his OPPO phone, he gets inspired to find an outlet to express this passion.
 
-He decides to start his own fan channel on YouTube. Through the skills he learns off the internet and through the superior creation capabilities of his OPPO phone, he manages to grow his audience and gain a following.
+He decides to start his own fan channel on YouTube. Through the skills he learns off the internet and through the superior creation capabilities of his OPPO phone, he manages to grow his audience and gain a following. Soon, his channel blows up and becomes a viral sensation.
+
+
 
 </p>
 
