@@ -18,7 +18,10 @@ date: 2020-01-01 21:05:00 +08:00
 
 
 <!--FILM-->
-<h3>'It Starts With A Touch' Film</h3>
+<h3>'Beyond a Fan' Film</h3>
+
+
+
 <p>The story follows how OPPO enables a young FC Barcelona fan to make the ultimate connection with the club he loves.The story follows a young fan........</p>
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/film-01.jpg" alt="" style="width:100%;"></p>
