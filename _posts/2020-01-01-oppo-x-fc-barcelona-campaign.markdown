@@ -1,7 +1,7 @@
 ---
 title: OPPO ╳ FC Barcelona Campaign
 date: 2020-01-01 21:05:00 +08:00
-published: false
+published: true
 ---
 
 `Campaign` `Concept`
@@ -25,7 +25,7 @@ published: false
 <p>
 	Are you just a spectator of the beautiful game? Or do you aspire for more?
 	The OPPO and FC Barcelona partnership empowers you to become the ultimate fan.
-	Going Beyond the Shot means .
+	Going Beyond the Shot means.
 
 	The following ideas were presented as part of a proposed integrated campaign.
 </p>
