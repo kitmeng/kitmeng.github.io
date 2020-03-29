@@ -20,7 +20,7 @@ date: 2020-01-01 21:05:00 +08:00
 <!--FILM-->
 <h3>'Beyond a Fan' Film</h3>
 
-
+<p></p>
 
 <p>The story follows how OPPO enables a young FC Barcelona fan to make the ultimate connection with the club he loves.The story follows a young fan........</p>
 
