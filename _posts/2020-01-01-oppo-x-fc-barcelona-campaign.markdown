@@ -11,7 +11,7 @@ date: 2020-01-01 21:05:00 +08:00
 
 <p>Are you just a spectator of the beautiful game? Or do you aspire for more? The OPPO and FC Barcelona partnership empowers fans to go beyond the shot to become the ultimate fan.
 <br><br>
-The following ideas were presented as part of a proposed integrated campaign.</p>
+*The following ideas were presented as part of a proposed integrated campaign.</p>
 
 <div class="whitespace-xs"></div>
 
