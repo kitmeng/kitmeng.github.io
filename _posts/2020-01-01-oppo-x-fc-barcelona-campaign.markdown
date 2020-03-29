@@ -7,6 +7,8 @@ date: 2020-01-01 21:05:00 +08:00
 
 <h3>Beyond the Shot.</h3>
 
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/partner.jpg" alt="" style="width:100%;"></p>
+
 <p>Are you just a spectator of the beautiful game? Or do you aspire for more? The OPPO and FC Barcelona partnership empowers fans to go beyond the shot to become the ultimate fan.
 <br><br>
 The following ideas were presented as part of a proposed integrated campaign.</p>
@@ -28,7 +30,7 @@ The following ideas were presented as part of a proposed integrated campaign.</p
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv01.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv03.jpg" alt="" style="width:100%;"></p>
+<!--<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv03.jpg" alt="" style="width:100%;"></p>-->
 
 <div class="whitespace-xs"></div>
 
