@@ -44,7 +44,7 @@ This creates organic social content that not just shows off OPPO’s unique USPs
 
 <!--CHILD COMMENTATORS-->
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/a02.jpg" alt="" style="width:100%;"></p>
-<h4>▲ OPPO believes the voices of youth</h4>
+<h4>▲ Beyond a Fan - </h4>
 
 <!--MICROSITE-->
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/a03.jpg" alt="" style="width:100%;"></p>
