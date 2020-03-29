@@ -48,7 +48,7 @@ This creates organic social content that not just shows off OPPO’s unique USPs
 
 <!--MICROSITE-->
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/a03.jpg" alt="" style="width:100%;"></p>
-<h4>▲ All these content were to be housed in the official microsite.</h4>
+<h4>▲ Microsite | All these content were to be housed in the official microsite.</h4>
 
 
 
