@@ -20,7 +20,7 @@ date: 2020-01-01 21:05:00 +08:00
 <!--FILM-->
 <h3>'Beyond a Fan' Film</h3>
 
-<p></p>
+<p>The story revolves around a young and shy FC Barcelona fan who has hide his passion for the club, because of his parent's disapproval of his passion. One day, while watching </p>
 
 <p>The story follows how OPPO enables a young FC Barcelona fan to make the ultimate connection with the club he loves.The story follows a young fan........</p>
 
