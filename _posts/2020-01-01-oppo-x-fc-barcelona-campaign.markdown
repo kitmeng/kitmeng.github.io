@@ -28,6 +28,7 @@ The following ideas were presented as part of a proposed integrated campaign.</p
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv01.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv03.jpg" alt="" style="width:100%;"></p>
 
 <div class="whitespace-xs"></div>
 
