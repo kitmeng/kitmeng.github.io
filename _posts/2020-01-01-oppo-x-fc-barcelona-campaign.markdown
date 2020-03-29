@@ -31,5 +31,4 @@ date: 2020-01-01 21:05:00 +08:00
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/film-01.jpg" alt="" style="width:100%;"></p>
 <h4>▲ An illustrated reference of where the fan channel content was created.</h4>
 
-
 <div class="whitespace"></div>
