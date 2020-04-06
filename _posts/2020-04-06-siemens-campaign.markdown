@@ -33,14 +33,6 @@ date: 2020-04-06 18:20:00 +08:00
 
 <div class="whitespace-xs"></div>
 
-<!--KEY VISUALS-->
-<h3>Key Visuals</h3>
-<p>Some key visual explorations combining parent brand elements, brand colors, and free-flowing, dynamic motion.</p>
-
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv01.jpg" alt="" style="width:100%;"></p>
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
-<!--<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv03.jpg" alt="" style="width:100%;"></p>-->
-
 
 <!--DONT MIX YOUR MEALS-->
 
