@@ -1,7 +1,6 @@
 ---
 title: MINI Social
 date: 2010-01-11 22:53:00 +08:00
-published: false
 categories:
 - Work
 ---
