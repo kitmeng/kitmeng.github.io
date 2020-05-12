@@ -11,8 +11,9 @@ layout: post
 
 <!--<h3>True</h3>-->
 
-<p>Key Visual materials created for various car campaigns over the period of the year 2019.</p>
+<p>Key Visual materials created for various car campaigns.</p>
 
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/08.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/01.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/05.jpg" alt="" style="width:100%;"></p>
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/2019-mb-kv/04.jpg" alt="" style="width:100%;"></p>
