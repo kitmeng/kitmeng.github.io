@@ -41,6 +41,19 @@ date: 2020-01-01 21:05:00 +08:00
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
 <!--<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv03.jpg" alt="" style="width:100%;"></p>-->
 
+<!--KEY VISUALS-->
+<h3>Official Fan Photographers</h3>
+
+<p>In football matches, only the "pro photographers" are allowed on the field to take official pictures of the beautiful game. However, we believe Oppo phones empower fans to capture the beautiful game in their own unique perspective. The idea here is to engage the fans to become the official fan photographers. Every 30 minutes before every FC Barcelona match starts, we equip fans with Oppo Phones to capture the own take on the "beautiful game"</p>
+
+<!--KEY VISUALS-->
+<h3>OPPO Official Fan Photographers</h3>
+<p>So</p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv01.jpg" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
+<!--<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv03.jpg" alt="" style="width:100%;"></p>-->
+
 
 
 
