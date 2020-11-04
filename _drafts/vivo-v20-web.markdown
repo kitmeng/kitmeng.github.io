@@ -9,14 +9,9 @@ date: 2020-10-29 19:02:00 +08:00
 <p>How we helped vivo rethink their prelaunch web experience.</p>
 
 <h3>Understanding their needs</h3>
-<p>How we helped vivo rethink their prelaunch web experience.</p>
+<p>V20 is created for fashion forward youth to be at the forefront of the trends. Being in the midst of a branding refresh, vivo also wanted a new look and human-centric user experiences to reflect in their prelaunch websites.</p>
 
-With vivo undergoing a branding refresh, vivo wanted their prelaunch website to also have a fresh new look and human-centric user experience.
-
-
-VICE is known for its unapologetic take on the news and coverage of underreported stories. Having just given VICE.com a new look to reflect their brand, they wanted the redesign of their mobile experience to follow suit.
-
-The brief was fairly open ended, VICE only had three requirements: 1) deliver a user experience, 2) give people a way to easily personalize their browsing experience, and 3) find a way to appeal to the audience - fashion forward youth. The work would be adapted globally for all overseas markets.
+<p>The brief was fairly open ended, VICE only had three requirements: 1) deliver a user experience, 2) give people a way to easily personalize their browsing experience, and 3) find a way to appeal to the audience - fashion forward youth. The work would be adapted globally for all overseas markets.</p>
 
 
 
