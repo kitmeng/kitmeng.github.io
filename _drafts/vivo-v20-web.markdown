@@ -18,20 +18,11 @@ date: 2020-10-29 19:02:00 +08:00
 <h3>Our Solution</h3>
 <p>V20 is created for fashion forward youth to be in front of the trends. Being in the midst of a branding refresh, vivo wanted a new look and human-centric user experiences to reflect in their prelaunch websites.</p>
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 We knew that VICE’s audience likes to read articles, watch videos, and listen to audio content, so we created designs that would maximize access to a variety of different content types and formats while minimizing the effort required to navigate across tons of tabs and pages. Now, the homepage acts as a hub, where users can discover content from across the network—VICE, VICE News, VICELAND—the works.
 
 The homepage provides a daily dose of fresh content, incentivizing viewers to come back each day to see what’s new.
-
-A fresh take on the news
-How we helped VICE rethink their mobile web experience.
-Expertise
-Design and Interaction
-Platforms
-Web
-Deliverables
-UI, UX and Strategy
-Interested?
-See the result
 
 Understanding the VICE vision
 VICE is known for its unapologetic take on the news and coverage of underreported stories. Having just given VICE.com a new look to reflect their brand, they wanted the redesign of their mobile experience to follow suit.
