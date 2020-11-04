@@ -13,8 +13,14 @@ date: 2020-10-29 19:02:00 +08:00
 
 <p>The brief was fairly open ended, their requirements were: 1) deliver a friendly and seamless user experience, 2) a visually stand out visually look and feel, and 3) communicate in a way that is relatable and appeals to the audience - fashion forward youth. The work would also later be adapted globally for all overseas markets.</p>
 
-https://s3.amazonaws.com/kitmeng.com/img/vivo-V20/VIVO+V20%E9%A2%84%E7%83%AD%E5%8A%A8%E6%95%8808-10+(1).mp4
 
+
+<p>
+<video width="100%"  preload="metadata" controls autoplay loop>
+  <source src="https://s3.amazonaws.com/kitmeng.com/img/vivo-V20/VIVO+V20%E9%A2%84%E7%83%AD%E5%8A%A8%E6%95%8808-10+(1).mp4#t=0.00" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+</p>
 
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/partner.png" alt="" style="width:100%;"></p>
