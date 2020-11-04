@@ -5,7 +5,8 @@ date: 2020-10-29 19:02:00 +08:00
 
 `Web`
 
-<h3>A fresh take on the prelaunch web experience - How we helped vivo rethink their prelaunch web experience.</h3>
+<h3>A fresh take on the prelaunch web experience</h3>
+<p>How we helped vivo rethink their prelaunch web experience.</h3>
 
 <h3>Understanding their needs</h3>
 <p>V20 is created for fashion forward youth to be in front of the trends. Being in the midst of a branding refresh, vivo wanted a new look and human-centric user experiences to reflect in their prelaunch websites.</p>
