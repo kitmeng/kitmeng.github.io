@@ -1,0 +1,48 @@
+---
+title: vivo X50 Web
+date: 2020-05-01 21:05:00 +08:00
+---
+
+`Web` `User Experience`
+
+<!--INTRODUCTION-->
+<h3>v</h3>
+
+<p>Are you just a spectator of the beautiful game? Or do you aspire for more? The OPPO and FC Barcelona partnership empowers fans to go beyond, and become the ultimate fans.</p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/partner.png" alt="" style="width:100%;"></p>
+
+<div class="awards">*The following ideas were presented as part of a proposed integrated campaign.</div>
+
+<br>
+<div class="whitespace-xs"></div>
+
+
+<!--FILM-->
+<h3>'Beyond a Fan' Film</h3>
+
+<p>The story follows how OPPO enables a young FC Barcelona fan to make the ultimate connection with the club he loves.</p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/film-01.jpg" alt="" style="width:100%;"></p>
+<h4>▲ An illustrated reference of where the fan channel content was created.</h4>
+
+<div class="whitespace-xs"></div>
+
+<!--KEY VISUALS-->
+<h3>Key Visuals</h3>
+<p>Some key visual explorations combining parent brand elements, brand colors, and free-flowing, dynamic motion.</p>
+
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv01.jpg" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/kv02.jpg" alt="" style="width:100%;"></p>
+
+<br>
+<div class="whitespace-xs"></div>
+
+
+<!--ACTIVATION-->
+<h3>The Results</h3>
+
+<p>Unique Page Views, Views comapred to entire site, How lonng users stayed, </p>
+
+
+<div class="whitespace"></div>
