@@ -22,14 +22,6 @@ We knew that VICE’s audience likes to read articles, watch videos, and listen 
 
 The homepage provides a daily dose of fresh content, incentivizing viewers to come back each day to see what’s new.
 
-AboutCareersBlogContact
-READ
-READ
-WATCH
-WATCH
-LISTEN
-LISTEN
-
 A fresh take on the news
 How we helped VICE rethink their mobile web experience.
 Expertise
