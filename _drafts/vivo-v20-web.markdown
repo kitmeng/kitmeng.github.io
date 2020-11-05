@@ -11,46 +11,11 @@ date: 2020-10-29 19:02:00 +08:00
 <p>V20’s features were specifically designed to make more of these rare experiences possible.
 </p>
 
-<h3>Understanding their needs</h3>
-<p>Being in the midst of a branding refresh in the direction of human-centric joy, vivo wanted a new look and intuitive user experiences to reflect in their prelaunch web experiences.</p>
-
-<p>The brief was fairly open ended, their requirements were: 1) deliver a friendly and seamless user experience, 2) a unique look and feel, and 3) communicate messages in a way that is relatable and appeals to the audience - fashion forward youth. The work would also later be adapted globally for all overseas markets.</p>
-
 <h3>The Challenge</h3>
 <p>With the phone being in production phase during the creative process, we had limited image materials to work with, had to work within each market's specific requirements, yet deliver a relatable web experience.</p>
 
 <h3>Our Solution</h3>
-<p>V20 target users are creative, follow the latest trends, live in the moment, desire excitement and spontaneity from their life. Beyond specs, V20’s target audience highly prioritise emotional connections between them and their products in their lives. They desire an instant bond upon the first interaction with the product - a rare moment.
-
-We came up with the concept of "Made For Perfect Moments" to capture this feeling. In relating to each phone's feature, we wrote headlines that speak of</p>
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-We knew that VICE’s audience likes to read articles, watch videos, and listen to audio content, so we created designs that would maximize access to a variety of different content types and formats while minimizing the effort required to navigate across tons of tabs and pages. Now, the homepage acts as a hub, where users can discover content from across the network—VICE, VICE News, VICELAND—the works.
-
-The homepage provides a daily dose of fresh content, incentivizing viewers to come back each day to see what’s new.
-
-Understanding the VICE vision
-VICE is known for its unapologetic take on the news and coverage of underreported stories. Having just given VICE.com a new look to reflect their brand, they wanted the redesign of their mobile experience to follow suit.
-
-The brief was fairly open ended, VICE only had three requirements: 1) discover a way to bring all the VICE entities together in one central hub, 2) give people a way to easily personalize their browsing experience, and 3) find a way to appeal to a younger audience. The work would be showcased at CES to generate excitement for the future of VICE on mobile.
-
-
-Read, watch, listen
-We knew that VICE’s audience likes to read articles, watch videos, and listen to audio content, so we created designs that would maximize access to a variety of different content types and formats while minimizing the effort required to navigate across tons of tabs and pages. Now, the homepage acts as a hub, where users can discover content from across the network—VICE, VICE News, VICELAND—the works.
-
-The homepage provides a daily dose of fresh content, incentivizing viewers to come back each day to see what’s new.
-
-
-Personalised content selected by you
-People like to tailor the content they consume in a way that satisfies their unique interests. Most personalization flows take a passive approach to this, serving a wall of topics to choose from. For VICE, we made the experience more interactive. Readers are encouraged to walk through sample articles on each topic and up-vote or down-vote (via emojis) to curate their feed.
-
-After this initial onboarding, people can continue to interact with the content they’ve selected to help VICE learn more about their browsing preferences and offer up smarter suggestions in the future.
-
-The news, socialised
-Think social media is all about selfies and likes? Think again. There’s an entire generation consuming the news via Snapchat and Instagram. To appeal to this younger generation, VICE Stories serves small snippets of shareable, news-related, content featuring VICE influencers and reporters.
-
-Viewers can immerse themselves in the experience with live comments, reactions, and the ability to share with their peers.
+<p>"Perfect Moments" come and go in an instant, yet stay with you forever. We wanted to reflect this feeling in our web experience. In design, we used unexpected layouts, spontaneous flow of content, delightful "pops" of colour, and a storytelling way to convey content. In writing, we linked features and headlines in an emotional and insightful way in relation to these unique experiences.</p>
 
 <p>
 <video width="100%"  preload="metadata" controls autoplay loop>
@@ -58,15 +23,5 @@ Viewers can immerse themselves in the experience with live comments, reactions, 
   Your browser does not support HTML5 video.
 </video>
 </p>
-
-
-
-
-
-
-
-
-<br>
-<div class="whitespace-xs"></div>
 
 <div class="whitespace"></div>
