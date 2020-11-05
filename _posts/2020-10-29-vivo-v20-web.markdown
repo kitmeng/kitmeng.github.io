@@ -12,8 +12,12 @@ layout: post
 <p>V20’s features were specifically designed to make more of these rare experiences possible.
 </p>
 
+<div class="whitespace-xs"></div>
+
 <h3>The Challenge</h3>
 <p>With the phone being in production phase during the creative process, we had limited image materials to work with, had to work within each market's specific requirements, yet deliver a relatable web experience.</p>
+
+<div class="whitespace-xs"></div>
 
 <h3>Our Solution</h3>
 <p>"Perfect Moments" come and go in an instant, yet stay with you forever. We wanted to reflect this feeling in our web experience. In design, we used unexpected layouts, spontaneous flow of content, delightful "pops" of colour, and a storytelling way to convey content. In writing, we linked features and headlines in an emotional and insightful way in relation to these unique experiences.</p>
