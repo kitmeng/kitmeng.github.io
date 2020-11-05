@@ -18,6 +18,8 @@ layout: post
 <h3>Our Solution</h3>
 <p>"Perfect Moments" come and go in an instant, yet stay with you forever. We wanted to reflect this feeling in our web experience. In design, we used unexpected layouts, spontaneous flow of content, delightful "pops" of colour, and a storytelling way to convey content. In writing, we linked features and headlines in an emotional and insightful way in relation to these unique experiences.</p>
 
+<div class="whitespace-xs"></div>
+
 <p>
 <video width="100%"  preload="metadata" controls autoplay loop>
   <source src="https://s3.amazonaws.com/kitmeng.com/img/vivo-V20/VIVO+V20%E9%A2%84%E7%83%AD%E5%8A%A8%E6%95%8808-10+(1).mp4#t=0.00" type="video/mp4">
