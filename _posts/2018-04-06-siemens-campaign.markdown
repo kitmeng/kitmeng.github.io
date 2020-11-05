@@ -1,6 +1,7 @@
 ---
 title: SIEMENS Social
 date: 2018-04-06 18:20:00 +08:00
+layout: post
 ---
 
 `Social`
