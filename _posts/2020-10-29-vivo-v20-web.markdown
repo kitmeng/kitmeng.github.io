@@ -27,6 +27,6 @@ layout: post
 </video>
 </p>
 
-<h4>▲ Web experience demo.</h4>
+<h4>▲ Experience it in action.</h4>
 
 <div class="whitespace"></div>
