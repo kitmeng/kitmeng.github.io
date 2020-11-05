@@ -17,7 +17,9 @@ date: 2020-10-29 19:02:00 +08:00
 <p>With the phone being in production phase during the creative process, we had limited image materials to work with, had to work within each market's specific requirements, yet deliver a relatable web experience.</p>
 
 <h3>Our Solution</h3>
-<p>We came up with the concept of "Made For Perfect Moments" to capture what V20 can bring to people's lives. </p>
+<p>V20 target users are creative, follow the latest trends, live in the moment, desire excitement and spontaneity from their life. Beyond specs, V20’s target audience highly prioritise emotional connections between them and their products in their lives. They desire an instant bond upon the first interaction with the product - a rare moment.
+
+We came up with the concept of "Made For Perfect Moments" to capture this feeling. In relating to each phone's feature, we wrote headlines that speak of</p>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
