@@ -5,8 +5,11 @@ date: 2020-10-29 19:02:00 +08:00
 
 `Web`
 
-<h3>A fresh take on the prelaunch web experience</h3>
-<p>How we helped vivo rethink their prelaunch web experience.</p>
+<h3>Made For Perfect Moments</h3>
+<p>We’ve all experienced it before. Those rare moments in life when everything comes together perfectly to create a perfect moments of joy. These moments can’t be forcefully created, and often come spontaneously and unexpectedly, but leave a lasting impression in people’s lives.
+
+V20’s features were specifically designed to make more of these rare experiences possible.
+</p>
 
 <h3>Understanding their needs</h3>
 <p>Being in the midst of a branding refresh in the direction of human-centric joy, vivo wanted a new look and intuitive user experiences to reflect in their prelaunch web experiences.</p>
