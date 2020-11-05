@@ -17,7 +17,7 @@ date: 2020-10-29 19:02:00 +08:00
 <p>With the phone being in production phase during the creative process, we had limited image materials to work with, had to work within each market's specific requirements, yet deliver a relatable web experience.</p>
 
 <h3>Our Solution</h3>
-<p>In line with V20's character, we came up with the concept of "Made For Perfect Moments". </p>
+<p>We came up with the concept of "Made For Perfect Moments" to capture what V20 can bring to people's lives. </p>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
