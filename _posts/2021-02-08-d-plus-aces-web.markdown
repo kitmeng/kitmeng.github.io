@@ -9,14 +9,14 @@ date: 2021-02-08 21:00:00 +08:00
 
 <p>Are you just a spectator of the beautiful game? Or do you aspire for more? The OPPO and FC Barcelona partnership empowers fans to go beyond, and become the ultimate fans.</p>
 
-<p><img src="https://s3.amazonaws.com/kitmeng.com/img/oppo-fcb/partner.png" alt="" style="width:100%;"></p>
+<p><img src="https://s3.amazonaws.com/kitmeng.com/img/d%2Baces/01.jpg" alt="" style="width:100%;"></p>
 
 <div class="awards">*The following ideas were presented as part of a proposed integrated campaign.</div>
 
 <br>
 <div class="whitespace-xs"></div>
 
-
+<!--
 <!--FILM-->
 <h3>'Beyond a Fan' Film</h3>
 
@@ -52,8 +52,6 @@ date: 2021-02-08 21:00:00 +08:00
 <br>
 <div class="whitespace-xs"></div>
 
-
-
-
+-->
 
 <div class="whitespace"></div>
