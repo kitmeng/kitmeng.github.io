@@ -53,10 +53,7 @@ date: 2021-02-08 21:00:00 +08:00
 <div class="whitespace-xs"></div>
 
 
-<!--ACTIVATION-->
-<h3>Oppo X FC Barcelona Child Commentators</h3>
 
-<p>Oppo and FC Barcelona share the common belief that the voice of the youth is something that deserved to be shared on the largest stage. The idea here is we will pick several lucky youth via a Instagram content to be the official commentator for FC Barcelona's biggest match of the season.</p>
 
 
 <div class="whitespace"></div>
