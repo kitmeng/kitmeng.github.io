@@ -3,9 +3,9 @@ title: D+ACES Web
 date: 2021-02-08 21:00:00 +08:00
 ---
 
-`Campaign` `Concept`
+`UI` `UX`
 
-<h3>Beyond the Shot.</h3>
+<h3>Designing the content platform for the future of driving pleasure</h3>
 
 <p>In a world overcrowded with information, how do we design a progressive and innovative content platform of the future?</p>
 
