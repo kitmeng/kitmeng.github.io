@@ -1,15 +1,16 @@
 ---
 title: vivo Global Web Brand Identity Guidelines
 date: 2020-11-05 10:46:00 +08:00
+published: false
 ---
 
-`UI` `UX`
+`Branding`
 
-<h3>Designing the content platform for the future of driving pleasure</h3>
+<h3>A unified brand iden for a truly global brand</h3>
 
-<p>In a world overcrowded with information, how do we design a progressive and innovative content platform of the future?</p>
+<p>At the forefront of mobile technology and innovation, OPPO’s products enhance the lives of over 300 million people worldwide. Oppo.com is OPPO’s most important platform for online brand image communication, and it’s most important digital marketing channel. However, due to the reliance on a banner-based structure, the site faced several challenges, including difficulty scaling across devices, and a lack of visual consistency across markets.</p>
 
-<p>The art direction was inspired by how BMW’s vision of Future Driving Pleasure connects the dots of innovation towards a progressive future.</p>
+<p>With the redesign of oppo.com, the approach was to build a new design framework that introduced more breathing room around the content. This became our ‘ownable space,’ where we could bring to life OPPO’s unique design aesthetic.</p>
 
 <p>In every design element, transition and animation, we seeked to strike a balance between guided focus and inducing curiosity. Custom made content helped engage the audience and made the experience more immersive.</p>
 
