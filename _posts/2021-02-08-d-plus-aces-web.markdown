@@ -3,7 +3,7 @@ title: D+ACES Web
 date: 2021-02-08 21:00:00 +08:00
 ---
 
-`UI` `UX`
+`UI` `Web`
 
 <h3>Designing the content platform for the future of driving pleasure</h3>
 
