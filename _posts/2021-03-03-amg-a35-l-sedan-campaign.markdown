@@ -3,9 +3,9 @@ title: AMG A35 L Sedan Campaign
 date: 2021-03-03 17:32:00 +08:00
 ---
 
-'UI' 'UX' `Campaign`
+`Campaign`
 
-<h3>Made For Perfect Moments</h3>
+<h3>Welcome To The Club</h3>
 <p>We’ve all experienced it before. Those rare moments in life when everything comes together perfectly to create a perfect moments of joy. These moments can’t be forcefully created, and often come spontaneously and unexpectedly, but leave a lasting impression in people’s lives.</p>
 
 <p>V20’s features were specifically designed to make more of these rare experiences possible.
