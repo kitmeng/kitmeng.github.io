@@ -13,12 +13,10 @@ date: 2021-03-03 17:32:00 +08:00
 
 <div class="whitespace-xs"></div>
 
-<h3>The Film</h3>
-
 <h3>The Campaign Visuals</h3>
 
+<h3>The Film</h3>
 
-<h3>The Challenge</h3>
 <p>With the phone being in production phase during the creative process, we had limited image materials to work with, had to work within each market's specific requirements, yet deliver a relatable web experience.</p>
 
 <div class="whitespace-xs"></div>
