@@ -3,7 +3,7 @@ title: vivo X60 Web
 date: 2021-02-08 21:00:00 +08:00
 ---
 
-'UI' 'UX' `Web` `Writing`
+`Web` `Writing`
 
 <h3>Together, Redefining Photography.</h3>
 <p>We’ve all experienced it before. Those rare moments in life when everything comes together perfectly to create a perfect moments of joy. These moments can’t be forcefully created, and often come spontaneously and unexpectedly, but leave a lasting impression in people’s lives.</p>
