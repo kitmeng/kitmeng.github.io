@@ -7,7 +7,7 @@ date: 2020-11-05 10:46:00 +08:00
 
 <h3>A unified brand identity for a truly global brand</h3>
 
-<p>vivo.com is vivo’s most important platform for online brand image communication and its most important digital marketing channel. However, the site faced several key challenges, most important being a lack of distinct vivo-ownable web visual guidelines.</p>
+<p>vivo.com is vivo’s most important platform for online brand image communication and its most important digital marketing channel. However, the site faced several key challenges, most important being a lack of "vivo-ownable" web Brand Identity guidelines.</p>
 
 <p>With the redesign of oppo.com, the approach was to build a new design framework that introduced more breathing room around the content. This became our ‘ownable space,’ where we could bring to life OPPO’s unique design aesthetic.</p>
 
