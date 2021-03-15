@@ -5,7 +5,7 @@ date: 2020-11-05 10:46:00 +08:00
 
 `Branding`
 
-<h3>A unified brand iden for a truly global brand</h3>
+<h3>A unified brand identity for a truly global brand</h3>
 
 <p>At the forefront of mobile technology and innovation, OPPO’s products enhance the lives of over 300 million people worldwide. Oppo.com is OPPO’s most important platform for online brand image communication, and it’s most important digital marketing channel. However, due to the reliance on a banner-based structure, the site faced several challenges, including difficulty scaling across devices, and a lack of visual consistency across markets.</p>
 
