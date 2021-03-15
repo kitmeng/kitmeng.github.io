@@ -13,7 +13,7 @@ date: 2020-11-05 10:46:00 +08:00
 
 <p><img src="https://s3.amazonaws.com/kitmeng.com/img/d%2Baces/01.jpg" alt="" style="width:100%;"></p>
 
-<div class="awards">*This project is currently in development.</div>
+<!--<div class="awards">*This project is currently in development.</div>-->
 
 <br>
 <div class="whitespace-xs"></div>
