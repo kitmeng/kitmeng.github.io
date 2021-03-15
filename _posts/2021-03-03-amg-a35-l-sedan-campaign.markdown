@@ -1,12 +1,12 @@
 ---
-title: vivo X60 Web
-date: 2021-02-08 21:00:00 +08:00
+title: AMG A35 L Sedan Campaign
+date: 2021-03-03 17:32:00 +08:00
 published: false
 ---
 
-`Web` `Writing`
+`Campaign`
 
-<h3>Together, Redefining Photography.</h3>
+<h3>Welcome To The Club</h3>
 <p>We’ve all experienced it before. Those rare moments in life when everything comes together perfectly to create a perfect moments of joy. These moments can’t be forcefully created, and often come spontaneously and unexpectedly, but leave a lasting impression in people’s lives.</p>
 
 <p>V20’s features were specifically designed to make more of these rare experiences possible.
@@ -14,10 +14,11 @@ published: false
 
 <div class="whitespace-xs"></div>
 
-<h3>The Challenge</h3>
-<p>With the phone being in production phase during the creative process, we had limited image materials to work with, had to work within each market's specific requirements, yet deliver a relatable web experience.
+<h3>The Campaign Visuals</h3>
 
-In the end, the clients ended up choosing our slogan as the campaign line for all digital communications.</p>
+<h3>The Film</h3>
+
+<p>With the phone being in production phase during the creative process, we had limited image materials to work with, had to work within each market's specific requirements, yet deliver a relatable web experience.</p>
 
 <div class="whitespace-xs"></div>
 
