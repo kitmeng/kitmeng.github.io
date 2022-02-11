@@ -10,6 +10,10 @@ layout: post
 <p>Spotify Design recently migrated to Figma. We're excited to open up the music box and describe how we've shaped the tool to suit our needs and culture at Spotify. But in this article, we're not discussing why or how we moved. Instead, this is where we're going to geek out over file structures.</p>
 <div class="whitespace-xs"></div>
 
+<h3>Returning focus back to content.</h3>
+<p>Spotify Design recently migrated to Figma. We're excited to open up the music box and describe how we've shaped the tool to suit our needs and culture at Spotify. But in this article, we're not discussing why or how we moved. Instead, this is where we're going to geek out over file structures.</p>
+<div class="whitespace-xs"></div>
+
 <!--<h4>▲ Experience it in action.</h4>-->
 
 <div class="whitespace-xs"></div>
