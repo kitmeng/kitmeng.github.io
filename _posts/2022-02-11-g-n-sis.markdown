@@ -6,7 +6,7 @@ layout: post
 
 `Campaign`
 
-<h3>Designing an optimized Sketch Workflow for improved teams collaboration.</h3>
+<h3>Designing an optimized Sketch Workflow for improved team collaboration.</h3>
 
 <p>Text here.</p>
 
