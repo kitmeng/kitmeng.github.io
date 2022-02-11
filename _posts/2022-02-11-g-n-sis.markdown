@@ -7,9 +7,7 @@ layout: post
 `Sketch` `Workflow`
 
 <h3>Designing an optimized Sketch Workflow for improved team collaboration.</h3>
-
 <p>Text here.</p>
-
 <div class="whitespace-xs"></div>
 
 <h4>▲ Experience it in action.</h4>
