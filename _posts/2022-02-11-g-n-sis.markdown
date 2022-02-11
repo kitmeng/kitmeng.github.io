@@ -7,7 +7,7 @@ layout: post
 `Sketch` `Workflow`
 
 <h3>Designing an optimized Sketch Workflow for improved team collaboration.</h3>
-<p>Text here.</p>
+<p>Spotify Design recently migrated to Figma. We're excited to open up the music box and describe how we've shaped the tool to suit our needs and culture at Spotify. But in this article, we're not discussing why or how we moved. Instead, this is where we're going to geek out over file structures.</p>
 <div class="whitespace-xs"></div>
 
 <h4>▲ Experience it in action.</h4>
