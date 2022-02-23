@@ -14,13 +14,13 @@ experiences<br>
 for 🖥️ and📱.</h5>
 
 <ul id="social-links">
-	<li><a href="https://www.behance.net/kitmeng" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_behance.png" width="40px;"></a></li>
-	<li><a href="https://www.linkedin.com/in/kitmeng/" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_linkedin.png" width="40px;"></a></li>
-	<li><a href="mailto:kitmeng@live.com" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_email.png" width="40px;"></a></li>
-	<li><a href="https://docs.google.com/presentation/d/1Eg4woq6Np2QFJTI2IJ8Sviuh3S4dWyiIoK06MI5_-28/edit?usp=sharing" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_resume.png" width="40px;"></a></li>
+<li><a href="https://www.behance.net/kitmeng" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_behance.png" width="40px;"></a></li>
+<li><a href="https://www.linkedin.com/in/kitmeng/" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_linkedin.png" width="40px;"></a></li>
+<li><a href="mailto:kitmeng@live.com" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/*common/icon_email.png" width="40px;"></a></li>
+<li><a href="https://docs.google.com/presentation/d/1Eg4woq6Np2QFJTI2IJ8Sviuh3S4dWyiIoK06MI5*-28/edit?usp=sharing" target="new"><img src="https://s3.amazonaws.com/kitmeng.com/img/_common/icon_resume.png" width="40px;"></a></li>
 </ul>
 
 <p style="color:#1653d5;">▼</p>
 
-<div class="whitespace"></div>	
+<div class="whitespace"></div>\
 <!--<img src="https://i.stack.imgur.com/uAEaU.jpg?s=32&g=1"></img>-->
