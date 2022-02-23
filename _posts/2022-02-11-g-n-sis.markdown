@@ -1,10 +1,10 @@
 ---
-title: GENESIS Social
+title: GENESIS Social Playbook
 date: 2022-02-11 15:01:00 +08:00
 layout: post
 ---
 
-`Sketch` `Workflow` `Systems`
+`Sketch` `UI,UX` `Systems`
 
 <h3>Designing an optimized Sketch Workflow for improved team collaboration.</h3>
 <p>Spotify Design recently migrated to Figma. We're excited to open up the music box and describe how we've shaped the tool to suit our needs and culture at Spotify. But in this article, we're not discussing why or how we moved. Instead, this is where we're going to geek out over file structures.</p>
