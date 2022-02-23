@@ -1,6 +1,7 @@
 ---
 title: AIIB Web 2.0
 date: 2021-02-08 21:05:00 +08:00
+published: false
 ---
 
 'UI' 'UX' `Web` `Writing`
