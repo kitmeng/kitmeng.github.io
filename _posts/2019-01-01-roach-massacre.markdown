@@ -1,7 +1,6 @@
 ---
 title: Roach Massacre
 date: 2019-01-01 22:53:00 +08:00
-published: false
 categories:
 - Work
 ---

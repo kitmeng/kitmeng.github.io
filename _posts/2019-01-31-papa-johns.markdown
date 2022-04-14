@@ -1,7 +1,6 @@
 ---
 title: Papa John's Campaign
 date: 2019-01-31 08:00:00 +08:00
-published: false
 categories:
 - Work
 layout: post
